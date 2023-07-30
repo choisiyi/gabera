@@ -1,0 +1,815 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://jamba7.egloos.com/6182591 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=11">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+
+<meta name="author" content="가베라">
+<meta name="keywords" content="마미 블로그 였던 것">
+    <meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@egloos_zum">
+<meta property="og:url" content="http://jamba7.egloos.com/6182591">
+<meta property="og:title" content="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨">
+<meta property="og:description" content="갤에 올린거긴 한데 그냥 백업용으로 ㅇㅇ  어차피 여기 아무도 안오자너 ㅋㅋㅋㅋ&amp;nbsp;ㄹㅇ루다가  하나하나 식자하기엔 인생을 살아야 하므로 대충 스샷만 올린다.토모에 마미 : 카미하마시... 이 도시에서 무슨 일이 일어나고 있는건지 좀 더 자세히 조사해봐야...토모에 마미 마법소녀 스토리1화 역시 의지가 되는 마미씨카미하마(神浜)시......무언가가 일">
+<meta property="og:image" content="http://thumbnail.egloos.net/720x0/http://pds26.egloos.com/pds/201708/29/72/c0028272_59a5415225bae.png">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.ico">
+
+<link rel="pingback" href="http://rpc.egloos.com/rpc1">
+<link rel="alternate" type="application/rss+xml" title="마미 블로그 였던 것" href="http://rss.egloos.com/blog/jamba7">
+<title>마미 블로그 였던 것 : [마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨</title>
+	<script type="text/javascript" async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/at.js.다운로드"></script><script async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/fbevents.js.다운로드"></script><script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ap.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/gd.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg_new.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/cr.js.다운로드"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ins.js.다운로드"></script>
+
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/prototype_v1511.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.ImgModal.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/compatible.js.다운로드"></script>
+
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_t.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/style_comment.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/skin2_common.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5_s.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_navibar.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/popup.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/button.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloos_post_style.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/choisiyi/gabera/master/year_end2016_post.css">
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.Center.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.BookmarkDlg.js.다운로드"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var browserHeight = function() {
+    var myHeight = 0;
+    if( typeof( window.innerHeight ) == 'number' ) {
+        myHeight = window.innerHeight;
+    } else if( document.documentElement && document.documentElement.clientHeight ) {
+        myHeight = document.documentElement.clientHeight;
+    } else if( document.body && document.body.clientHeight ) {
+        myHeight = document.body.clientHeight;
+    }
+    return myHeight;
+};
+
+function focusCommentBox() {
+        var cmtObject = document.getElementById('write_commet_box');
+        if(cmtObject === null || cmtObject === undefined ) {
+            var resultDiv = document.getElementById('cmt_info');
+            var message = resultDiv.getAttribute("data-message");
+            if(message !== null || message !== '') {
+                alert(message);
+            }
+        } else {
+            var size = cmtObject.getHeight() + cmtObject.offsetTop + 20;
+            var height = browserHeight();
+            var result = size - height;
+            result = (result > 0 ) ? result: 0;
+
+            window.scrollTo(0, result);
+        }
+
+}
+
+
+Event.observe(window, 'load', function() {
+    new Modal.BookmarkDlg('egloo_bookmark', {overlay: true,
+                'groupURL'     : "/exec/egloo_bookmark_group.php",
+                'remoteURL'    : "/exec/egloo_insbookmark_exec.php"});
+    if(''==''){
+	    	copy_contents('jamba7.egloos.com','가베라','0');
+    }
+    var hash = window.location.hash;
+
+    // if(hash !==null && hash !== undefined ) {
+    if(hash && hash.length > 0) {
+        var name  = hash.substr(1, hash.length -1 );
+        var search = $$('[name="'+name+'"]');
+
+        if(hash.indexOf('comment_')>=0) {
+            focusCommentBox();
+        } else if(search.length == 0 ) {
+             feedbackview('post_trackback_hash', 'c0028272', 6182591, 0, 0);
+        }
+    }
+
+
+});
+
+
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+// function ndrclick2(pndrpageid, pndrregionid) {
+// i = new Image();
+// i.src = "http://statclick.egloos.com/stat/statclick.tiff?cp_url=[click_ndr.nate.com/??ndrpageid="+pndrpageid+"&ndrregionid="+pndrregionid+"]";
+// }
+//]]>
+</script>
+</head>
+<body>
+<iframe name="cmtviewfrm" id="cmtviewfrm" src="https://raw.githubusercontent.com/choisiyi/gabera/master/saved_resource.html" width="0" height="0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="display:block;border:0px;"></iframe>
+<div id="navibar_login">
+<!--more--> 
+
+  <a onclick="sendGnbClick(&#39;zum_logo&#39;);" href="http://zum.com/page/go" target="_blank">ZUM</a> |
+  <a href="http://www.egloos.com/">이글루스</a> | 
+  <a href="https://sec.egloos.com/login.php?returnurl=http%3A%2F%2Fjamba7.egloos.com%2F6182591">로그인</a>
+</div>
+<div class="body">
+  <div class="wrap">
+    
+    <div class="header">
+      <h1>
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="마미 블로그 였던 것">마미 블로그 였던 것</a>
+      </h1>
+      <div class="url">
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com">jamba7.egloos.com</a>
+      </div>
+      <div class="topmenu">
+        <a href="http://jamba7.egloos.com/photo/" title="포토로그">포토로그</a> 
+      </div>
+    </div>
+    <hr class="line">
+    
+    <div class="container f_clear">
+      
+      <div class="content_wrap f_clear">
+        
+        <div id="section_widemenu1" class="widemenu">
+          <div>
+            <div class="widget widget_M00000009" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;">
+   <h3 style="display:none;">마미블로그 검색엔진</h3>
+   <div class="widget_content">
+    <div id="cse" style="width: 100%;">Loading</div>
+<script src="https://raw.githubusercontent.com/choisiyi/gabera/master/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'ko', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '011372837164525540465:a0rnrdc6drs', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #ffff00;
+    background-color: #FFFFFF;
+  }
+  .gsc-control-cse .gsc-table-result {
+    font-family: Arial, sans-serif;
+  }
+  input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #D9D9D9;
+  }
+  input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #2F5BB7;
+    background-color: #357AE8;
+    background-image: none;
+    filter: none;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #CCCCCC;
+    border-bottom-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabsArea {
+    border-color: #CCCCCC;
+  }
+  .gsc-webResult.gsc-result,
+  .gsc-results .gsc-imageResult {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover,
+  .gsc-imageResult:hover {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b,
+  .gs-imageResult a.gs-title:link,
+  .gs-imageResult a.gs-title:link b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b,
+  .gs-imageResult a.gs-title:visited,
+  .gs-imageResult a.gs-title:visited b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b,
+  .gs-imageResult a.gs-title:hover,
+  .gs-imageResult a.gs-title:hover b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b,
+  .gs-imageResult a.gs-title:active,
+  .gs-imageResult a.gs-title:active b {
+    color: #1155CC;
+  }
+  .gsc-cursor-page {
+    color: #1155CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #1155CC;
+  }
+  .gs-webResult .gs-snippet,
+  .gs-imageResult .gs-snippet,
+  .gs-fileFormatType {
+    color: #333333;
+  }
+  .gs-webResult div.gs-visibleUrl,
+  .gs-imageResult div.gs-visibleUrl {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gs-promotion div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-promotion div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-webResult.gsc-result.gsc-promotion {
+    border-color: #F6F6F6;
+    background-color: #F6F6F6;
+  }
+  .gsc-completion-title {
+    color: #1155CC;
+  }
+  .gsc-completion-snippet {
+    color: #333333;
+  }
+  .gs-promotion a.gs-title:link,
+  .gs-promotion a.gs-title:link *,
+  .gs-promotion .gs-snippet a:link {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:visited,
+  .gs-promotion a.gs-title:visited *,
+  .gs-promotion .gs-snippet a:visited {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:hover,
+  .gs-promotion a.gs-title:hover *,
+  .gs-promotion .gs-snippet a:hover {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:active,
+  .gs-promotion a.gs-title:active *,
+  .gs-promotion .gs-snippet a:active {
+    color: #1155CC;
+  }
+  .gs-promotion .gs-snippet,
+  .gs-promotion .gs-title .gs-promotion-title-right,
+  .gs-promotion .gs-title .gs-promotion-title-right *  {
+    color: #333333;
+  }
+  .gs-promotion .gs-visibleUrl,
+  .gs-promotion .gs-visibleUrl-short {
+    color: #009933;
+  }</style>
+    </div>
+</div>
+          </div>
+        </div>
+        <hr class="line">
+        
+        <div id="section_content" class="content">
+          
+          <div>
+            <div class="post_view">
+              
+                
+                <div class="post_title_area">
+                  <div class="post_title">
+                    <h2 class="entry-title" title="#">
+                      <a href="https://gabera-egloos-backup.blogspot.com/6182591.html" name="6182591" title="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨">[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨</a> <span class="post_title_category"><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a></span>
+                    </h2>
+                  </div>
+                  <ul class="post_info">
+                    <li class="post_info_author">
+                      <span class="by">by</span> 가베라
+                    </li>
+                    <li class="post_info_date"><abbr class="published" title="2017/08/29 19:46">2017/08/29 19:46</abbr>
+                    </li>
+                    <li class="post_info_link"><a href="https://gabera-egloos-backup.blogspot.com/6182591.html">jamba7.egloos.com/6182591</a>
+                    </li>
+                    <li class="post_info_cmtcount">
+                      <span class="txt">덧글수 :</span> 8
+                    </li>
+                  </ul>
+                </div>
+                <div class="post_content entry-content">
+                  <div class="hentry "><span class="copyright_entry" style="display:block;" title="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨@@**@@http://jamba7.egloos.com/6182591"></span>갤에 올린거긴 한데 그냥 백업용으로 ㅇㅇ<div><br></div><div>어차피 여기 아무도 안오자너 ㅋㅋㅋㅋ&nbsp;<span style="font-size: 9pt;">ㄹㅇ루다가</span></div><div><span style="font-size: 9pt;"><br></span></div><div><br></div><br><a name="6182591_1"></a><table border="0" width="100%" style="border-collapse: collapse;"><tbody><tr><td><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">하나하나 식자하기엔 인생을 살아야 하므로 대충 스샷만 올린다.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a5415225bae.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a5415225bae.png&#39;, 1312, 738);" style="cursor: pointer;"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">토모에 마미 : 카미하마시... 이 도시에서 무슨 일이 일어나고 있는건지 좀 더 자세히 조사해봐야...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">토모에 마미 마법소녀 스토리</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">1화 역시 의지가 되는 마미씨</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카미하마(神浜)시......무언가가 일어나고 있는 도시.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">일단 들리긴 했지만 대체 어디서부터 조사해야 할까.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마녀를 찾을까?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마법소녀를 찾을까?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">애초에 이 도시는 어디가 미쳐있는 거지...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 일단은 도시에 대해서 알아야겠네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카미하마 시가 어떻게 변해버렸는지는 이 도시에 대해서 자세히 알게 되면 알 수 있을지도 몰라.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그럼 일단 이 도시의...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">소울젬에 반응이 있어!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">근처에 마녀가 있나...!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">도착하자마자 마녀와 맞닥뜨릴 줄이야</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">역시 이 도시는 이상해...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">꽤 강력한 마력의 파동이야</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">가까울지도 몰라</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">찾았어...마녀의 결계!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마녀는 어디야...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">꺄아악!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">비명!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">누군가가 먼저 싸우고 있어!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???:우랴앗!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">토앗!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">사역마 : ##$+@Y.!!샤라!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???: 뭣!? 잠...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">사역마 : %&amp;|.#$+@#샤라</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???:윽!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">안되겠어... 이러다... 당하겠어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">위험해!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;">사역마 :&nbsp;</span>#$+@|#!?샤라!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a54161c3da3.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a54161c3da3.png&#39;, 1200, 675);"></div><p></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???:...당신... 마법소녀...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 위기일발이었네. 늦지 않아서 다행이야.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">괜찮아?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???: 아...네.. 넷! 저기... 감사합니다!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">저기! 저는...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">- 그 브금이 흐르며</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 인사는 나중에!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">지금은 저 사역마들을 둘이서 해치우는 거야!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???: 네? 아...! 아, 넷!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;">사역마 :&nbsp;</span>##$+@&amp;|.샤라</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 수가 많은 데다가</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;">사역마 :&nbsp;</span>.##$+@|!! 샤라!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">사역마치곤 강해!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???: 저기! ...아, 저기...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">"구해준 사람" ! 무리하면 안돼!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 고마워 하지만 걱정할 필요는 없어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">잠깐 물러나 있으렴</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">???: 엣...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 간다</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a541740b749.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201708/29/72/c0028272_59a541740b749.png&#39;, 1200, 675);"></div><p></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">티로 피날레!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">-배틀&nbsp;1 끝-</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">-배틀&nbsp;2 시직-</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">...티로 피날레!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;">사역마 :&nbsp;</span><span style="font-size: 10pt;">%&amp;|#$+@.#!?</span></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">??? : ...어? 해, 해치웠어...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응, 사역마는 해치웠어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">??? : 아 돌아왔다...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 위험한 순간이었네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">??? : 아...네...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">저기...구해주셔서...감사합니다.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 천만의 말씀이야. 괜찮니?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">??? : 아...! 넷! 덕분에요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">야요이 카노코 : 아...! 저기... 저는 야요이(矢宵) 카노코라고 해요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 만나서 반가워. 토모에 마미야, 잘 부탁해.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 카미하마의 마법소녀신가요?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 아니 그렇진 않아. 보통 땐 미타키하라에 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그건 그렇고, 조금 전의 사역마, 꽤나 강했지</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 뭐... 카미하마의 사역마는 강하니까요</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그렇구나...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : (역시 이 도시 어딘가가 이상해...)</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 그보다... 이전 마녀퇴치 후로 좀 공백기가 생겨서</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그래서 좀 고전해버렸달까나...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그럼 스스로도 고전했다는 걸 알고 있는거구나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...에? 아 뭐...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그건 그다지 칭찬할만한 이야긴 아니구나.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">목숨이 걸려있는 일이야.&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">어중간한 기분으로 시도하면 안돼.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...지당한 말이에요. 죄송합니다...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 이해해 줬다면 상관없지만</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">목숨을 소홀히 여기는 마법소녀는 그 즉시 마녀의 먹이가 되어버리는거야</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 딱히 나... 목숨을 소홀히 여기진...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응, 알고 있어. 하지만 무턱대고 싸우면...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">결국 똑같은 결과가 되어버려</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">주의하렴</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...어쩔 수 없잖아요</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 에?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 당신도... 다른 마법소녀도...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마녀퇴치 만으로도 만족할지도 모르지만...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 하지만 나는...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a5418049153.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds25.egloos.com/pds/201708/29/72/c0028272_59a5418049153.png&#39;, 1312, 738);"></div><p></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">내겐 더욱 소중하게 여기는 시간이 있고...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : &nbsp;...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 아...미, 미안해요... 아무것도 아니에요...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ....</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그렇구나, 이 아이는... 정말로 성실한 거구나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마법소녀를 하고 싶어서 하는게 아냐</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">하지만 할 수밖에 없어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">정말로 하고 싶은 일과&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">하지 않으면 안되는 일</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">두 가지 일의 사이에서 싸우고 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">소원과 의무가 서로 싸우고 있구나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">성실하니까 그걸 숨기려 하고 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">본심을 숨기고 바르려 하고 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 카노코 양?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...네?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 미안해. 조금 말이 지나쳤어.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 아 아뇨... 그런...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">명백히 제가 나빠요...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">갑자기 이상한 소릴 하고...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">정말... 죄송합니다.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 으응, 말이 지나쳤어. 그래서 궁금해.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">들려줄래? 네가 정말로 하고 싶은 일</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ............하지만...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 괜찮아</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">여기엔 우리들밖에 없는걸</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그러니까, 살짝. 응?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...제겐... 꿈이 있어요.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">패션 디자이너가 되는 꿈...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그래</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">멋진 꿈이네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그리고 나는 그녀의 꿈에 대해서 많은 이야길 들었다</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그녀가 꿈에 거는 정렬은 눈부셨다</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 이거에요! 제가 그린 디자인!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 이건...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">참신하네&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : !! 감사합니다!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">전위적인 디자인...이란 뜻이죠!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 특히 이 등에서 손이 돋아나 있는 옷</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">꽤나 참신하다고 생각해</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 그거 시메지에요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">※시메지: 버섯의 일종. 식용.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 시메지? 버섯의?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 물론! 버섯의!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543c1e34e9.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201708/29/72/c0028272_59a543c1e34e9.png&#39;, 1200, 675);"></div><p></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 역시 참신하네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 대단히 감사합니다!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 하지만 아직 공부 중인 몸이라..</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">우쭐대지 않도록 주의할게요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응. 공부 힘내렴&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ...........</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543cb6df16.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a543cb6df16.png&#39;, 1200, 675);"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">공부 힘내렴!&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 네! 힘낼게요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 하지만 마녀퇴치에 관해서는 너무 혼자서 노력하지 말 것</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">소울젬에 탁함이 쌓여도 혼자서 무리하지 않을 것</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">기억해주렴</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">넌 혼자가 아니라는 걸</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...네, 알겠습니다. 앞으론 오늘 같은 무리는 안할게요.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그리고, 고마웠어요 구해주셔서...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">사역마로부터 지켜주시다니.. 저도 일단은 마법소녀인데...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 마법소녀도 여자아인걸. 당연한 거야.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그리고 나도 마법소녀니까</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">같은 마법소녀끼리는 신경써주지 않아도 괜찮잖아?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코: 아하... 네, 고맙습니다..</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">...아 맞다!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">저 그럼 그런김에 부탁 하나만!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ? 무슨 부탁일려나?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 염치없긴 하지만...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마법소녀로서의 요령...? 아니...기술?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">어쨌든! 무언가 어드바이스를 주세요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미: 굉장히 단도직입적인 질문이네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 부탁드립니다!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 음...&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">일단 분석일까나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마녀의 특성을 조사하고</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그걸 노트에 적어서 정보를 정리하고</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코: 과연...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 다음은 역시... 마법의 특훈!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코: 특훈! 인가요..</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응. 스스로의 마법을 이해해서 마법을 자유자재로 구사하도록 일단은 특훈, 어쨌든 특훈!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">멀리 돌아가는거 같지만 그게 가장 가까운 길이 아닐까?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 그렇군요! 지식이 늘었어요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">당신같이 강한 사람, 처음 만났어요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 딱히 특별한 건 아무것도 하지 않았어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그저 착실히, 착실히 단련하는것 뿐이네</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 그렇구나~.,. 착실하게 한 발짝을...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">역시 그게 제일이네요</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">-삐리링</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 아! 하지만, 단 한가지 지름길이 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 엣! 가, 가르쳐 주세요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 우후후후. 그건 말야...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">- 배틀&nbsp;2 끝 -</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">- 배틀&nbsp;3 시작 -</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 아! 하지만, 단 한가지 지름길이 있어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 엣! 가, 가르쳐 주세요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 우후후후. 그건 말야...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">기술명을 짓는 거야!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 기술명...? 핫...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">-전투 회상</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 티로 피날레!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 아까...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 아, 기억났니?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 티로... 피날레...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 맞아!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">한참 전투 중이었는데도 불구하고</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">잘 기억해 주었구나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 뭔가 귀에 붙는 프레이즈였어서요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 역시 형태부터 잡는 것도 중요하다고 생각해!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">필살기에 이름을 붙여서 그걸로 실제로 싸워보는거야!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543d89cf45.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a543d89cf45.png&#39;, 1200, 675);"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">기술에 이름이 붙는거 만으로도 왠지 용기가 솟아날거야!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">기분 문제일지도 모르지만 그것도 중요한 일이야</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">강한 마음을 가지는 게 가능하다면&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">설령 마녀의 앞이라도&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">절대로 포기하지 않아</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그렇게 생각하게 될 거야!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코: 그렇구나...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 어떨려나?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 티로 피날레...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 티로 피날레...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543e862874.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a543e862874.png&#39;, 1200, 675);"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 티로 피날레!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 초 멋져요! 쩔어요! 최고에요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 어머! 정말!? 기뻐!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 아무쪼록 제 기술에도! 이름! 붙여주세요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 너는 어떤 마법을 쓰니?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 봉합(縫合)이요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 호우코우（ホウゴウ）？</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 실로 적 둘을 이렇게... 적을 꿰메 버린달까나!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 꿰메버리기... 아!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">패션 디자이너?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 네! 그거에요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그랬구나</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">...으응... 그렇네........</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">...봉합...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">패션 디자이너...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 넷! 어때요!? 뭔가 좋은 생각이...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ...그렇네&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">하지만 역시...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...?&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">"하지만 역시"...?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ... 그렇게 중요한 건 스스로 정하는게 좋다고 생각해</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 에... 그, 그런...!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그야, 자신의 대명사 같은 거잖니?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 그건...그렇지만요...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 게다가...심지어 너는 크리에이터니까</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...! 크리에이터!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 너 나름의 고집이나 센스를...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">기술명에도 담아보면 어떨까?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 넷...! 생각해 볼게요!!&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">담아보겠습니다!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ...어때? 뭔가 떠올랐어?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : ...저기... 잠시만...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">앞으로 조금만 더 하면 뭔가... 떠오를 듯한...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">-삐리링</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : !!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">왔어요! 내려왔습니다!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 어머...! 진짜? 잘됐네!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">괜찮다면 어떤 이름인지 들려줄래?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 네! 물론이에요! 그건 즉.........</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 즉?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : "야요이 컬렉션" ......이에요!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 야요이...컬렉션...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 넷!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543f4660f8.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a543f4660f8.png&#39;, 1200, 675);"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : ...여, 역시... 네 센스는 참신하구나...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 대단히 감사합니다!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">전위적인 기술명...이란 뜻이죠!?</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 에.. 응.. 그런 뜻이야</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 지금부터 마녀랑 싸울 땐 반드시 외치겠어요!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응, 외치자</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">찻! 하고 외치겠어요!!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 외치자!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 아하하!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그럼 필살기의 이름도 정해졌으니...</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">나는 슬슬 미타키하라로 돌아갈게</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 앗...! 넷!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">정말로 감사했습니다!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 신경쓰지 마</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">패션 공부 열심히 하렴</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">카노코 : 넷! 그럼, 이만!</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 응, 언젠가 다시 만나길.</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">장래의 꿈이 있고</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그걸 쫒는 마법소녀</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">하지만</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마법소녀는 언제나 목숨을 걸고 있는 존재</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">마미 : 그래도 나는&nbsp;</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">그런 아이들을 응원하고 싶어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">일단 나는 베테랑이니까</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">노력할 수 밖에 없어</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59a543fd11280.png" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201708/29/72/c0028272_59a543fd11280.png&#39;, 1200, 675);"></div><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">한명이라도 더 많은 마법소녀가</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">행복해질수 있도록</p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255);">뉴비 주워다가 이상한 사상을 주입하고 있는 모습이다.</p><div><br></div></td></tr></tbody></table><br><br>
+       <!--
+       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		    xmlns:dc="http://purl.org/dc/elements/1.1/"
+		    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+       <rdf:Description
+	        rdf:about="http://jamba7.egloos.com/6182591"
+	        dc:identifier="http://jamba7.egloos.com/6182591"
+	        dc:title="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨"
+	        trackback:ping="http://jamba7.egloos.com/tb/6182591"/>
+       </rdf:RDF>
+       -->
+<div style="line-height:12px;padding:35px 0 5px">
+                  <a href="https://gabera-egloos-backup.blogspot.com/6182591.html" onclick="window.open(&#39;http://www.egloos.com/report/popup.php?posturl=&#39;+decodeURIComponent(&#39;http://jamba7.egloos.com/6182591&#39;), &#39;pop_badreport&#39;,&#39;width=500, height=460&#39;); return false">
+                    <img src="https://raw.githubusercontent.com/choisiyi/gabera/master/ico_badreport.png" alt="신고" style="vertical-align:top;padding-right:3px"><span style="font-size:11px;letter-spacing:-1px">신고</span>
+                  </a>
+                </div></div> <div class="post_taglist f_clear"><strong>태그 : </strong><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag">마기레코</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag">마법소녀마도카마기카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag">토모에마미</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%BC%EC%9A%94%EC%9D%B4%EC%B9%B4%EB%85%B8%EC%BD%94" rel="tag">야요이카노코</a></div> 
+        <div class="post_meta_area f_clear">
+            <h3>포스트 메타 정보</h3>
+            <div class="post_meta_menu">
+            
+            
+                    <h4 id="tab1_6182591" onclick="PostMeta.show_tab(1,6182591,&#39;c0028272&#39;)" class="post_meta_title1_on">퍼블리싱 및 추천</h4>
+                    <ul id="tab_c1_6182591" class="post_meta_content">
+                            <li><strong>내보내기</strong>
+                                <ul><li>밸리 : <a href="http://valley.egloos.com/theme/game" target="_blank"> 게임</a>  <em class="date">2017/08/29 19:46</em></li><li>태그 : <a href="http://valley.egloos.com/tag/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" target="_blank"> 마기레코</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" target="_blank"> 마법소녀마도카마기카</a>, <a href="http://valley.egloos.com/tag/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" target="_blank"> 토모에마미</a>, <a href="http://valley.egloos.com/tag/%EC%95%BC%EC%9A%94%EC%9D%B4%EC%B9%B4%EB%85%B8%EC%BD%94" target="_blank"> 야요이카노코</a>
+                                </li></ul>
+                            </li></ul>
+            <h4 id="tab2_6182591" onclick="PostMeta.show_tab(2,6182591,&#39;c0028272&#39;,6)" class="post_meta_title2">같은 카테고리의 글</h4>
+        <ul id="tab_c2_6182591" class="post_meta_content" style="display:none;"></ul>
+            </div>
+        </div>
+        
+                </div>
+                <div class="post_footer_area f_clear">
+                  <div class="post_tail">
+                    <a href="https://gabera-egloos-backup.blogspot.com/6182591.html" onclick="feedbackview(&#39;post_trackback&#39;, &#39;c0028272&#39;, 6182591, 0, 0);return false;" class="post_tail_trbk">트랙백(<span id="trbcnt6182591" class="count">0</span>)</a><span class="post_tail_cmmt"> 덧글(<span id="cmtcnt6182591" class="count">8</span>)</span>
+                  </div>
+                  <div class="post_admin">
+                    
+                  </div>
+                </div>
+                <hr class="line">
+                 <div class="post_link">
+            <div class="post_trackback" id="trackback_6182591"></div>  <div class="post_comment" id="comment_6182591">
+            
+            <h3>덧글</h3> 
+            <ul class="comment_list">
+              <li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">ㅁㄴㅇ</span> <span class="comment_datetime" title="2017/08/29 21:43">2017/08/29 21:43</span> <span class="comment_link"><a name="13500275" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/6182591.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;6182591&#39;,&#39;13500275&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform6182591&#39;,&#39;6182591&#39;,&#39;13500275&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6182591#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13500275">이게 뭐 가슴큰 노랑머리 마법소녀가 참수당하는 그런 게임인가요?</div> <div id="reply6182591_13500275" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com" target="_blank">가베라</a></span> <span class="comment_datetime" title="2017/08/29 23:30">2017/08/29 23:30</span> <span class="comment_link"><a name="13500275.01" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13500275.01">않이오;<br>그렇지 않은대;</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://jazz9207.egloos.com/" title="http://jazz9207.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0089926_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://jazz9207.egloos.com/" title="http://jazz9207.egloos.com" target="_blank">jazz9207</a></span> <span class="comment_datetime" title="2017/08/30 00:01">2017/08/30 00:01</span> <span class="comment_link"><a name="13500304" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform6182591&#39;,&#39;6182591&#39;,&#39;13500304&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6182591#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13500304">자주 까먹지만 선배였죠 이 사람</div> <div id="reply6182591_13500304" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">모모아무개</span> <span class="comment_datetime" title="2017/08/30 00:38">2017/08/30 00:38</span> <span class="comment_link"><a name="13500307" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/6182591.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;6182591&#39;,&#39;13500307&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform6182591&#39;,&#39;6182591&#39;,&#39;13500307&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6182591#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13500307">헐;; 드디어 새 글이 ㄷㄷ 매주 한 번은 꼬박 확인하기를 1년, 아예 마마마 쪽은 접으신 줄 ㅠㅠ</div> <div id="reply6182591_13500307" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com" target="_blank">가베라</a></span> <span class="comment_datetime" title="2017/08/30 23:00">2017/08/30 23:00</span> <span class="comment_link"><a name="13500307.01" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13500307.01">접고 자시고 애초에 할게 없어요<br>이 판은 망했으니 안심하고 즐겨찾기를 지우셔도 됩니다.</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://msz006.egloos.com/" title="http://msz006.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0042574_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://msz006.egloos.com/" title="http://msz006.egloos.com" target="_blank">건전청년</a></span> <span class="comment_datetime" title="2017/08/30 01:01">2017/08/30 01:01</span> <span class="comment_link"><a name="13500311" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform6182591&#39;,&#39;6182591&#39;,&#39;13500311&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6182591#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13500311">오랜만이네요 ㅎㅎ<br><br>저도 이거 해볼라켔는데 폰이 안맞아서 못돌리네요 ㅜㅠ</div> <div id="reply6182591_13500311" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com" target="_blank">가베라</a></span> <span class="comment_datetime" title="2017/08/30 23:00">2017/08/30 23:00</span> <span class="comment_link"><a name="13500311.01" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13500311.01">아이폰 허쉴?</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://mongbu.egloos.com/" title="http://mongbu.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0083927_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://mongbu.egloos.com/" title="http://mongbu.egloos.com" target="_blank">몽부</a></span> <span class="comment_datetime" title="2017/08/30 11:17">2017/08/30 11:17</span> <span class="comment_link"><a name="13500400" href="https://gabera-egloos-backup.blogspot.com/6182591.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform6182591&#39;,&#39;6182591&#39;,&#39;13500400&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6182591#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13500400">!!</div> <div id="reply6182591_13500400" class="comment_write reply_write" style="display:none;"></div>
+              </li>
+            </ul>
+<div id="write_commet_box" class="comment_write">
+   <fieldset>
+       <legend>댓글 입력 영역</legend>
+   <form id="cmtform6182591" name="cmtform6182591" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;" onsubmit="return runComment(this,5);">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6182591">
+       <input type="hidden" name="tid" value="">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨">       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+
+        <div class="comment_info">
+            <span class="comment_name">
+                <label for="cmt_name">닉네임</label>
+                <input type="text" id="name" name="name" class="name" size="10" maxlength="10" value="">
+            </span>
+            <span class="comment_passwd">
+                <label for="cmt_passwd">비밀번호</label>
+                <input type="password" id="passwd" name="passwd" class="passwd passwd6182591" size="10" maxlength="10" value="" onfocus="document.cmtform6182591.tid.value=&#39;qwWAVQzGKVgdKc0FfAivXBVogJkpaHY_2mhmbJZrm48.&#39;" style="display:none;" onblur="if (this.value.length &gt; 0) {return;} else { togglePwdBox(this,&#39;passwd_alt6182591&#39;, false);}"><input type="text" id="passwd_alt6182591" name="passwd_alt" class="passwd passwd_alt6182591" size="10" onfocus="togglePwdBox(this,&#39;passwd6182591&#39;, true)" onclick="togglePwdBox(this,&#39;passwd6182591&#39;, true)" readonly="readonly">
+            </span>
+            <span class="comment_blog">
+                <label for="cmt_blog">블로그</label>
+                <input type="text" id="homepage" name="homepage" class="blog" value="http://" size="20">
+            </span>
+            <span class="comment_login">
+                <a href="http://sec.egloos.com/login.php?returnurl=http://jamba7.egloos.com/6182591#cmt" title="로그인">로그인</a>
+            </span>
+        </div>
+       <textarea id="comment" name="comment" class="comment_field" title="덧글 입력 영역" rows="5" cols="50"></textarea>
+       <div class="comment_btn f_clear">
+           <input type="checkbox" id="no_open" name="security"> <label for="no_open">비공개</label>
+           <input type="image" value="댓글등록" src="https://raw.githubusercontent.com/choisiyi/gabera/master/btn_comment.gif" class="comment_submit">
+       </div>
+   </form>
+   <form id="replyform6182591" name="replyform6182591" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6182591">
+       <input type="hidden" name="tid" value="qwWAVQzGKVgdKc0FfAivXBVogJkpaHY_2mhmbJZrm48.">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="replyform_page" value="1">
+   </form>
+   <form id="editform6182591" name="editform6182591" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_editcomment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6182591">
+       <input type="hidden" name="tid" value="qwWAVQzGKVgdKc0FfAivXBVogJkpaHY_2mhmbJZrm48.">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 토모에 마미 1화 역시 의지가 되는 마미 씨">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="writer" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="editform_page" value="1">
+   </form>
+   </fieldset>
+</div>  
+          </div>
+          </div> 
+              
+              
+              
+              
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <div class="post_navi">
+            
+            <div class="prev"><a href="https://gabera-egloos-backup.blogspot.com/6183430.html"><span class="txt">다음글 : </span>[마기레코] 마법소녀 스토리 토모에 마미 2화 친구가 되자!</a></div><div class="next"><a href="https://gabera-egloos-backup.blogspot.com/4942544.html"><span class="txt">이전글 : </span>잠바방</a></div> 
+          </div>
+          
+        </div>
+        <hr class="line">
+        
+        <div id="section_widemenu2" class="widemenu"></div>
+        <hr class="line">
+      </div>
+      
+      <div id="section_sidebar1" class="column">
+        <div class="widget menu_profile">
+          
+          <h3>프로필</h3>
+          <div class="widget_content">
+            <div class="profile_image">
+              <a href="javascript:void(0);" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/logo/201304/23/72/c0028272.gif&#39;);"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.gif" width="150" height="150" border="0" alt=""></a>
+            </div>
+            <div class="profile_desc">
+              10주년.<span class="profile_usernick fn"><span class="by">by</span> 가베라</span>
+            </div>
+            <div class="profile_prize">
+               <a href="http://valley.egloos.com/event/award/2011/announce.php" title="2011 이글루스 TOP 100"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2011.gif" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2011 이글루스 TOP 100"></a> <a href="http://valley.egloos.com/event/award/2013/announce.php" title="2013 대표 이글루"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2013.png" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2013 대표 이글루"></a>
+            </div>
+            <div class="bg_profile"></div>
+          </div>
+        </div>
+        <div class="widget menu_category">
+          
+          <h3>카테고리</h3>
+          <ul class="widget_content">
+            <li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/">전체</a><span class="count">(1492)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%8A%A4%ED%8C%85">일반적인 포스팅</a><span class="count">(84)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a><span class="count">(1246)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B8%B0%ED%83%80%20%EB%93%B1%EB%93%B1%20">기타 등등 </a><span class="count">(132)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%B6%84%EB%A5%98">미분류</a><span class="count">(30)</span>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_search">
+          
+          <h3>검색</h3>
+          <div class="widget_content f_clear">
+            <fieldset>
+  <legend>블로그내 검색 영역</legend>
+   <form action="http://jamba7.egloos.com/" method="post" onsubmit="return go_search(this);">
+    <input type="hidden" name="type" id="type" value="search">
+    <input name="srch_kwd" id="srch_kwd_2" type="text" class="input_search" value="" size="10" title="검색입력영역" maxlength="30">
+    <input type="submit" class="submit" value="">
+  </form>
+</fieldset>
+<p style="margin-top:3px;text-align:left"><a href="http://zum.com/" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/txt_power_161028.png"></a></p>
+          </div>
+        </div>
+        <div class="widget menu_tagcloud">
+          
+          <h3>태그</h3>
+          <div class="widget_content">
+            <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%A7%88%EC%B1%A0" rel="tag" class="tag_level_3">나마챠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%98%A4%ED%82%A4%EC%9A%B0%EB%A9%94" rel="tag" class="tag_level_3">아오키우메</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%83%A4%ED%94%84%ED%8A%B8" rel="tag" class="tag_level_3">샤프트</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A2%86%EB%A7%9D%EA%B2%9C" rel="tag" class="tag_level_2">좆망겜</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%B4%EC%B9%98%EB%B0%A9%EC%BF%A0%EC%A7%80" rel="tag" class="tag_level_1">이치방쿠지</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A6%AC%EC%84%B8%EB%A7%88%EB%9D%BC" rel="tag" class="tag_level_1">리세마라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" rel="tag" class="tag_level_3">사쿠라쿄코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag" class="tag_level_3">아케미호무라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%A0%ED%8F%AC%EB%8F%84" rel="tag" class="tag_level_1">신포도</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B1%B4%EB%8B%B4" rel="tag" class="tag_level_3">건담</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%93%9C%ED%95%98%EC%9B%8C%EB%93%9C" rel="tag" class="tag_level_1">토드하워드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EA%B0%80%EB%A9%94%EB%AA%A8%EB%AA%A8%EC%BD%94" rel="tag" class="tag_level_1">토가메모모코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C" rel="tag" class="tag_level_1">배틀그라운드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" rel="tag" class="tag_level_3">미키사야카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag" class="tag_level_3">토모에마미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%98%B8%EC%A6%88%EB%AF%B8%EC%8B%9C%EC%A6%88%EC%BF%A0" rel="tag" class="tag_level_1">호즈미시즈쿠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag" class="tag_level_3">마법소녀마도카마기카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9B%83%EC%9D%8C%EB%B2%A8" rel="tag" class="tag_level_1">웃음벨</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%83%80%EB%A7%88%ED%82%A4%EC%9D%B4%EB%A1%9C%ED%95%98" rel="tag" class="tag_level_2">타마키이로하</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EA%B8%B0%EC%82%AC%EC%82%AC%EB%9D%BC" rel="tag" class="tag_level_1">미나기사사라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag" class="tag_level_3">카나메마도카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%A0%EB%8B%88%ED%94%8C%EB%A0%89%EC%8A%A4" rel="tag" class="tag_level_1">애니플렉스</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag" class="tag_level_3">마기레코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%89%EA%B3%BC%EC%9E%90" rel="tag" class="tag_level_1">막과자</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%82%98%EB%AF%B8%EC%95%BC%EC%B9%98%EC%9A%94" rel="tag" class="tag_level_2">나나미야치요</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A6%8C%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80" rel="tag" class="tag_level_3">즌다고로케</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EB%AF%B8%EB%A0%88%EB%82%98" rel="tag" class="tag_level_1">미나미레나</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%9C%EC%A6%88%ED%82%A4%ED%9E%88%ED%86%A0%EB%AF%B8" rel="tag" class="tag_level_3">시즈키히토미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/PPAP" rel="tag" class="tag_level_1">PPAP</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" rel="tag" class="tag_level_1">나츠메카코</a>
+
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/tag">태그 전체보기</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_archive" id="widget_menu_archive">
+          
+          <h3>이전글 목록</h3>
+          <div class="widget_content">
+            <ul>
+              <li><a href="http://jamba7.egloos.com/archives/2021/04">2021년 04월</a><span class="count">(3)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/03">2020년 03월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/02">2020년 02월</a><span class="count">(2)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/01">2020년 01월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2017/12">2017년 12월</a><span class="count">(3)</span>
+              </li>
+            </ul>
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/archives">more...</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_comment" id="widget_menu_comment">
+          
+          <h3>최근 덧글</h3>
+          <div class="widget_content">
+            <ul>
+              <li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773307.html">이글루스가 섭종한다는 말을 듣고 제일 먼저 떠올라서 찾아와봤습니..</a></span><em class="fn">by ㅇㅇ</em> <em class="date">3/15</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5767031.html">좋은 게시물, 더 기다리고 있습니다</a></span><em class="fn">by okna kielce opinie</em> <em class="date">9/18</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5682994.html">콘텐츠를 읽는 즐거움</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">아주 잘 쓴 게시물</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5734875.html">더 멋진 게시물을 기다리고 있습니다</a></span><em class="fn">by tabletki na penisa</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5771196.html">잘했어 여기로 돌아가고 싶어</a></span><em class="fn">by czym powiekszyc peni</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5588142.html">흥미롭고 가치 있는 콘텐츠가 많다</a></span><em class="fn">by manclinic</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">좋습니다. 더 자주 확인하겠습니다</a></span><em class="fn">by 남자 성기 커지는 법</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5691431.html">요점까지 잘 썼습니다</a></span><em class="fn">by hejo-tv.pl</em> <em class="date">9/6</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773221.html">아아... 이건 '마마마 신작'이란 거다.</a></span><em class="fn">by 익명</em> <em class="date">4/4</em>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="widget menu_lifelog">
+          
+          <h3>라이프로그</h3>
+          <ul class="widget_content">
+            <li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank" title="피날레"><img alt="피날레" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank">피날레</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank" title="나는 이제 두렵지 않습니다"><img alt="나는 이제 두렵지 않습니다" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8996159298_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank">나는 이제 두렵지 않습니다</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank" title="마밍"><img alt="마밍" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank">마밍</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank" title="마밍가족 이야기"><img alt="마밍가족 이야기" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/9788986692303.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank">마밍가족 이야기</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank" title="골목대장 마밍자 1 : 초등학생이 된 마밍자"><img alt="골목대장 마밍자 1 : 초등학생이 된 마밍자" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8959760595_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank">골목대장 마밍자 1 : 초등학생이 된 마밍자</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank" title="돈 크라이 마미"><img alt="돈 크라이 마미" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8980500300_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank">돈 크라이 마미</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank" title="마미 누나"><img alt="마미 누나" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8955520271_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank">마미 누나</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank" title="어린이 성폭력.유괴.납치 해결사 마미캅"><img alt="어린이 성폭력.유괴.납치 해결사 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971243341_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank">어린이 성폭력.유괴.납치 해결사 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank" title="출동 마미캅"><img alt="출동 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971240989_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank">출동 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank" title="마미! 크고 넓은 세상을 보여주세요"><img alt="마미! 크고 넓은 세상을 보여주세요" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8989938783_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank">마미! 크고 넓은 세상을 보여주세요</a></span>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_rss">
+          
+          <h3>RSS</h3>
+          <div class="widget_content">
+            <a href="http://rss.egloos.com/blog/jamba7" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/rss_practika_64.png" alt="RSS"></a>
+          </div>
+        </div>
+        <div id="sidebar1_blank" class="blank"></div>
+      </div>
+      <hr class="line">
+    </div>
+    <hr class="line">
+    
+    <div class="footer f_clear">
+      <div class="license">
+        <span class="copyright"><a href="https://gabera-egloos-backup.blogspot.com/" title="powered by egloos.com">jamba7.egloos.com</a> is powered by <a href="http://www.egloos.com/" target="_blank">Egloos</a>.</span> <span class="rss">Subscribe to <a href="http://rss.egloos.com/blog/jamba7" target="_blank" title="RSS">RSS</a>.</span>
+        <span class="skinby">Skin designed by <a href="https://gabera-egloos-backup.blogspot.com/" target="_blank">가베라</a>.</span>
+      </div>
+    </div>
+  </div>
+</div><iframe src="https://raw.githubusercontent.com/choisiyi/gabera/master/send.html" style="width: 0px; height: 0px; border: 0px solid #fff;"></iframe>
+<img width="0" height="0" border="0" src="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_pds.php" alt="" style="display:none;">
+<form id="trackfrom" name="trackfrom" method="post" action="http://jamba7.egloos.com/6182591">
+<input type="hidden" name="url" value="">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="trburl" value="">
+</form>
+<div style="z-index:9901;top:764px;left:169px;display:none;" id="egloo_bookmark" class="popupWrap">
+    <div class="popupTitle">이글루링크 추가하기</div>
+    <dl class="popupBody">
+        <dt class="no-arrow" style="background:none;font-size:12px;text-align:center;">
+            <span id="egloo-bookmark-url" style="color:#0F71A1;"></span>
+            (<span id="egloo-bookmark-name"></span>)을(를)</dt>
+        <dd class="notice" style="margin:0;padding:0 0 0 8px;line-height:1.8em;color:#000;font-size:12px;text-align:center;">이글루링크로 추가하시겠습니까? 추가하시려면 그룹선택을 하세요.</dd>
+        <dd class="notice weak" style="margin:0;padding:0 0 0 8px;line-height:1.8em;font-size:11px;color:#666666;text-align:center;">(그룹선택 하지 않는 경우, 최상단 목록에 추가됩니다.)</dd>
+        <dd class="egloo-bookmark-group" style="margin:0;padding:10px 0 8px;line-height:1.8em;text-align:center;color:#333;font-size:12px;text-align:center;">그룹선택 :
+            <select name="groupID" id="egloo-bookmark-groupID" style="font-family:&#39;돋움&#39;,&#39;dotum&#39;,&#39;Trebuchet MS&#39;,Sans-serif;margin-left:10px;"><option value="000">그룹선택없음</option></select></dd>
+        <dd class="buttons">
+            <input type="button" value="지금 확인" onfocus="blur();" onclick="Modal.insertBookmark(true);" class="button btn24 btn_bold">
+            <input type="button" value="나중에 확인" onfocus="blur();" onclick="Modal.insertBookmark(false);" class="button btn24 btn_weak">
+        </dd>
+        <dd class="close" onclick="Modal.close();"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/button_popup_close.gif" alt="이글루링크 취소" title="이글루링크 취소"></dd>
+    </dl>
+</div>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,"script","https://connect.facebook.net/en_US/fbevents.js");
+
+    fbq("init", "654342331381106");
+    fbq("track", "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=654342331381106&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+    (function() {
+      var at = document.createElement("script");
+      at.type = "text/javascript";
+      at.async = true;
+      at.src = "//estat.zum.com/scripts/at.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(at, s);
+    })();
+	function sendGnbClick(cm) {
+		var obj = event.currentTarget || event.srcElement;
+		var estatData = {
+			"cm":cm,
+			"pos":"egloos_gnb",
+			"url": document.location.href,
+			"referrer":document.referrer
+		};
+		if(cm != "more") {
+			estatData['outurl'] = obj.href;
+		}
+		ESTatTracker.push(["@Click", estatData]);    
+	}
+</script>
+
+
+<div id="modal_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 9990; display: none;"></div><div id="modal_container" style="display: none;"></div><div id="modal_loading" style="display: none;"></div><div id="modal_overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 9900; opacity: 0.3; background-color: rgb(0, 0, 0); height: 23935px; width: 100%;"></div></body></html>

@@ -1,0 +1,843 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://jamba7.egloos.com/5779605 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=11">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+
+<meta name="author" content="가베라">
+<meta name="keywords" content="마미 블로그 였던 것">
+    <meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@egloos_zum">
+<meta property="og:url" content="http://jamba7.egloos.com/5779605">
+<meta property="og:title" content="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다">
+<meta property="og:description" content="스포일러 주의!이제와서 뒷북이니 버릴까 하다가 한게 아까워서 해둔것들 모아서 올림&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;">
+<meta property="og:image" content="http://thumbnail.egloos.net/720x0/http://pds26.egloos.com/pds/201310/30/72/c0028272_5270baaf61d72.png">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.ico">
+
+<link rel="pingback" href="http://rpc.egloos.com/rpc1">
+<link rel="alternate" type="application/rss+xml" title="마미 블로그 였던 것" href="http://rss.egloos.com/blog/jamba7">
+<title>마미 블로그 였던 것 : [2ch] 반역의 이야기의 궁금점들을 해설해 주었다</title>
+	<script type="text/javascript" async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/at.js.다운로드"></script><script async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/fbevents.js.다운로드"></script><script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ap.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/gd.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg_new.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/cr.js.다운로드"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ins.js.다운로드"></script>
+
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/prototype_v1511.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.ImgModal.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/compatible.js.다운로드"></script>
+
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_t.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/style_comment.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/skin2_common.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5_s.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_navibar.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/popup.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/button.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloos_post_style.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/choisiyi/gabera/master/year_end2016_post.css">
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.Center.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.BookmarkDlg.js.다운로드"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var browserHeight = function() {
+    var myHeight = 0;
+    if( typeof( window.innerHeight ) == 'number' ) {
+        myHeight = window.innerHeight;
+    } else if( document.documentElement && document.documentElement.clientHeight ) {
+        myHeight = document.documentElement.clientHeight;
+    } else if( document.body && document.body.clientHeight ) {
+        myHeight = document.body.clientHeight;
+    }
+    return myHeight;
+};
+
+function focusCommentBox() {
+        var cmtObject = document.getElementById('write_commet_box');
+        if(cmtObject === null || cmtObject === undefined ) {
+            var resultDiv = document.getElementById('cmt_info');
+            var message = resultDiv.getAttribute("data-message");
+            if(message !== null || message !== '') {
+                alert(message);
+            }
+        } else {
+            var size = cmtObject.getHeight() + cmtObject.offsetTop + 20;
+            var height = browserHeight();
+            var result = size - height;
+            result = (result > 0 ) ? result: 0;
+
+            window.scrollTo(0, result);
+        }
+
+}
+
+
+Event.observe(window, 'load', function() {
+    new Modal.BookmarkDlg('egloo_bookmark', {overlay: true,
+                'groupURL'     : "/exec/egloo_bookmark_group.php",
+                'remoteURL'    : "/exec/egloo_insbookmark_exec.php"});
+    if(''==''){
+	    	copy_contents('jamba7.egloos.com','가베라','0');
+    }
+    var hash = window.location.hash;
+
+    // if(hash !==null && hash !== undefined ) {
+    if(hash && hash.length > 0) {
+        var name  = hash.substr(1, hash.length -1 );
+        var search = $$('[name="'+name+'"]');
+
+        if(hash.indexOf('comment_')>=0) {
+            focusCommentBox();
+        } else if(search.length == 0 ) {
+             feedbackview('post_trackback_hash', 'c0028272', 5779605, 0, 0);
+        }
+    }
+
+
+});
+
+
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+// function ndrclick2(pndrpageid, pndrregionid) {
+// i = new Image();
+// i.src = "http://statclick.egloos.com/stat/statclick.tiff?cp_url=[click_ndr.nate.com/??ndrpageid="+pndrpageid+"&ndrregionid="+pndrregionid+"]";
+// }
+//]]>
+</script>
+</head>
+<body>
+<iframe name="cmtviewfrm" id="cmtviewfrm" src="https://raw.githubusercontent.com/choisiyi/gabera/master/saved_resource.html" width="0" height="0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="display:block;border:0px;"></iframe>
+<div id="navibar_login">
+<!--more--> 
+
+  <a onclick="sendGnbClick(&#39;zum_logo&#39;);" href="http://zum.com/page/go" target="_blank">ZUM</a> |
+  <a href="http://www.egloos.com/">이글루스</a> | 
+  <a href="https://sec.egloos.com/login.php?returnurl=http%3A%2F%2Fjamba7.egloos.com%2F5779605">로그인</a>
+</div>
+<div class="body">
+  <div class="wrap">
+    
+    <div class="header">
+      <h1>
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="마미 블로그 였던 것">마미 블로그 였던 것</a>
+      </h1>
+      <div class="url">
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com">jamba7.egloos.com</a>
+      </div>
+      <div class="topmenu">
+        <a href="http://jamba7.egloos.com/photo/" title="포토로그">포토로그</a> 
+      </div>
+    </div>
+    <hr class="line">
+    
+    <div class="container f_clear">
+      
+      <div class="content_wrap f_clear">
+        
+        <div id="section_widemenu1" class="widemenu">
+          <div>
+            <div class="widget widget_M00000009" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;">
+   <h3 style="display:none;">마미블로그 검색엔진</h3>
+   <div class="widget_content">
+    <div id="cse" style="width: 100%;">Loading</div>
+<script src="https://raw.githubusercontent.com/choisiyi/gabera/master/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'ko', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '011372837164525540465:a0rnrdc6drs', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #ffff00;
+    background-color: #FFFFFF;
+  }
+  .gsc-control-cse .gsc-table-result {
+    font-family: Arial, sans-serif;
+  }
+  input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #D9D9D9;
+  }
+  input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #2F5BB7;
+    background-color: #357AE8;
+    background-image: none;
+    filter: none;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #CCCCCC;
+    border-bottom-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabsArea {
+    border-color: #CCCCCC;
+  }
+  .gsc-webResult.gsc-result,
+  .gsc-results .gsc-imageResult {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover,
+  .gsc-imageResult:hover {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b,
+  .gs-imageResult a.gs-title:link,
+  .gs-imageResult a.gs-title:link b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b,
+  .gs-imageResult a.gs-title:visited,
+  .gs-imageResult a.gs-title:visited b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b,
+  .gs-imageResult a.gs-title:hover,
+  .gs-imageResult a.gs-title:hover b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b,
+  .gs-imageResult a.gs-title:active,
+  .gs-imageResult a.gs-title:active b {
+    color: #1155CC;
+  }
+  .gsc-cursor-page {
+    color: #1155CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #1155CC;
+  }
+  .gs-webResult .gs-snippet,
+  .gs-imageResult .gs-snippet,
+  .gs-fileFormatType {
+    color: #333333;
+  }
+  .gs-webResult div.gs-visibleUrl,
+  .gs-imageResult div.gs-visibleUrl {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gs-promotion div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-promotion div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-webResult.gsc-result.gsc-promotion {
+    border-color: #F6F6F6;
+    background-color: #F6F6F6;
+  }
+  .gsc-completion-title {
+    color: #1155CC;
+  }
+  .gsc-completion-snippet {
+    color: #333333;
+  }
+  .gs-promotion a.gs-title:link,
+  .gs-promotion a.gs-title:link *,
+  .gs-promotion .gs-snippet a:link {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:visited,
+  .gs-promotion a.gs-title:visited *,
+  .gs-promotion .gs-snippet a:visited {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:hover,
+  .gs-promotion a.gs-title:hover *,
+  .gs-promotion .gs-snippet a:hover {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:active,
+  .gs-promotion a.gs-title:active *,
+  .gs-promotion .gs-snippet a:active {
+    color: #1155CC;
+  }
+  .gs-promotion .gs-snippet,
+  .gs-promotion .gs-title .gs-promotion-title-right,
+  .gs-promotion .gs-title .gs-promotion-title-right *  {
+    color: #333333;
+  }
+  .gs-promotion .gs-visibleUrl,
+  .gs-promotion .gs-visibleUrl-short {
+    color: #009933;
+  }</style>
+    </div>
+</div>
+          </div>
+        </div>
+        <hr class="line">
+        
+        <div id="section_content" class="content">
+          
+          <div>
+            <div class="post_view">
+              
+                
+                <div class="post_title_area">
+                  <div class="post_title">
+                    <h2 class="entry-title" title="#">
+                      <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" name="5779605" title="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다">[2ch] 반역의 이야기의 궁금점들을 해설해 주었다</a> <span class="post_title_category"><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a></span>
+                    </h2>
+                  </div>
+                  <ul class="post_info">
+                    <li class="post_info_author">
+                      <span class="by">by</span> 가베라
+                    </li>
+                    <li class="post_info_date"><abbr class="published" title="2013/10/31 14:51">2013/10/31 14:51</abbr>
+                    </li>
+                    <li class="post_info_link"><a href="https://gabera-egloos-backup.blogspot.com/5779605.html">jamba7.egloos.com/5779605</a>
+                    </li>
+                    <li class="post_info_cmtcount">
+                      <span class="txt">덧글수 :</span> 15
+                    </li>
+                  </ul>
+                </div>
+                <div class="post_content entry-content">
+                  <div class="hentry "><span class="copyright_entry" style="display:block;" title="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다@@**@@http://jamba7.egloos.com/5779605"></span><div>스포일러 주의!</div><br><br>이제와서 뒷북이니 버릴까 하다가 한게 아까워서 해둔것들 모아서 올림<br><span style="color: rgb(255, 255, 255); font-size: 9pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; . &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br><br><br><br><div><div class="name" style="margin: 0px; padding: 0px; font-size: small; color: rgb(64, 64, 64); font-family: メイリオ, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Meiryo, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(240, 240, 240);">1：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:32:34.25 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px; color: rgb(64, 64, 64); font-family: メイリオ, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Meiryo, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(240, 240, 240);"><b><span style="color: rgb(0, 0, 255);">영문을 전혀 모르겠다&nbsp;<br>이해되는 사람은 자세히 설명해줘&nbsp;</span></b></div></div><br><a name="5779605_1"></a><div class="name" style="margin: 0px; padding: 0px; font-size: small; color: rgb(64, 64, 64); font-family: メイリオ, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Meiryo, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(240, 240, 240);"><span class="onecall_myAnchor" symbol="onecall_m6" target="onecall_m6" style="line-height: 19px; color: rgb(128, 0, 96); font-weight: bold;">6</span><span style="line-height: 19px;">：</span><span style="line-height: 19px; color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span><span style="line-height: 19px;">：2013/10/26(土) 12:34:27.78 ID:vYlNfHEPi</span></div><div class="article-body-more" style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); font-family: メイリオ, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Meiryo, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(240, 240, 240);"><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b>지나칠 정도로 친절하게 큐베랑 호무라가 설명했잖아<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">8：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:35:31.46 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">마미나 앙코 등을 호무라의 결계 안에 넣은 거지?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">13：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:37:16.41 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;8</span>&nbsp;<br>그렇지&nbsp;<br>호무라 결계는 개변 전의 마녀결계와 같은 사양&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">16：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:38:06.92 ID:55fDT0bP0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;8</span>&nbsp;<br>호무라쨩이 원해서 빨아들였지&nbsp;<br>나카자와군도 빨려들어가길래 뿜었지만&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">17：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:38:53.56 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">머리가 비어서 미안&nbsp;<br>그 결계에 있던 마도카는 뭐였어?&nbsp;<br>원환의 섭리? 가 마도카인데 왜 결계 안에 있는거야?<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">20：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:42:15.55 ID:55fDT0bP0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;17</span>&nbsp;<br>호무라쨩의 환상.&nbsp;<br><br>그걸 본 QB가 「어라? 이런 녀석 현실에는 없었지. 아! 이 녀석이 원환의 섭리의 구조의 정체인가!」하고 깨닿고&nbsp;<br><br>원환의 섭리라는 건 「소울 젬이 마녀가 되기 전에 사라지는 현상」이지&nbsp;<br>마도카가 마지막화에서 바라던 소원&nbsp;<br><br><br>여기까진 알겠음?&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;"><span class="onecall_myAnchor" symbol="onecall_m22" target="onecall_m22" style="color: rgb(128, 0, 96); font-weight: bold;">22</span>：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:43:12.66 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;20</span>&nbsp;<br>ㅇㅋㅇㅋ&nbsp;<br>사야카는 호무라를 원환의 섭리로 인도하려 했던거야?<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">33：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:54:14.42 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;26</span>&nbsp;<br>원환의 섭리로서의 기능을 잊었을 뿐인 진짜 마도카야<br>진짜니까 「외로워」는 본심이지만 기억이 없는 상태에서 말한 거라서 수상하다<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">23：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:45:13.74 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;20&nbsp;<br>환상은 아니지, 그건 진짜임&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">26：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:49:31.48 ID:55fDT0bP0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;23</span>&nbsp;<br>그거 진짜야? 진짜는 여신 마도카고<br>위의 포스트 마도카 때문에 환상인 마도카 에게 진짜가 조금 섞여서 「외톨이는 쓸쓸해」같은 속내를 들은거 뿐이라고 생각하는데<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">23：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:45:13.74 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;17</span>&nbsp;<br>호무라의 소울젬이 한계까지 탁해짐&nbsp;<br>→정화를 위해서 원환의 섭리(마도카)가 온다<br>→간섭하지 못하고 역으로 갖힌다<br>→기억을 잃는다&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">18：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:40:01.91 ID:/Dy3Bo9SO<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 20, 147);">그러니까, 호무라가 불끈불끈해서 마녀화?<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">24：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:46:36.52 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">에 그러니까 마미랑 앙코는 보통 사람이 마녀에게 홀린 느낌으로 호무라의 결계 안으로 갔었지&nbsp;</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">그 때 마미와 앙코는 사정을 모르는 척 했나? 아님 기억을 조작당한 건가?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">25：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:48:52.82 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;24</span>&nbsp;<br>호무라 결계 내에서 편하게 잊어버리게 했다（이 세계를 만든 마녀＝호무라 마녀의 소행）&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">27：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:50:00.99 ID:l94WCTJgO<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">다음은 있는거야? 여기서 끝?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">29：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:51:21.06 ID:316gFRFU0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;27</span>&nbsp;<br>아마 이어진다고 생각함&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">28：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:50:35.15 ID:BcHqQXOx0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">호무라는 자신이 마녀화해서 퇴치당하는 걸로 마도카를 안만나고 원환의 섭리를 지키려고 했었잖는데 마도카가 나온 순간 덤벼든건 왜야<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">32：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:54:07.85 ID:55fDT0bP0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;28</span>&nbsp;<br>호무라쨩은 최종화에서 마도카가 QB와 계약해 버린 것을 후회하고 있고<br><br>호무라 마녀 공간의 마도카는 「외톨이는 외로워」라고 말하니&nbsp;<br><br>마도카가 행복하지 않은 건 싫으니까, 악마가 되어서라도 마도카가 행복하게 있이줬으면 하는 세계를 만들었다.&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">31：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:53:24.27 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">결국 큐베는 뭘 하려고 했던거야?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">35：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 12:55:44.43 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;31</span>&nbsp;<br>원환의 섭리의 존재의 확인→간섭→지배&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;"><span class="onecall_myAnchor" symbol="onecall_m41" target="onecall_m41" style="color: rgb(128, 0, 96); font-weight: bold;">41</span>：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:09:38.30 ID:YpCskQDs0</div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">하지만 사실 해피엔딩인거 같다&nbsp;<br>QB를 제외한 모두가 행복해졌으니&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">43：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:12:49.68 ID:GvUdbulO0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;41</span>&nbsp;<br>그래? 꽤 평범하게 배드엔딩 아니냐<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">44：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:13:38.09 ID:55fDT0bP0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;41</span>&nbsp;<br>ㅇㅇ&nbsp;<br>티비판은 해피엔딩 같은 배드엔딩（마도카가 행복하지 않고, 호무라도 외토리)<br>였지만<br>극장판은 배드엔딩 같은 해피엔딩</b><b>&nbsp;</b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">46：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:17:03.13 ID:7DyEqv580<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b>호무라쨩은 행복해 보이지 않아<br>뭐어 그 뒤에 마도마도호무호무하면 그것만으로도 행복해질거 같긴 하지만<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">52：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:33:25.27 ID:jc0FNVpe0</div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">그러니까 요약하면&nbsp;</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);"><br>호무호무:마도카를 저 외로운 세계에서 구출하고 싶다. QB가 마도카를 이용하려 하는게 눈에 보이니 이용해먹자.</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">마도카: 그건 아냐! 호무라쨩 이제 가자!</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">호무호무: 걸렸구나 바보가! 힘을 빼았아 마도카에게 인간으로서의 행복을 주겠어! 나는 신세계의 악마가 된다! 원환 쪽은 내가 있으니 외롭지 않아!</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">마도카: 왕 바보! 이젠 몰라!&nbsp;</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">이후 신 레벨의 웅장한 사랑싸움으로 ㅇㅋ?</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;"><span class="onecall_myAnchor" symbol="onecall_m57" target="onecall_m57" style="color: rgb(128, 0, 96); font-weight: bold;">57</span>：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:48:16.76 ID:G9QzpSjg0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 255);">&gt;&gt;52</span>&nbsp;<br>그보다는</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">QB: 원환의 섭리를 찾아내서 지배해 버리면, 에너지를 잔뜩 얻을 수 있어! 뭔가 마도카 마도카 하고 있는 호무라를 미끼 삼아서 찾아내자</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">호무라: 그렇겐 안돼, 그럴 바에야 자폭해 주겠어!</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">마도카들: 그렇게 놔두지 않아, 호무라쨩 데리러 왔어!</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">호무라: 좋아! 오랫동안 품고 있던 계획을 발동! 원환의 섭리에서 마도카를 끌어내 주겠어! 그리고 인간으로 살아가길 바래!</span></b></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">이런 느낌 아님?<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">56：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:45:38.41 ID:P1Swxywm0</div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">결국 인큐베이터는 괴멸된 걸로 괜찮을까?<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">58：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 13:49:06.87 ID:2V6n4WGq0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;56</span>&nbsp;<br>호무라에게 혹사당해서 걸레짝이 되었지&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">64：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 14:03:28.77 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">애니를 끝내는 방법으로는 괜찮았다고 생각함<br>호무라가 저런 얀데레가 되었을 줄이야&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">66：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 14:07:06.01 ID:<span style="background-color: rgb(0, 255, 255);">HQAbkSKSi</span><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 20, 147);">정말로 두시간인가 할 정도로 길게 느껴졌다&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">67：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 14:14:25.59 ID:wZkNnMCz0</div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">호무라가 자신의 욕망만을 위해서 세계를 재구성했지만 말야&nbsp;<br>그렇게까지 할 정도면 처음부터 소울젬 안에서 평생을 보내는 게 나았잖아&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">137：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:11:06.91 ID:zbXAFTsV0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;67</span>&nbsp;<br>호무라의 희망은 마도카의 구제잖아&nbsp;<br>소울젬에 은둔하는 건 자신은 그렇다치고 마도카는 구원되지 않잖아<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">107：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 15:10:55.42 ID:A4JdKy8E0</div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">마미가 시간정지가 가능한 호무호무하고 어떻게 싸움이 되는거야?<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">109：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 15:11:15.31 ID:6HDdEuaL0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b>리본으로 이어버리니까<br></b><br><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">130：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:06:57.86 ID:xP5oqL++0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(255, 0, 0);">데빌호무는 악이야?<br>존재해서 발생하는 디메리트는?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">135：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:09:44.39 ID:1lyaokMm0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;130</span>&nbsp;<br>ㄴㄴ, 일단 이상적인 세계라서요<br></b><br><br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">141：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:12:30.34 ID:sKpGpluGi<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">악마호무는 원환의 섭리의 일부를 강탈했다고 했잖아<br>마도카를 약화시키고 사야카와 나기사를 몰아내고 시스템의 일부가 된거잖음&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">147：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:15:49.43 ID:FwU3H+gL0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;141</span>&nbsp;<br>빼았은건 일단＝ 기억을 포함한 여신 마도카의 인간으로서의 기억<br>원환의 섭리라는 개념은 시간과 공간이라는 개념과 똑같이 존재하고 있어<br><br></b><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">148：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:16:13.26 ID:Krqwa5XN0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">방금 봤는데<br>호무라가 봉인되어 있어서 그걸 구하러 가는 부분은 알겠는데 마도카 분리부턴 진심 모르겠다.<br>그 세계는 결국 마수가 있는 세계야?&nbsp;<br></span></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">152：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:22:46.67 ID:G9QzpSjg0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b><span style="color: rgb(0, 0, 255);">&gt;&gt;148</span>&nbsp;<br>그래 마수가 있는 세계<br>그 세계의 호무라쨩은 원환의 섭리에 간섭해서 마도카의 인간 부분만 뺐었다<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">151：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:18:55.08 ID:vzIytiMH0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b>마녀도 마수도 나이트메어도 부의 감정에서 태어나는 뭔가 같으니까<br>아무래도 비슷한 건 태어나게 되어 있는 거 같다&nbsp;<br></b><br><br><br></div><div class="name" style="margin: 0px; padding: 0px; font-size: small;">162：<span style="color: rgb(0, 128, 0);">以下、名無しにかわりましてVIPがお送りします</span>：2013/10/26(土) 16:43:11.61 ID:M8JRnutO0<br></div><div class="onecall" style="margin: 10px 0px 0px; padding: 0px 0px 0px 40px; font-size: 18px;"><b>신이나 악마 같은거 말고 &nbsp;<br>이제 슬슬 보통 중학생으로 되돌려 줘라 &nbsp;<br></b><br></div></div><br><br><br><br><hr><br><br><br><br><dt style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(240, 240, 240);">231：<font color="green"><b>名無しさん＠お腹いっぱい。</b></font>：2013/10/28(月) 03:14:23.88 ID:rpDdDX5I0<br></dt><dd style="margin: 13px 0px 30px 27px; color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(240, 240, 240);"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">시리즈랑 신편을 대충 보고 대강 정리해봤다&nbsp;<br>틀린게 있다면 지적해줘&nbsp;<br><br>【TV판 이후의 세계】&nbsp;<br>마녀의 존재가 부정되고 탁함의 밸런스를 맞추기 위해서 마수가 탄생!<br>호무호무는 빨간 리본의 효과로 마도카의 기억을 유지함.&nbsp;<br>과거에 마녀화해버렸던 마법소녀(사야카 등)은 원환의 섭리에 인도받고&nbsp;<br>마녀에게 살해당한 마법소녀(마미와 쿄코 등)은 마녀가 애초에 존재하지 않는 세계가 되어버렸기 때문에 부활했다.<br><br>【격리장치의 세계】&nbsp;<br>호무호무는 QB들에 의해서 원환 시스템의 간섭을 막는 공간(이하 장치로 부름)에 잡혀버린다.<br>반 강제적으로 소울젬이 탁해져서 장치 내부에서 마녀화해버려 결계(미타키하라 시)를 만든다.&nbsp;<br>그 순간 호무호무가 선명히 기억하는 인물들은 결계 내부로 끌려들어갔다.<br><br>여신 마도카는 전 우주를 통괄하는 존재이기에 물론 이 사건도 QB의 계획도 관지하고 있고,&nbsp;빨려들어가는 순간에 사야카와 나기사에게 여신의 기억을 분산시켜 버린다.&nbsp;<br>왜냐하면 만약 마도카가 기억을 가지고 있다면 결계 내에서 원환의 의식을 행해버려 QB들에게 원환의 섭리의 구조를 관찰당할 위험성이 있기 때문.&nbsp;<br>따라서 기억을 가진 채로 잊어버린 시늉은 하지 않았다.&nbsp;<br><br>한편 QB진영은 호무호무에게 여신 마도카에게 구원을 요청하게 만들기 위해 혈안이 되지만 호무호무는 여신 마도카가 QB들에게 관찰되 지배되는 것이 두려워서 장치 내에서 스스로 소멸해버기로 결정한다.<br>（격리공간 내에서 소멸되어 버리면 두번 다시 QB들은 여신 마도카를 관찰할 기회를 얻을 수 없다）&nbsp;<br><br>이걸 눈치챈 사야카들은 장치를 파괴해서 호무라를 구하기 위해 분투한다.&nbsp;<br><br>전투 끝에 장치는 파괴되고, 나타난 것은 여신 마도카.&nbsp;<br>다정하게 감싸오는 마도카에게 손을 뻗어, 호무라와 마도카는 드디어 현실세계에서 재회.&nbsp;<br>――하는데, 씨익 웃는 호무라.<br>「이 때를 기다려 왔어」 라며.<br><br>【호무호무 개변 세계】&nbsp;<br><br>이<span class="Apple-tab-span" style="white-space:pre">	</span>해<span class="Apple-tab-span" style="white-space:pre">	</span>불<span class="Apple-tab-span" style="white-space:pre">	</span>능&nbsp;<br><br>누군가 보완해줘・・・. 마도카의 힘을 빼았은건지&nbsp;<br>마도카의 힘은 그대로 두고 인간 마도카와 개념 마도카를 분리시킨건지・・・.&nbsp;</span></dd><br><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>280：<font color="green"><b>名無しさん＠お腹いっぱい。</b></font>：2013/10/28(月) 03:20:57.47 ID:V0jxnjzZ0<br></dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(153, 0, 0); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;231</font>&nbsp;<br>대강 맞는 듯&nbsp;<br>마지막건 후자일려나&nbsp;<br></span><br></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>313：<font color="green"><b>名無しさん＠お腹いっぱい。</b></font>：2013/10/28(月) 03:26:25.28 ID:rpDdDX5I0<br></dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;"><font color="#0000FF">&gt;&gt;280</font>&nbsp;<br>대충은 맞은 거 같아서 다행이네&nbsp;<br>후자인가...참 카오스한데 사랑은 대단해! 로 정리하는 수 밖에 없나&nbsp;<br></span><br></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>331：<font color="green"><b>名無しさん＠お腹いっぱい。</b></font>：2013/10/28(月) 03:29:58.54 ID:GSNr/Ncj0</dt></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;231</font>&nbsp;<br>대체로 맞다고 생각함&nbsp;<br>개념은 남아있고 인간 마도카를 분리시켰다는 의견이 많지만 &nbsp;<br>그 시점에선 알 수 없지・・・&nbsp;<br></span></dd></dl><br><br><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>381：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 18:34:26.10 ID:KK7kXl3I0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">호무라는 원환 파워를 빼앗아서 세계를 개변할 정도의 힘을 얻은거지?&nbsp;<br>어떻게 우주 법칙에 거스를 수 있었지&nbsp;<br>여기만은 위화감이 있음&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>397：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 18:35:03.40 ID:k7KgxK1O0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(204, 0, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;381</font>&nbsp;<br>사랑이야&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>398：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 18:35:04.97 ID:b1WmF2hx0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;381</font>&nbsp;<br>사랑이야&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>402：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 18:35:08.98 ID:HBxRf+nP0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;381</font>&nbsp;<br>사랑이야&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>524：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 19:28:54.36 ID:xbbp4yxb0</dt></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">하루종일 고찰해봤는데 아직 모르겠는게 하나 있는데<br>호무라는 얼티밋 마도카를 어떻게 해서 빼앗은거야?&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>555：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 19:31:07.48 ID:FBfcDjPG0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(153, 0, 0); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;524</font>&nbsp;<br>호무라가 모은 인과의 힘일려나?&nbsp;<br>호무라는 '사랑이야' 라고 말했지만<br></span></dd></dl><br><br><br><hr><br><br><br><br><div class="akares" style="border: 2px dotted rgb(224, 224, 224); background-color: rgb(240, 240, 240); padding: 4px; color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal;"><dl><dt>393：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:48:01.62 ID:J01/cyhYO</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">나기사 관련 화제가 별로 없는데 기대받던 거에 비하면 공기였음?<br><br></span><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5270baaf61d72.png" width="720" height="1014.72312704" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201310/30/72/c0028272_5270baaf61d72.png&#39;, 921, 1298);"></div><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;"><br><br></span></dd></dl></div><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>401：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:48:33.17 ID:lm9PPDmm0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(153, 0, 0); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>팬 서비스의 일환이라는 느낌&nbsp;<br>다른게 너무 강렬해&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>405：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:48:54.71 ID:oYjKf6c40</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>귀여웠다 외의 의견은 없을 듯&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>407：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:49:04.80 ID:asPMw4ZfP</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>느무 귀여워서 죽을 거 같다&nbsp;<br><br>낼름낼름이 멈추지 않아&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>408：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:49:19.67 ID:e856zg9i0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>나올 차례 자체가 적었으니까&nbsp;<br>베베는 메인으로 나왔지만</span></dd><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>411：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:49:37.25 ID:wUd4vJ180</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>솔직히 조금 공기&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>414：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:49:49.98 ID:y0WQ5HYJ0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>유감스럽게도 예상 범위를 못 넘은 느낌&nbsp;<br><br>그리고 그 이상으로 강렬한 호무호무 때문에 상대적으로 밀리지.&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>435：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/26(土) 07:52:47.75 ID:NDlxEhz50</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;393</font>&nbsp;<br>나기사도 사야카도 천사였다.&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>614：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 20:49:57.66 ID:Cg1Qbjec0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">베베가 떠들고 있는거 외국어인가?&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>621：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 20:50:25.26 ID:XOVhrjo90</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(153, 0, 0); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;614</font>&nbsp;<br>치즈의 이름일려나?&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>636：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 20:51:01.24 ID:Iwt0Xfll0</dt></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;614</font>&nbsp;<br>그냥 치즈 이름 아닌가<br>까망베르 어쩌고 했었고&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>652：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 20:51:56.86 ID:pT32/5GR0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;614</font>&nbsp;<br>전부 치즈의 이름이라고 생각했다<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>670：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 20:52:46.83 ID:7XSB/0Es0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;614</font>&nbsp;<br>마스카포네나 파르마지아노 레지아노나<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>899：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 17:27:56.81 ID:p1+/EOL70</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(102, 0, 102); font-size: 16px; font-weight: bold;">빨리도 나기사파가 되다니 로리콘 놈ㅋㅋㅋㅋㅋ<br><br><br>은 접니다&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>911：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 17:28:42.55 ID:Tbeq8qES0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;899</font>&nbsp;<br>저도 그렇습니다.<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>936：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 17:29:46.09 ID:/6DNy+j90</dt></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;899</font>&nbsp;<br>호무라를 원환시키기 위해서 전원이 싸울 때 양손을 쳐들고 있는게 귀여웠다&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>971：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 17:31:51.63 ID:Z0aDL6Z80</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;899</font>&nbsp;<br>최고죠&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>972：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 17:31:57.69 ID:JxHAb1HP0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;899</font>&nbsp;<br>귀여웠지&nbsp;<br>정말 귀여웠어&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>312：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 22:29:23.23 ID:JxHAb1HP0</dt></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;56</font>&nbsp;<br>나기사쨩이 양손을 올리고 있는게 귀여웠다<br></span></dd></dl><div><br></div><div><br></div><div><hr><br></div><div><br></div><div><br></div><br><div><div class="akares" style="border: 2px dotted rgb(224, 224, 224); background-color: rgb(240, 240, 240); padding: 4px; color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal;"><dl><dt>283：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:10:01.28 ID:4eP50Esw0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">아직까지 목욕타월 마미양 화제가 안나옴&nbsp;<br><br></span></dd></dl></div><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>296：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:11:03.97 ID:KeSRC9b10</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(204, 0, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;283</font>&nbsp;<br>그 부분의 필름이 당첨된다면 &nbsp;<br>더이상 이 세상에 미련이 없어질 거 같아서 두렵다&nbsp;<br><br><a href="http://www.madoka-magica.com/theater/prize.html" target="_blank" style="color: rgb(0, 102, 255); text-decoration: none;">http://www.madoka-magica.com/theater/prize.html</a>&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>298：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:11:14.00 ID:Hm7OR1SR0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;283</font>&nbsp;<br>마미양이 자기 테마로 흥얼거렸지<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>304：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:11:41.37 ID:c9JtUade0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;283</font>&nbsp;<br>그건 유일한 포상이지&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>312：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:12:12.79 ID:JDEVK3PM0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;283</font>&nbsp;<br>결국 마법으로 드릴로 만드는 거라면 드라이어는 필요없다고 생각했습니다&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>365：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/27(日) 12:17:25.64 ID:0GeHfWWn0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-weight: bold; font-size: 25px;"><font color="#0000FF">&gt;&gt;283</font>&nbsp;<br>（크다）&nbsp;</span></dd></dl></div><br><br><hr><br><br><br><div class="akares" style="border: 2px dotted rgb(224, 224, 224); background-color: rgb(240, 240, 240); padding: 4px; color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal;"><dl><dt>302：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/29(火) 20:35:08.69 ID:wzZXmRgP0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;">초심으로 돌아가자&nbsp;<br></span><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5270bbe524ff6.jpg" width="720" height="683.52" onclick="Control.Modal.openDialog(this, event, &#39;http://pds25.egloos.com/pds/201310/30/72/c0028272_5270bbe524ff6.jpg&#39;, 1500, 1424);"></div><span style="color: rgb(0, 0, 255); font-weight: bold; font-size: 16px;"><br></span></dd></dl></div><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><br style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>408：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/29(火) 20:46:14.68 ID:ojkbDUJR0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(153, 0, 0); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;302</font>&nbsp;<br>몇번을 봐도 이건 심하다&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>429：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/29(火) 20:47:59.62 ID:xRhQrn+t0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;302</font>&nbsp;<br>비장의 카드는 우정의 이야기&nbsp;<br><br>틀리지 않았어&nbsp;<br><br>아무것도 틀리지 않았어&nbsp;<br><br></span></dd></dl><dl style="color: rgb(68, 68, 68); font-family: メイリオ, Meiryo, &#39;Hiragino Kaku Gothic Pro&#39;, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;ＭＳ Ｐゴシック&#39;, Osaka, sans-serif; font-size: medium; line-height: normal; background-color: rgb(255, 255, 255);"><dt>605：<font color="green"><b>&nbsp;名無しさん＠お腹いっぱい。</b></font>：2013/10/29(火) 21:01:34.76 ID:16JKsrOQ0</dt><dd style="margin: 13px 0px 30px 27px;"><span style="color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;"><font color="#0000FF">&gt;&gt;302</font>&nbsp;<br>호무라가 안 웃어・・&nbsp;</span></dd></dl><br><br><div style="text-align: center;"><br></div><br><br>
+       <!--
+       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		    xmlns:dc="http://purl.org/dc/elements/1.1/"
+		    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+       <rdf:Description
+	        rdf:about="http://jamba7.egloos.com/5779605"
+	        dc:identifier="http://jamba7.egloos.com/5779605"
+	        dc:title="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다"
+	        trackback:ping="http://jamba7.egloos.com/tb/5779605"/>
+       </rdf:RDF>
+       -->
+<div style="line-height:12px;padding:35px 0 5px">
+                  <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="window.open(&#39;http://www.egloos.com/report/popup.php?posturl=&#39;+decodeURIComponent(&#39;http://jamba7.egloos.com/5779605&#39;), &#39;pop_badreport&#39;,&#39;width=500, height=460&#39;); return false">
+                    <img src="https://raw.githubusercontent.com/choisiyi/gabera/master/ico_badreport.png" alt="신고" style="vertical-align:top;padding-right:3px"><span style="font-size:11px;letter-spacing:-1px">신고</span>
+                  </a>
+                </div></div> <div class="post_taglist f_clear"><strong>태그 : </strong><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag">마법소녀마도카마기카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%A7%88%EB%A7%88" rel="tag">마마마</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/2ch" rel="tag">2ch</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%98%EC%97%AD%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0" rel="tag">반역의이야기</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B7%B9%EC%9E%A5%ED%8C%90" rel="tag">극장판</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag">아케미호무라</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag">카나메마도카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%81%90%EB%B2%A0" rel="tag">큐베</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AA%A8%EB%AA%A8%EC%97%90%EB%82%98%EA%B8%B0%EC%82%AC" rel="tag">모모에나기사</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag">토모에마미</a></div> 
+        <div class="post_meta_area f_clear">
+            <h3>포스트 메타 정보</h3>
+            <div class="post_meta_menu">
+            
+            
+                    <h4 id="tab1_5779605" onclick="PostMeta.show_tab(1,5779605,&#39;c0028272&#39;)" class="post_meta_title1_on">퍼블리싱 및 추천</h4>
+                    <ul id="tab_c1_5779605" class="post_meta_content">
+                            <li><strong>내보내기</strong>
+                                <ul><li>밸리 : <a href="http://valley.egloos.com/theme/animation" target="_blank"> 애니메이션</a>  <em class="date">2013/10/31 14:51</em></li><li>태그 : <a href="http://valley.egloos.com/tag/%EA%B7%B9%EC%9E%A5%ED%8C%90" target="_blank"> 극장판</a>, <a href="http://valley.egloos.com/tag/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" target="_blank"> 아케미호무라</a>, <a href="http://valley.egloos.com/tag/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" target="_blank"> 카나메마도카</a>, <a href="http://valley.egloos.com/tag/%ED%81%90%EB%B2%A0" target="_blank"> 큐베</a>, <a href="http://valley.egloos.com/tag/%EB%AA%A8%EB%AA%A8%EC%97%90%EB%82%98%EA%B8%B0%EC%82%AC" target="_blank"> 모모에나기사</a>, <a href="http://valley.egloos.com/tag/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" target="_blank"> 토모에마미</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" target="_blank"> 마법소녀마도카마기카</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%A7%88%EB%A7%88" target="_blank"> 마마마</a>, <a href="http://valley.egloos.com/tag/2ch" target="_blank"> 2ch</a>, <a href="http://valley.egloos.com/tag/%EB%B0%98%EC%97%AD%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0" target="_blank"> 반역의이야기</a>
+                                </li></ul>
+                            </li></ul>
+            <h4 id="tab2_5779605" onclick="PostMeta.show_tab(2,5779605,&#39;c0028272&#39;,6)" class="post_meta_title2">같은 카테고리의 글</h4>
+        <ul id="tab_c2_5779605" class="post_meta_content" style="display:none;"></ul>
+            </div>
+        </div>
+        
+                </div>
+                <div class="post_footer_area f_clear">
+                  <div class="post_tail">
+                    <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="feedbackview(&#39;post_trackback&#39;, &#39;c0028272&#39;, 5779605, 0, 0);return false;" class="post_tail_trbk">트랙백(<span id="trbcnt5779605" class="count">0</span>)</a><span class="post_tail_cmmt"> 덧글(<span id="cmtcnt5779605" class="count">15</span>)</span>
+                  </div>
+                  <div class="post_admin">
+                    
+                  </div>
+                </div>
+                <hr class="line">
+                 <div class="post_link">
+            <div class="post_trackback" id="trackback_5779605"></div>  <div class="post_comment" id="comment_5779605">
+            
+            <h3>덧글</h3> 
+            <ul class="comment_list">
+              <li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://ulala7000.egloos.com/" title="http://ulala7000.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/d0126407_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://ulala7000.egloos.com/" title="http://ulala7000.egloos.com" target="_blank">NRPU</a></span> <span class="comment_datetime" title="2013/10/31 15:07">2013/10/31 15:07</span> <span class="comment_link"><a name="13214926" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13214926&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214926">기승로마</div> <div id="reply5779605_13214926" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://lutea.egloos.com/" title="http://lutea.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/f0078328_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://lutea.egloos.com/" title="http://lutea.egloos.com" target="_blank">모비딕</a></span> <span class="comment_datetime" title="2013/10/31 15:20">2013/10/31 15:20</span> <span class="comment_link"><a name="13214929" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13214929&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214929">잘 정리는 되는데 역시 호무라가 악마가 된 건 소울잼이 탁해져서 그렇게 생각하게 된건지, 본래 그런 바램이 있었는지 햇갈리네요.</div> <div id="reply5779605_13214929" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">호뭇</span> <span class="comment_datetime" title="2013/10/31 16:33">2013/10/31 16:33</span> <span class="comment_link"><a name="13214929.01" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13214929.01&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214929.01">내심 후회 같은게 남아 있었는데 마녀화 크리+마도카의 외톨이 드립 크리 연속으로 먹고 흐콰한듯</div> 
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0109752_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com" target="_blank">miakiss</a></span> <span class="comment_datetime" title="2013/10/31 21:19">2013/10/31 21:19</span> <span class="comment_link"><a name="13214929.02" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13214929.02">호무라 : 마도카를 지킨다...지키기 위한 수단은 아 무래도 좋은거--닷!<br><br>호무라는 원래 이런아이.</div> 
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0109752_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com" target="_blank">miakiss</a></span> <span class="comment_datetime" title="2013/10/31 21:28">2013/10/31 21:28</span> <span class="comment_link"><a name="13214929.03" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13214929.03">호무라 : 마도카... 마법소녀의 능력에는 한계가 있지, 아마? 내가 짧은 인생 에서 배운 게 있다면... 마법소녀는 마력을 쓰면 쓸수록 예기치 못한 상황에 맞닥뜨려 제 마력에 넘어질 수 있다는 거야. 마법소녀를 초월한 존재가 되지 않고서는... <br><br>나는 마법소녀를 그만두겠어! 마도카-!! 나는 마법소녀를 초월하겠어!<br><br><br>자신이 승천해도 큐베가 있는한ㄴ또 마도카를 노릴테니까 그럴바에는 자신이 마법소녀를 초월해 마도카를 독점하면 문제가 없을거라고 생각한거지요</div> 
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://ruri16.egloos.com/" title="http://ruri16.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/b0002291_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://ruri16.egloos.com/" title="http://ruri16.egloos.com" target="_blank">NAKO</a></span> <span class="comment_datetime" title="2013/11/03 02:32">2013/11/03 02:32</span> <span class="comment_link"><a name="13214929.04" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13214929.04">악마화 된건 원래부터 '노림수' 라는 느낌입니다.<br>얀데레이신 그분이야 원래 [세계따위 X까!] 라는 분이시라...<br>대사로도 호무라가 빼낸 인간으로써의 극히 일부일 뿐 이고 섭리로써의 마도카는 아직도 오류(?)는 있지만 일단 성립하는 세상이니까요.</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">장송행진곡</span> <span class="comment_datetime" title="2013/10/31 16:58">2013/10/31 16:58</span> <span class="comment_link"><a name="13214953" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13214953&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13214953&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214953">배드엔딩 같은 해피엔딩....적절한 표현이네요</div> <div id="reply5779605_13214953" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://gea006.egloos.com/" title="http://gea006.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0063488_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://gea006.egloos.com/" title="http://gea006.egloos.com" target="_blank">미니</a></span> <span class="comment_datetime" title="2013/10/31 18:04">2013/10/31 18:04</span> <span class="comment_link"><a name="13214984" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13214984&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214984">어떻게 봐도 저 방영전 소개 페이지는 참 사기군요.<br></div> <div id="reply5779605_13214984" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0109752_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com" target="_blank">miakiss</a></span> <span class="comment_datetime" title="2013/10/31 21:01">2013/10/31 21:01</span> <span class="comment_link"><a name="13215034" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13215034&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215034">호무라:이겼다! 마침내 마도카는 나의 더 월드에 흡수되어 내것이되 었다! 마법소녀! 시간정지! 갓 파워 ! 이걸로 그누구든 나 호무라를 능가하는자는 없다는것이 증명됐다! 미천한 인간들이여,지배해주마! 나의 지혜와 힘앞에 엎드려라!</div> <div id="reply5779605_13215034" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0109752_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://miakiss.egloos.com/" title="http://miakiss.egloos.com" target="_blank">miakiss</a></span> <span class="comment_datetime" title="2013/10/31 21:51">2013/10/31 21:51</span> <span class="comment_link"><a name="13215048" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13215048&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215048">나기사의 이야기는 아마 후속작에서 써먹기 위해 일부러 아껴둔듯.</div> <div id="reply5779605_13215048" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer"><a href="http://blog.naver.com/spf1974" title="http://blog.naver.com/spf1974" target="_blank">spf1974</a></span> <span class="comment_datetime" title="2013/10/31 22:07">2013/10/31 22:07</span> <span class="comment_link"><a name="13215062" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13215062&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13215062&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215062">마도카 금단증상에 시달리던 호무라.<br>마도카미를 끌어내보려는 큐베족의 반역음모를 역이용해 친위쿠데타! 자신만의 마도카로~ &gt;ㅅ&lt;<br>여신화된 마도카에 대응(?)해 여마신화하는 호무라라니... 아아 너무 애절하고 후무호무하네용 ㅎㅅㅎ</div> <div id="reply5779605_13215062" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer"><a href="http://blog.naver.com/spf1974" title="http://blog.naver.com/spf1974" target="_blank">초썰렁펭귄</a></span> <span class="comment_datetime" title="2013/10/31 22:14">2013/10/31 22:14</span> <span class="comment_link"><a name="13215065" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13215065&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779605&#39;,&#39;5779605&#39;,&#39;13215065&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779605#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215065">근데 사실 대지진 대해일로 인한 TV 방영당시의 마지막 두편 유실.<br>그로인한 현실세계의 절망적 대 재앙 상황에서 두편 재 제작.<br><br>그런 일만 아니었다면... 우로부치라는 인간을 생각해보면 원래 TV판이 이런식으로 끝나기로 되어있던거 아니었을지.<br>절망한 호무라의 마녀화와 초거대 결계 구축. 그 안에서 어찌보면 무의미한 호무라만의 이상적인 세상에서.<br>허무하다면 허무한 결계속 가짜 세계에서 홀로 웃으며 어둠에 잠기는... 그런게 우로부치스러운것 같은데 ;;<br><br>재 제작된 마지막 두편은 웬지 '대지진과 쓰나미로 고통받는 일본인들에게 희망을 주기 위해'<br>억지로 희망적 내용으로 된게 아닐까 하는 생각이 당시부터 들었슴.</div> <div id="reply5779605_13215065" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">ㅁㄴㅁ</span> <span class="comment_datetime" title="2013/11/01 12:50">2013/11/01 12:50</span> <span class="comment_link"><a name="13215065.01" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13215065.01&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215065.01">꽤 많은 분들이 대지진에 의해 결말이 바뀌었다고 주장하고 계시더군요. 사실만 알려드리자면 티비판 결말은 단 한번도 바뀐적이 없습니다. 처음부터 그 결말이었죠. 그리고 극장판 결말은 우로부치가 아니라 신보감독의 머리속에서 나온겁니다. 우로부치가 쓴 각본은 호무라가 마느님을 만나고 정화되서 그대로 끝이었는데 신보감독이 마마마는 이대로 끝나서는 안된다며 차라리 마도카와 호무라를 대결구도로 만드는게 어떤가 라고 해서 우로부치가 각본을 수정해서 지금의 결말이 나온거라고 합니다.</div> 
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">ㅁㄴㅁ</span> <span class="comment_datetime" title="2013/11/01 12:56">2013/11/01 12:56</span> <span class="comment_link"><a name="13215065.02" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779605.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779605&#39;,&#39;13215065.02&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215065.02">그리고 우로부치도 희망적인 결말을 낸적이 꽤 있습니다. 소설 아이젠플뤼겔이나 휘성의 가르간티아. 그리고 마마마의 티비판 결말이 그러하죠. 신보감독만 아니었다면 극장판도 완벽하게 해피엔딩으로 끝을 맺었겠지만요.</div> 
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://zambony.egloos.com/" title="http://zambony.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/a0004541_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://zambony.egloos.com/" title="http://zambony.egloos.com" target="_blank">잠본이</a></span> <span class="comment_datetime" title="2013/12/07 23:55">2013/12/07 23:55</span> <span class="comment_link"><a name="13215065.03" href="https://gabera-egloos-backup.blogspot.com/5779605.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13215065.03">유실이 아니라 그냥 방영 연기였고 처음부터 그런 결말이었죠.<br>방영 2년전에 우로부치가 제출한 스토리 개요와 그뒤 펴낸 각본집을 보면 바뀐데가 거의 없음.<br>우로부치 본인도 '어라 내가 멋대로 쓰면 태클 들어올 줄 알았는데 왜 아무말도 안하지?' 이럴 정도였으니 OTL</div> 
+              </li>
+            </ul>
+<div id="write_commet_box" class="comment_write">
+   <fieldset>
+       <legend>댓글 입력 영역</legend>
+   <form id="cmtform5779605" name="cmtform5779605" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;" onsubmit="return runComment(this,5);">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779605">
+       <input type="hidden" name="tid" value="">
+       <input type="hidden" name="subject" value="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다">       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+
+        <div class="comment_info">
+            <span class="comment_name">
+                <label for="cmt_name">닉네임</label>
+                <input type="text" id="name" name="name" class="name" size="10" maxlength="10" value="">
+            </span>
+            <span class="comment_passwd">
+                <label for="cmt_passwd">비밀번호</label>
+                <input type="password" id="passwd" name="passwd" class="passwd passwd5779605" size="10" maxlength="10" value="" onfocus="document.cmtform5779605.tid.value=&#39;9ULC6Sp35YQ-YjNCIR3o2VM11EYHIAM6mf_51COTc7M.&#39;" style="display:none;" onblur="if (this.value.length &gt; 0) {return;} else { togglePwdBox(this,&#39;passwd_alt5779605&#39;, false);}"><input type="text" id="passwd_alt5779605" name="passwd_alt" class="passwd passwd_alt5779605" size="10" onfocus="togglePwdBox(this,&#39;passwd5779605&#39;, true)" onclick="togglePwdBox(this,&#39;passwd5779605&#39;, true)" readonly="readonly">
+            </span>
+            <span class="comment_blog">
+                <label for="cmt_blog">블로그</label>
+                <input type="text" id="homepage" name="homepage" class="blog" value="http://" size="20">
+            </span>
+            <span class="comment_login">
+                <a href="http://sec.egloos.com/login.php?returnurl=http://jamba7.egloos.com/5779605#cmt" title="로그인">로그인</a>
+            </span>
+        </div>
+       <textarea id="comment" name="comment" class="comment_field" title="덧글 입력 영역" rows="5" cols="50"></textarea>
+       <div class="comment_btn f_clear">
+           <input type="checkbox" id="no_open" name="security"> <label for="no_open">비공개</label>
+           <input type="image" value="댓글등록" src="https://raw.githubusercontent.com/choisiyi/gabera/master/btn_comment.gif" class="comment_submit">
+       </div>
+   </form>
+   <form id="replyform5779605" name="replyform5779605" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779605">
+       <input type="hidden" name="tid" value="9ULC6Sp35YQ-YjNCIR3o2VM11EYHIAM6mf_51COTc7M.">
+       <input type="hidden" name="subject" value="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="replyform_page" value="1">
+   </form>
+   <form id="editform5779605" name="editform5779605" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_editcomment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779605">
+       <input type="hidden" name="tid" value="9ULC6Sp35YQ-YjNCIR3o2VM11EYHIAM6mf_51COTc7M.">
+       <input type="hidden" name="subject" value="[2ch] 반역의 이야기의 궁금점들을 해설해 주었다">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="writer" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="editform_page" value="1">
+   </form>
+   </fieldset>
+</div>  
+          </div>
+          </div> 
+              
+              
+              
+              
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <div class="post_navi">
+            
+            <div class="prev"><a href="https://gabera-egloos-backup.blogspot.com/5779679.html"><span class="txt">다음글 : </span>안 선생님...</a></div><div class="next"><a href="https://gabera-egloos-backup.blogspot.com/5779494.html"><span class="txt">이전글 : </span>애니플러스 반역 특별상영회 가격 확정</a></div> 
+          </div>
+          
+        </div>
+        <hr class="line">
+        
+        <div id="section_widemenu2" class="widemenu"></div>
+        <hr class="line">
+      </div>
+      
+      <div id="section_sidebar1" class="column">
+        <div class="widget menu_profile">
+          
+          <h3>프로필</h3>
+          <div class="widget_content">
+            <div class="profile_image">
+              <a href="javascript:void(0);" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/logo/201304/23/72/c0028272.gif&#39;);"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.gif" width="150" height="150" border="0" alt=""></a>
+            </div>
+            <div class="profile_desc">
+              10주년.<span class="profile_usernick fn"><span class="by">by</span> 가베라</span>
+            </div>
+            <div class="profile_prize">
+               <a href="http://valley.egloos.com/event/award/2011/announce.php" title="2011 이글루스 TOP 100"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2011.gif" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2011 이글루스 TOP 100"></a> <a href="http://valley.egloos.com/event/award/2013/announce.php" title="2013 대표 이글루"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2013.png" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2013 대표 이글루"></a>
+            </div>
+            <div class="bg_profile"></div>
+          </div>
+        </div>
+        <div class="widget menu_category">
+          
+          <h3>카테고리</h3>
+          <ul class="widget_content">
+            <li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/">전체</a><span class="count">(1492)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%8A%A4%ED%8C%85">일반적인 포스팅</a><span class="count">(84)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a><span class="count">(1246)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B8%B0%ED%83%80%20%EB%93%B1%EB%93%B1%20">기타 등등 </a><span class="count">(132)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%B6%84%EB%A5%98">미분류</a><span class="count">(30)</span>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_search">
+          
+          <h3>검색</h3>
+          <div class="widget_content f_clear">
+            <fieldset>
+  <legend>블로그내 검색 영역</legend>
+   <form action="http://jamba7.egloos.com/" method="post" onsubmit="return go_search(this);">
+    <input type="hidden" name="type" id="type" value="search">
+    <input name="srch_kwd" id="srch_kwd_2" type="text" class="input_search" value="" size="10" title="검색입력영역" maxlength="30">
+    <input type="submit" class="submit" value="">
+  </form>
+</fieldset>
+<p style="margin-top:3px;text-align:left"><a href="http://zum.com/" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/txt_power_161028.png"></a></p>
+          </div>
+        </div>
+        <div class="widget menu_tagcloud">
+          
+          <h3>태그</h3>
+          <div class="widget_content">
+            <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%83%80%EB%A7%88%ED%82%A4%EC%9D%B4%EB%A1%9C%ED%95%98" rel="tag" class="tag_level_2">타마키이로하</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%98%A4%ED%82%A4%EC%9A%B0%EB%A9%94" rel="tag" class="tag_level_3">아오키우메</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%83%A4%ED%94%84%ED%8A%B8" rel="tag" class="tag_level_3">샤프트</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%98%B8%EC%A6%88%EB%AF%B8%EC%8B%9C%EC%A6%88%EC%BF%A0" rel="tag" class="tag_level_1">호즈미시즈쿠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%82%98%EB%AF%B8%EC%95%BC%EC%B9%98%EC%9A%94" rel="tag" class="tag_level_2">나나미야치요</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag" class="tag_level_3">마기레코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EA%B0%80%EB%A9%94%EB%AA%A8%EB%AA%A8%EC%BD%94" rel="tag" class="tag_level_1">토가메모모코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag" class="tag_level_3">카나메마도카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/PPAP" rel="tag" class="tag_level_1">PPAP</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%9C%EC%A6%88%ED%82%A4%ED%9E%88%ED%86%A0%EB%AF%B8" rel="tag" class="tag_level_3">시즈키히토미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A2%86%EB%A7%9D%EA%B2%9C" rel="tag" class="tag_level_2">좆망겜</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%A0%EB%8B%88%ED%94%8C%EB%A0%89%EC%8A%A4" rel="tag" class="tag_level_1">애니플렉스</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" rel="tag" class="tag_level_3">미키사야카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C" rel="tag" class="tag_level_1">배틀그라운드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%89%EA%B3%BC%EC%9E%90" rel="tag" class="tag_level_1">막과자</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%B4%EC%B9%98%EB%B0%A9%EC%BF%A0%EC%A7%80" rel="tag" class="tag_level_1">이치방쿠지</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EA%B8%B0%EC%82%AC%EC%82%AC%EB%9D%BC" rel="tag" class="tag_level_1">미나기사사라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag" class="tag_level_3">토모에마미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EB%AF%B8%EB%A0%88%EB%82%98" rel="tag" class="tag_level_1">미나미레나</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%A7%88%EC%B1%A0" rel="tag" class="tag_level_3">나마챠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%A0%ED%8F%AC%EB%8F%84" rel="tag" class="tag_level_1">신포도</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B1%B4%EB%8B%B4" rel="tag" class="tag_level_3">건담</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9B%83%EC%9D%8C%EB%B2%A8" rel="tag" class="tag_level_1">웃음벨</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%93%9C%ED%95%98%EC%9B%8C%EB%93%9C" rel="tag" class="tag_level_1">토드하워드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A6%AC%EC%84%B8%EB%A7%88%EB%9D%BC" rel="tag" class="tag_level_1">리세마라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" rel="tag" class="tag_level_1">나츠메카코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" rel="tag" class="tag_level_3">사쿠라쿄코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A6%8C%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80" rel="tag" class="tag_level_3">즌다고로케</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag" class="tag_level_3">아케미호무라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag" class="tag_level_3">마법소녀마도카마기카</a>
+
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/tag">태그 전체보기</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_archive" id="widget_menu_archive">
+          
+          <h3>이전글 목록</h3>
+          <div class="widget_content">
+            <ul>
+              <li><a href="http://jamba7.egloos.com/archives/2021/04">2021년 04월</a><span class="count">(3)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/03">2020년 03월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/02">2020년 02월</a><span class="count">(2)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/01">2020년 01월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2017/12">2017년 12월</a><span class="count">(3)</span>
+              </li>
+            </ul>
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/archives">more...</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_comment" id="widget_menu_comment">
+          
+          <h3>최근 덧글</h3>
+          <div class="widget_content">
+            <ul>
+              <li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773307.html">이글루스가 섭종한다는 말을 듣고 제일 먼저 떠올라서 찾아와봤습니..</a></span><em class="fn">by ㅇㅇ</em> <em class="date">3/15</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5767031.html">좋은 게시물, 더 기다리고 있습니다</a></span><em class="fn">by okna kielce opinie</em> <em class="date">9/18</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5682994.html">콘텐츠를 읽는 즐거움</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">아주 잘 쓴 게시물</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5734875.html">더 멋진 게시물을 기다리고 있습니다</a></span><em class="fn">by tabletki na penisa</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5771196.html">잘했어 여기로 돌아가고 싶어</a></span><em class="fn">by czym powiekszyc peni</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5588142.html">흥미롭고 가치 있는 콘텐츠가 많다</a></span><em class="fn">by manclinic</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">좋습니다. 더 자주 확인하겠습니다</a></span><em class="fn">by 남자 성기 커지는 법</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5691431.html">요점까지 잘 썼습니다</a></span><em class="fn">by hejo-tv.pl</em> <em class="date">9/6</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773221.html">아아... 이건 '마마마 신작'이란 거다.</a></span><em class="fn">by 익명</em> <em class="date">4/4</em>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="widget menu_lifelog">
+          
+          <h3>라이프로그</h3>
+          <ul class="widget_content">
+            <li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank" title="피날레"><img alt="피날레" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank">피날레</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank" title="나는 이제 두렵지 않습니다"><img alt="나는 이제 두렵지 않습니다" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8996159298_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank">나는 이제 두렵지 않습니다</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank" title="마밍"><img alt="마밍" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank">마밍</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank" title="마밍가족 이야기"><img alt="마밍가족 이야기" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/9788986692303.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank">마밍가족 이야기</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank" title="골목대장 마밍자 1 : 초등학생이 된 마밍자"><img alt="골목대장 마밍자 1 : 초등학생이 된 마밍자" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8959760595_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank">골목대장 마밍자 1 : 초등학생이 된 마밍자</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank" title="돈 크라이 마미"><img alt="돈 크라이 마미" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8980500300_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank">돈 크라이 마미</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank" title="마미 누나"><img alt="마미 누나" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8955520271_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank">마미 누나</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank" title="어린이 성폭력.유괴.납치 해결사 마미캅"><img alt="어린이 성폭력.유괴.납치 해결사 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971243341_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank">어린이 성폭력.유괴.납치 해결사 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank" title="출동 마미캅"><img alt="출동 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971240989_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank">출동 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank" title="마미! 크고 넓은 세상을 보여주세요"><img alt="마미! 크고 넓은 세상을 보여주세요" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8989938783_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank">마미! 크고 넓은 세상을 보여주세요</a></span>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_rss">
+          
+          <h3>RSS</h3>
+          <div class="widget_content">
+            <a href="http://rss.egloos.com/blog/jamba7" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/rss_practika_64.png" alt="RSS"></a>
+          </div>
+        </div>
+        <div id="sidebar1_blank" class="blank"></div>
+      </div>
+      <hr class="line">
+    </div>
+    <hr class="line">
+    
+    <div class="footer f_clear">
+      <div class="license">
+        <span class="copyright"><a href="https://gabera-egloos-backup.blogspot.com/" title="powered by egloos.com">jamba7.egloos.com</a> is powered by <a href="http://www.egloos.com/" target="_blank">Egloos</a>.</span> <span class="rss">Subscribe to <a href="http://rss.egloos.com/blog/jamba7" target="_blank" title="RSS">RSS</a>.</span>
+        <span class="skinby">Skin designed by <a href="https://gabera-egloos-backup.blogspot.com/" target="_blank">가베라</a>.</span>
+      </div>
+    </div>
+  </div>
+</div><iframe src="https://raw.githubusercontent.com/choisiyi/gabera/master/send.html" style="width: 0px; height: 0px; border: 0px solid #fff;"></iframe>
+<img width="0" height="0" border="0" src="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_pds.php" alt="" style="display:none;">
+<form id="trackfrom" name="trackfrom" method="post" action="http://jamba7.egloos.com/5779605">
+<input type="hidden" name="url" value="">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="trburl" value="">
+</form>
+<div style="z-index:9901;top:764px;left:169px;display:none;" id="egloo_bookmark" class="popupWrap">
+    <div class="popupTitle">이글루링크 추가하기</div>
+    <dl class="popupBody">
+        <dt class="no-arrow" style="background:none;font-size:12px;text-align:center;">
+            <span id="egloo-bookmark-url" style="color:#0F71A1;"></span>
+            (<span id="egloo-bookmark-name"></span>)을(를)</dt>
+        <dd class="notice" style="margin:0;padding:0 0 0 8px;line-height:1.8em;color:#000;font-size:12px;text-align:center;">이글루링크로 추가하시겠습니까? 추가하시려면 그룹선택을 하세요.</dd>
+        <dd class="notice weak" style="margin:0;padding:0 0 0 8px;line-height:1.8em;font-size:11px;color:#666666;text-align:center;">(그룹선택 하지 않는 경우, 최상단 목록에 추가됩니다.)</dd>
+        <dd class="egloo-bookmark-group" style="margin:0;padding:10px 0 8px;line-height:1.8em;text-align:center;color:#333;font-size:12px;text-align:center;">그룹선택 :
+            <select name="groupID" id="egloo-bookmark-groupID" style="font-family:&#39;돋움&#39;,&#39;dotum&#39;,&#39;Trebuchet MS&#39;,Sans-serif;margin-left:10px;"><option value="000">그룹선택없음</option></select></dd>
+        <dd class="buttons">
+            <input type="button" value="지금 확인" onfocus="blur();" onclick="Modal.insertBookmark(true);" class="button btn24 btn_bold">
+            <input type="button" value="나중에 확인" onfocus="blur();" onclick="Modal.insertBookmark(false);" class="button btn24 btn_weak">
+        </dd>
+        <dd class="close" onclick="Modal.close();"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/button_popup_close.gif" alt="이글루링크 취소" title="이글루링크 취소"></dd>
+    </dl>
+</div>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,"script","https://connect.facebook.net/en_US/fbevents.js");
+
+    fbq("init", "654342331381106");
+    fbq("track", "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=654342331381106&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+    (function() {
+      var at = document.createElement("script");
+      at.type = "text/javascript";
+      at.async = true;
+      at.src = "//estat.zum.com/scripts/at.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(at, s);
+    })();
+	function sendGnbClick(cm) {
+		var obj = event.currentTarget || event.srcElement;
+		var estatData = {
+			"cm":cm,
+			"pos":"egloos_gnb",
+			"url": document.location.href,
+			"referrer":document.referrer
+		};
+		if(cm != "more") {
+			estatData['outurl'] = obj.href;
+		}
+		ESTatTracker.push(["@Click", estatData]);    
+	}
+</script>
+
+
+<div id="modal_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 9990; display: none;"></div><div id="modal_container" style="display: none;"></div><div id="modal_loading" style="display: none;"></div><div id="modal_overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 9900; opacity: 0.3; background-color: rgb(0, 0, 0); height: 18147px; width: 100%;"></div></body></html>

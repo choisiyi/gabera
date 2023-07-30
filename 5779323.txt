@@ -1,0 +1,823 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://jamba7.egloos.com/5779323 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=11">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+
+<meta name="author" content="가베라">
+<meta name="keywords" content="마미 블로그 였던 것">
+    <meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@egloos_zum">
+<meta property="og:url" content="http://jamba7.egloos.com/5779323">
+<meta property="og:title" content="[2ch] 타니구치씨의 반역 일러스트가 무섭다">
+<meta property="og:description" content="이제와서 보면 스포일러인 것들  어차피 모르면 뭐가 스포일런지도 모르니 알아서 954:&amp;nbsp;名無しさん＠お腹いっぱい。&amp;nbsp;2013/10/29(火) 08:53:48.41 ID:dY6x/EKw0이제와서 생각해보면 이거 강력한 누설이었네・・・완전히 까발려놨는데 어째서 아무도 눈치채지 못했을까고독한 소녀가 겨우 다다랐다&amp;nbsp;희망의 빛&amp;nbsp;새로운">
+<meta property="og:image" content="http://pds26.egloos.com/pds/201310/30/72/c0028272_526fd9eea2edd.jpg">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.ico">
+
+<link rel="pingback" href="http://rpc.egloos.com/rpc1">
+<link rel="alternate" type="application/rss+xml" title="마미 블로그 였던 것" href="http://rss.egloos.com/blog/jamba7">
+<title>마미 블로그 였던 것 : [2ch] 타니구치씨의 반역 일러스트가 무섭다</title>
+	<script type="text/javascript" async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/at.js.다운로드"></script><script async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/fbevents.js.다운로드"></script><script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ap.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/gd.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg_new.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/cr.js.다운로드"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ins.js.다운로드"></script>
+
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/prototype_v1511.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.ImgModal.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/compatible.js.다운로드"></script>
+
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_t.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/style_comment.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/skin2_common.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5_s.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_navibar.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/popup.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/button.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloos_post_style.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/choisiyi/gabera/master/year_end2016_post.css">
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.Center.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.BookmarkDlg.js.다운로드"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var browserHeight = function() {
+    var myHeight = 0;
+    if( typeof( window.innerHeight ) == 'number' ) {
+        myHeight = window.innerHeight;
+    } else if( document.documentElement && document.documentElement.clientHeight ) {
+        myHeight = document.documentElement.clientHeight;
+    } else if( document.body && document.body.clientHeight ) {
+        myHeight = document.body.clientHeight;
+    }
+    return myHeight;
+};
+
+function focusCommentBox() {
+        var cmtObject = document.getElementById('write_commet_box');
+        if(cmtObject === null || cmtObject === undefined ) {
+            var resultDiv = document.getElementById('cmt_info');
+            var message = resultDiv.getAttribute("data-message");
+            if(message !== null || message !== '') {
+                alert(message);
+            }
+        } else {
+            var size = cmtObject.getHeight() + cmtObject.offsetTop + 20;
+            var height = browserHeight();
+            var result = size - height;
+            result = (result > 0 ) ? result: 0;
+
+            window.scrollTo(0, result);
+        }
+
+}
+
+
+Event.observe(window, 'load', function() {
+    new Modal.BookmarkDlg('egloo_bookmark', {overlay: true,
+                'groupURL'     : "/exec/egloo_bookmark_group.php",
+                'remoteURL'    : "/exec/egloo_insbookmark_exec.php"});
+    if(''==''){
+	    	copy_contents('jamba7.egloos.com','가베라','0');
+    }
+    var hash = window.location.hash;
+
+    // if(hash !==null && hash !== undefined ) {
+    if(hash && hash.length > 0) {
+        var name  = hash.substr(1, hash.length -1 );
+        var search = $$('[name="'+name+'"]');
+
+        if(hash.indexOf('comment_')>=0) {
+            focusCommentBox();
+        } else if(search.length == 0 ) {
+             feedbackview('post_trackback_hash', 'c0028272', 5779323, 0, 0);
+        }
+    }
+
+
+});
+
+
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+// function ndrclick2(pndrpageid, pndrregionid) {
+// i = new Image();
+// i.src = "http://statclick.egloos.com/stat/statclick.tiff?cp_url=[click_ndr.nate.com/??ndrpageid="+pndrpageid+"&ndrregionid="+pndrregionid+"]";
+// }
+//]]>
+</script>
+</head>
+<body>
+<iframe name="cmtviewfrm" id="cmtviewfrm" src="https://raw.githubusercontent.com/choisiyi/gabera/master/saved_resource.html" width="0" height="0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="display:block;border:0px;"></iframe>
+<div id="navibar_login">
+<!--more--> 
+
+  <a onclick="sendGnbClick(&#39;zum_logo&#39;);" href="http://zum.com/page/go" target="_blank">ZUM</a> |
+  <a href="http://www.egloos.com/">이글루스</a> | 
+  <a href="https://sec.egloos.com/login.php?returnurl=http%3A%2F%2Fjamba7.egloos.com%2F5779323">로그인</a>
+</div>
+<div class="body">
+  <div class="wrap">
+    
+    <div class="header">
+      <h1>
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="마미 블로그 였던 것">마미 블로그 였던 것</a>
+      </h1>
+      <div class="url">
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com">jamba7.egloos.com</a>
+      </div>
+      <div class="topmenu">
+        <a href="http://jamba7.egloos.com/photo/" title="포토로그">포토로그</a> 
+      </div>
+    </div>
+    <hr class="line">
+    
+    <div class="container f_clear">
+      
+      <div class="content_wrap f_clear">
+        
+        <div id="section_widemenu1" class="widemenu">
+          <div>
+            <div class="widget widget_M00000009" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;">
+   <h3 style="display:none;">마미블로그 검색엔진</h3>
+   <div class="widget_content">
+    <div id="cse" style="width: 100%;">Loading</div>
+<script src="https://raw.githubusercontent.com/choisiyi/gabera/master/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'ko', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '011372837164525540465:a0rnrdc6drs', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #ffff00;
+    background-color: #FFFFFF;
+  }
+  .gsc-control-cse .gsc-table-result {
+    font-family: Arial, sans-serif;
+  }
+  input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #D9D9D9;
+  }
+  input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #2F5BB7;
+    background-color: #357AE8;
+    background-image: none;
+    filter: none;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #CCCCCC;
+    border-bottom-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabsArea {
+    border-color: #CCCCCC;
+  }
+  .gsc-webResult.gsc-result,
+  .gsc-results .gsc-imageResult {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover,
+  .gsc-imageResult:hover {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b,
+  .gs-imageResult a.gs-title:link,
+  .gs-imageResult a.gs-title:link b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b,
+  .gs-imageResult a.gs-title:visited,
+  .gs-imageResult a.gs-title:visited b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b,
+  .gs-imageResult a.gs-title:hover,
+  .gs-imageResult a.gs-title:hover b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b,
+  .gs-imageResult a.gs-title:active,
+  .gs-imageResult a.gs-title:active b {
+    color: #1155CC;
+  }
+  .gsc-cursor-page {
+    color: #1155CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #1155CC;
+  }
+  .gs-webResult .gs-snippet,
+  .gs-imageResult .gs-snippet,
+  .gs-fileFormatType {
+    color: #333333;
+  }
+  .gs-webResult div.gs-visibleUrl,
+  .gs-imageResult div.gs-visibleUrl {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gs-promotion div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-promotion div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-webResult.gsc-result.gsc-promotion {
+    border-color: #F6F6F6;
+    background-color: #F6F6F6;
+  }
+  .gsc-completion-title {
+    color: #1155CC;
+  }
+  .gsc-completion-snippet {
+    color: #333333;
+  }
+  .gs-promotion a.gs-title:link,
+  .gs-promotion a.gs-title:link *,
+  .gs-promotion .gs-snippet a:link {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:visited,
+  .gs-promotion a.gs-title:visited *,
+  .gs-promotion .gs-snippet a:visited {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:hover,
+  .gs-promotion a.gs-title:hover *,
+  .gs-promotion .gs-snippet a:hover {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:active,
+  .gs-promotion a.gs-title:active *,
+  .gs-promotion .gs-snippet a:active {
+    color: #1155CC;
+  }
+  .gs-promotion .gs-snippet,
+  .gs-promotion .gs-title .gs-promotion-title-right,
+  .gs-promotion .gs-title .gs-promotion-title-right *  {
+    color: #333333;
+  }
+  .gs-promotion .gs-visibleUrl,
+  .gs-promotion .gs-visibleUrl-short {
+    color: #009933;
+  }</style>
+    </div>
+</div>
+          </div>
+        </div>
+        <hr class="line">
+        
+        <div id="section_content" class="content">
+          
+          <div>
+            <div class="post_view">
+              
+                
+                <div class="post_title_area">
+                  <div class="post_title">
+                    <h2 class="entry-title" title="#">
+                      <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" name="5779323" title="[2ch] 타니구치씨의 반역 일러스트가 무섭다">[2ch] 타니구치씨의 반역 일러스트가 무섭다</a> <span class="post_title_category"><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a></span>
+                    </h2>
+                  </div>
+                  <ul class="post_info">
+                    <li class="post_info_author">
+                      <span class="by">by</span> 가베라
+                    </li>
+                    <li class="post_info_date"><abbr class="published" title="2013/10/30 00:58">2013/10/30 00:58</abbr>
+                    </li>
+                    <li class="post_info_link"><a href="https://gabera-egloos-backup.blogspot.com/5779323.html">jamba7.egloos.com/5779323</a>
+                    </li>
+                    <li class="post_info_cmtcount">
+                      <span class="txt">덧글수 :</span> 10
+                    </li>
+                  </ul>
+                </div>
+                <div class="post_content entry-content">
+                  <div class="hentry "><span class="copyright_entry" style="display:block;" title="[2ch] 타니구치씨의 반역 일러스트가 무섭다@@**@@http://jamba7.egloos.com/5779323"></span>이제와서 보면 스포일러인 것들<div><br></div><div><strike>어차피 모르면 뭐가 스포일런지도 모르니 알아서</strike></div><br><a name="5779323_1"></a><div><span style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); ">954:&nbsp;</span><span style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); color: rgb(171, 171, 171); ">名無しさん＠お腹いっぱい。</span><span style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); ">&nbsp;</span><span style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); color: gray; ">2013/10/29(火) 08:53:48.41 ID:dY6x/EKw0</span><span style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); "></span><div class="t_b" style="margin: 25px 10px 8px; padding: 10px 24px 10px 28px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-weight: bold; font-size: 20px; line-height: 27px; color: rgb(46, 56, 242); background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); ">이제와서 생각해보면 이거 강력한 누설이었네・・・완전히 까발려놨는데 어째서 아무도 눈치채지 못했을까<br><br><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd9eea2edd.jpg" width="700" height="393" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201310/30/72/c0028272_526fd9eea2edd.jpg&#39;, 700, 393);" style="cursor: pointer;"></div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd9f86aa05.jpg" width="700" height="393" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201310/30/72/c0028272_526fd9f86aa05.jpg&#39;, 700, 393);"></div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fda0316bed.jpg" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201310/30/72/c0028272_526fda0316bed.jpg&#39;, 1280, 720);"></div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fda07383b1.jpg" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201310/30/72/c0028272_526fda07383b1.jpg&#39;, 1280, 720);"></div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fda09019fe.jpg" width="720" height="405" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201310/30/72/c0028272_526fda09019fe.jpg&#39;, 1280, 720);"></div><br>고독한 소녀가 겨우 다다랐다&nbsp;<br>희망의 빛&nbsp;<br>새로운 섭리&nbsp;<br>그것은 사랑의 형태&nbsp;<br>한번만 더 만나고 싶어&nbsp;<br><br><br><br>「한번만 더 만나고 싶어」가 시청하고 난 뒤부터 호러로 들린다ㅋㅋㅋ</div><br style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); "><div class="t_h t_i" style="margin: 0px; padding: 0px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); ">959:&nbsp;<span style="color: rgb(171, 171, 171); ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="color: gray; ">2013/10/29(火) 08:55:27.74 ID:EN0Hu2C+i</span></div><div class="t_b t_i" style="margin: 25px 0px 8px; padding: 0px 0px 0px 28px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(255, 255, 255); font-weight: bold; font-size: 20px; line-height: 27px; color: rgb(235, 52, 116); "><span class="anchor" style="color: rgb(0, 0, 205); ">&gt;&gt;954</span>&nbsp;<br>분명히 결말 그대로의 스포일러넼ㅋㅋㅋ</div><br style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); "><div class="t_h t_i" style="margin: 0px; padding: 0px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); ">962:&nbsp;<span style="color: rgb(171, 171, 171); ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="color: gray; ">2013/10/29(火) 08:56:01.32 ID:rLfNvdNFO</span></div><div class="t_b t_i" style="margin: 25px 0px 8px; padding: 0px 0px 0px 28px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(255, 255, 255); font-weight: bold; font-size: 20px; line-height: 27px; color: rgb(46, 56, 242); "><span class="anchor" style="color: rgb(0, 0, 205); ">&gt;&gt;954</span>&nbsp;<br>이런 캐치프라이즈는 과장이 많으니까 진심으로 받아들이지 않았다<br>설마 그말 그대로일 줄은…</div><br style="font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); "><div class="t_h t_i" style="margin: 0px; padding: 0px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(255, 255, 255); "><span style="font-size: 13px; ">993:</span><span style="font-size: 13px; ">&nbsp;</span><span style="font-size: 13px; color: rgb(171, 171, 171); ">名無しさん＠お腹いっぱい。</span><span style="font-size: 13px; ">&nbsp;</span><span style="font-size: 13px; color: gray; ">2013/10/29(火) 09:03:14.03 ID:lbwAHsYb0</span></div><div class="t_b t_i" style="margin: 25px 0px 8px; padding: 0px 0px 0px 28px; font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; background-color: rgb(255, 255, 255); font-weight: bold; font-size: 20px; line-height: 27px; color: rgb(235, 52, 116); "><span class="anchor" style="color: rgb(0, 0, 205); ">&gt;&gt;954</span>&nbsp;<br>정말 내용 그대로네&nbsp;<br>전혀 눈치채지 못했지만</div></div><div><br></div><div><br></div><br><div><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">505&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:43:49.92 ID:Cakl/ntq0</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; ">이거 스포일러 심하잖아<br style="word-break: break-all; "><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd9ac1fae4.gif" width="510" height="432" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201310/30/72/c0028272_526fd9ac1fae4.gif&#39;, 510, 432);"></div><br style="word-break: break-all; "></div></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">516&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:44:32.53 ID:yvt3Ni400</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(221, 0, 68); "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; "><br style="word-break: break-all; ">이 무슨 복선</span><br style="word-break: break-all; "><br style="word-break: break-all; "></div></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">518&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:44:36.18 ID:Ch6+SFkq0</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; ">우와아아아아아아<br style="word-break: break-all; "><br style="word-break: break-all; "></div></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">521&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:44:43.43 ID:YIi01YaA0</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; ">진짜다</div></div><div><br></div><div><br></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">525&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:44:59.07 ID:UcziWHmQi</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; ">올ㅋ<br style="word-break: break-all; "><br style="word-break: break-all; "></div></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); ">527&nbsp;<font color="green" style="word-break: break-all; ">名無しさん＠お腹いっぱい。</font>&nbsp;2013/10/28(月) 23:45:00.52 ID:FmxZBmNN0</div><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; ">이제와서 생각하면・・<br style="word-break: break-all; "><br style="word-break: break-all; "></div></div><br style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><div class="res_head" style="word-break: break-all; font-size: 8.5pt; font-weight: bold; margin: 0px 0px -10px; padding: 2px; color: rgb(119, 119, 119); "><span style="font-size: 8.5pt; line-height: 23px; ">534</span><span style="font-size: 8.5pt; line-height: 23px; ">&nbsp;</span><font color="green" style="font-size: 8.5pt; line-height: 23px; word-break: break-all; ">名無しさん＠お腹いっぱい。</font><span style="font-size: 8.5pt; line-height: 23px; ">&nbsp;</span><span style="font-size: 8.5pt; line-height: 23px; ">2013/10/28(月) 23:45:25.83 ID:Gojv7Bvl0</span></div></div><div style="word-break: break-all; color: rgb(51, 51, 51); font-family: メイリオ, Meiryo, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, Osaka, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 21px; line-height: 23px; background-color: rgb(255, 255, 255); "><br style="word-break: break-all; "><div class="res_body" style="word-break: break-all; font-weight: bold; font-size: 12.5pt; padding-bottom: 5px; line-height: 2; margin: 0px 20px 10px 15px; "><span style="word-break: break-all; color: rgb(221, 0, 68); "><span style="word-break: break-all; color: rgb(0, 0, 255); ">&gt;&gt;505</span><br style="word-break: break-all; ">복선 지젼ㅋㅋㅋ</span></div><div><span style="word-break: break-all; color: rgb(221, 0, 68); "><br></span></div><div><span style="word-break: break-all; color: rgb(221, 0, 68); "><br></span></div></div></div><div><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><br></span></div><div><hr><br><br><br></div><div><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><br></span></div><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><div><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><br></span></div>741:&nbsp;</span><span style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); ">&nbsp;</span><span style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); ">2013/10/29(火) 17:25:17.32 ID:iDxihb0IP</span><div><span style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><br></span></div><div><span style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fce3327fe0.jpg" width="579" height="818" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201310/30/72/c0028272_526fce3327fe0.jpg&#39;, 579, 818);"></div></span></div><div style="text-align: center;"><font face="MS UI Gothic, arial, sans-serif"><span style="font-size: 15.454545021057129px; line-height: 22px;">관람해줘서 매우 기뻐.</span></font></div><div style="text-align: center;"><span style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255, 255, 255); "><a href="https://twitter.com/syaorin_2009/status/395103733794619392/photo/1">https://twitter.com/syaorin_2009/status/395103733794619392/photo/1</a></span></div><div style="text-align: center;"><br></div><div style="text-align: center;">타니구치 준이치로 @syaorin_2009</div><div style="text-align: center;">극장판 마도카☆마기카를 봐주신 여러분들께!&nbsp;</div><div style="text-align: center;"><br></div><div style="text-align: left;"><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; font-weight: bold; line-height: 22px; background-color: rgb(255, 255, 255); ">우와아아아아아아아아아아아아아아아악!!!!&nbsp;</span><br style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; color: rgb(33, 35, 33); font-size: 15px; font-weight: bold; line-height: 22px; background-color: rgb(255, 255, 255); "><span style="color: rgb(33, 35, 33); font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; font-size: 15px; font-weight: bold; line-height: 22px; background-color: rgb(255, 255, 255); ">타니구치씨 이 무슨 고마운 걸……</span></div><br><br><div class="main" style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; margin: 10px 5px 20px; line-height: 22px; font-size: 15px; background-color: rgb(255, 255, 255); color: rgb(33, 35, 33); "><div class="t_b" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span style="font-size: 15px; ">744:&nbsp;</span><span style="font-size: 15px; word-break: break-all; color: green; ">名無しさん＠お腹いっぱい。</span><span style="font-size: 15px; ">&nbsp;</span><span style="font-size: 15px; word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:25:44.26 ID:vDHUCpdn0</span></div></div><div class="mainmore" style="word-break: break-all; font-family: &#39;MS UI Gothic&#39;, arial, sans-serif; margin: 10px 5px 20px; line-height: 22px; font-size: 15px; background-color: rgb(255, 255, 255); color: rgb(33, 35, 33); "><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; color: rgb(255, 0, 0); margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">무서워</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">750:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:26:07.99 ID:gp1a52fG0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; color: rgb(255, 0, 0); margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">이건 호무라가 앞을 향하고 있는지 뒤를 향하고 있는지에 따라서 인상이 확 바뀌는구나ㅋㅋㅋ&nbsp;</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">751:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:26:12.55 ID:7c8E6zEr0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">이건…&nbsp;<br style="word-break: break-all; ">어떻게 해석해야 되지ㅋㅋㅋ</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">753:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:26:26.36 ID:rLfNvdNFO</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">ㄷ...뒤의 호무라도 보고 싶습니다</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">754:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:27:00.36 ID:XZe9F6wb0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">oh...</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">755:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:27:04.98 ID:j1SWuSrR0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">공포밖엔 안 느껴져</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; "><span style="font-size: 15px; ">762:&nbsp;</span><span style="font-size: 15px; word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span><span style="font-size: 15px; ">&nbsp;</span><span style="font-size: 15px; word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:27:36.78 ID:85aNmKm+0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">마도카-! 뒤에! 뒤에!</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">763:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:27:45.35 ID:geM6WCHU0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">마도카☆호무라</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">770:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:28:10.94 ID:Q7uKCHV90</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">마도카아아아아! 뒤를 봐!</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">772:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:28:15.48 ID:ZD18rCng0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">오오 역시 좋구나&nbsp;<br style="word-break: break-all; ">뒤의 머리카락 미인의 모습도 보고싶다</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">778:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:29:29.23 ID:liS/PAk+0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">무셔무셔ㅋㅋㅋ</div><br style="word-break: break-all; "><div class="t_h t_i" style="word-break: break-all; ">789:&nbsp;<span style="word-break: break-all; font-weight: bold; color: green; ">名無しさん＠お腹いっぱい。</span>&nbsp;<span style="word-break: break-all; color: rgb(0, 0, 0); ">2013/10/29(火) 17:31:21.21 ID:c3nn7Xqg0</span></div><div class="t_b t_i" style="word-break: break-all; font-weight: bold; font-size: 15px; margin-bottom: 15px; "><span class="anchor" style="word-break: break-all; color: rgb(0, 0, 0); ">&gt;&gt;741</span>&nbsp;<br style="word-break: break-all; ">너무 무섭잖ㅋㅋㅋㅋㅋㅋ&nbsp;</div><div><br></div><div><br></div></div><br><hr><br><br><br><br><br><br><div style="text-align: center;">그외 마마마 스텝들의 기념짤</div><div style="text-align: center;"><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd6a604151.jpg" width="600" height="837" onclick="Control.Modal.openDialog(this, event, &#39;http://pds25.egloos.com/pds/201310/30/72/c0028272_526fd6a604151.jpg&#39;, 600, 837);"></div></div><div style="text-align: center;"><a href="http://twitpic.com/diqgdz">http://twitpic.com/diqgdz</a></div><div style="text-align: center;"><a href="http://www18.atwiki.jp/sakuga/pages/47.html" target="_blank">키쿠다 코이치</a>&nbsp;그림</div><div style="text-align: center;"><br></div><div style="text-align: center;"><br></div><div style="text-align: center;"><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd209b8628.jpg" width="600" height="850" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201310/30/72/c0028272_526fd209b8628.jpg&#39;, 600, 850);"></div></div><div style="text-align: center;"><a href="https://twitter.com/terao9/status/394731693749174273/photo/1">https://twitter.com/terao9/status/394731693749174273/photo/1</a></div><div style="text-align: center;"><a href="http://www18.atwiki.jp/sakuga/pages/1015.html" target="_blank">테라오 히로유키</a> 그림</div><div style="text-align: center;"><br></div><div style="text-align: center;"><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd7ef573db.jpg" width="560" height="560" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201310/30/72/c0028272_526fd7ef573db.jpg&#39;, 560, 560);"></div></div><div style="text-align: center;">마도카 성우 유우키 아오이</div><div style="text-align: center;"><br></div><div style="text-align: center;"><br></div><div style="text-align: center;"><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_526fd9581652d.jpg" width="720" height="409.92" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201310/30/72/c0028272_526fd9581652d.jpg&#39;, 1500, 854);"></div></div><div style="text-align: center;">막짤</div><div style="text-align: center;"><a href="https://twitter.com/UK5610/status/393887860153004032/photo/1">https://twitter.com/UK5610/status/393887860153004032/photo/1</a></div><div style="text-align: center;"><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=39342696">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=39342696</a></div><br><br>
+       <!--
+       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		    xmlns:dc="http://purl.org/dc/elements/1.1/"
+		    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+       <rdf:Description
+	        rdf:about="http://jamba7.egloos.com/5779323"
+	        dc:identifier="http://jamba7.egloos.com/5779323"
+	        dc:title="[2ch] 타니구치씨의 반역 일러스트가 무섭다"
+	        trackback:ping="http://jamba7.egloos.com/tb/5779323"/>
+       </rdf:RDF>
+       -->
+<div style="line-height:12px;padding:35px 0 5px">
+                  <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="window.open(&#39;http://www.egloos.com/report/popup.php?posturl=&#39;+decodeURIComponent(&#39;http://jamba7.egloos.com/5779323&#39;), &#39;pop_badreport&#39;,&#39;width=500, height=460&#39;); return false">
+                    <img src="https://raw.githubusercontent.com/choisiyi/gabera/master/ico_badreport.png" alt="신고" style="vertical-align:top;padding-right:3px"><span style="font-size:11px;letter-spacing:-1px">신고</span>
+                  </a>
+                </div></div> <div class="post_taglist f_clear"><strong>태그 : </strong><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag">마법소녀마도카마기카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%A7%88%EB%A7%88" rel="tag">마마마</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/2ch" rel="tag">2ch</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%98%EC%97%AD%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0" rel="tag">반역의이야기</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B7%B9%EC%9E%A5%ED%8C%90" rel="tag">극장판</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%83%80%EB%8B%88%EA%B5%AC%EC%B9%98%EC%A4%80%EC%9D%B4%EC%B9%98%EB%A1%9C" rel="tag">타니구치준이치로</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag">아케미호무라</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag">카나메마도카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag">토모에마미</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" rel="tag">사쿠라쿄코</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" rel="tag">미키사야카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AA%A8%EB%AA%A8%EC%97%90%EB%82%98%EA%B8%B0%EC%82%AC" rel="tag">모모에나기사</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%81%90%EB%B2%A0" rel="tag">큐베</a></div> 
+        <div class="post_meta_area f_clear">
+            <h3>포스트 메타 정보</h3>
+            <div class="post_meta_menu">
+            
+            
+                    <h4 id="tab1_5779323" onclick="PostMeta.show_tab(1,5779323,&#39;c0028272&#39;)" class="post_meta_title1_on">퍼블리싱 및 추천</h4>
+                    <ul id="tab_c1_5779323" class="post_meta_content">
+                            <li><strong>내보내기</strong>
+                                <ul><li>밸리 : <a href="http://valley.egloos.com/theme/animation" target="_blank"> 애니메이션</a>  <em class="date">2013/10/30 00:58</em></li><li>태그 : <a href="http://valley.egloos.com/tag/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" target="_blank"> 카나메마도카</a>, <a href="http://valley.egloos.com/tag/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" target="_blank"> 토모에마미</a>, <a href="http://valley.egloos.com/tag/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" target="_blank"> 사쿠라쿄코</a>, <a href="http://valley.egloos.com/tag/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" target="_blank"> 미키사야카</a>, <a href="http://valley.egloos.com/tag/%EB%AA%A8%EB%AA%A8%EC%97%90%EB%82%98%EA%B8%B0%EC%82%AC" target="_blank"> 모모에나기사</a>, <a href="http://valley.egloos.com/tag/%ED%81%90%EB%B2%A0" target="_blank"> 큐베</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" target="_blank"> 마법소녀마도카마기카</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%A7%88%EB%A7%88" target="_blank"> 마마마</a>, <a href="http://valley.egloos.com/tag/2ch" target="_blank"> 2ch</a>, <a href="http://valley.egloos.com/tag/%EB%B0%98%EC%97%AD%EC%9D%98%EC%9D%B4%EC%95%BC%EA%B8%B0" target="_blank"> 반역의이야기</a>, <a href="http://valley.egloos.com/tag/%EA%B7%B9%EC%9E%A5%ED%8C%90" target="_blank"> 극장판</a>, <a href="http://valley.egloos.com/tag/%ED%83%80%EB%8B%88%EA%B5%AC%EC%B9%98%EC%A4%80%EC%9D%B4%EC%B9%98%EB%A1%9C" target="_blank"> 타니구치준이치로</a>, <a href="http://valley.egloos.com/tag/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" target="_blank"> 아케미호무라</a>
+                                </li></ul>
+                            </li></ul>
+            <h4 id="tab2_5779323" onclick="PostMeta.show_tab(2,5779323,&#39;c0028272&#39;,6)" class="post_meta_title2">같은 카테고리의 글</h4>
+        <ul id="tab_c2_5779323" class="post_meta_content" style="display:none;"></ul>
+            </div>
+        </div>
+        
+                </div>
+                <div class="post_footer_area f_clear">
+                  <div class="post_tail">
+                    <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="feedbackview(&#39;post_trackback&#39;, &#39;c0028272&#39;, 5779323, 0, 0);return false;" class="post_tail_trbk">트랙백(<span id="trbcnt5779323" class="count">1</span>)</a><span class="post_tail_cmmt"> 덧글(<span id="cmtcnt5779323" class="count">10</span>)</span>
+                  </div>
+                  <div class="post_admin">
+                    
+                  </div>
+                </div>
+                <hr class="line">
+                 <div class="post_link">
+            <div class="post_trackback" id="trackback_5779323"></div>  <div class="post_comment" id="comment_5779323">
+            
+            <h3>덧글</h3> 
+            <ul class="comment_list">
+              <li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">카오루</span> <span class="comment_datetime" title="2013/10/30 01:04">2013/10/30 01:04</span> <span class="comment_link"><a name="13214480" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779323&#39;,&#39;13214480&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214480&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214480">제작진들 언변이 큐베급이네요 [거짓말은 하지 않았다. 있는 그대로 말했다.]</div> <div id="reply5779323_13214480" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">큐사장</span> <span class="comment_datetime" title="2013/10/30 01:09">2013/10/30 01:09</span> <span class="comment_link"><a name="13214482" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779323&#39;,&#39;13214482&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214482&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214482">1시경의 콩덱스<br>그러나 스포때문에 볼 수가 없다<br>블라인드 콩덱스</div> <div id="reply5779323_13214482" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com" target="_blank">가베라</a></span> <span class="comment_datetime" title="2013/10/30 01:11">2013/10/30 01:11</span> <span class="comment_link"><a name="13214482.01" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13214482.01">막짤들만 보세요<br>일반 일러임</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://grmon12.egloos.com/" title="http://grmon12.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/a0079681_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://grmon12.egloos.com/" title="http://grmon12.egloos.com" target="_blank">히라리</a></span> <span class="comment_datetime" title="2013/10/30 01:20">2013/10/30 01:20</span> <span class="comment_link"><a name="13214485" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214485&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214485">너희 덕후들은 언제나 그렇구나, 예고로 있는 그대로를 알려주면 믿을 생각도 하지 않지.<br><br>영문을 모르겠어.</div> <div id="reply5779323_13214485" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_reply">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://sizque.egloos.com/" title="http://sizque.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/f0409536_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://sizque.egloos.com/" title="http://sizque.egloos.com" target="_blank">시즈크</a></span> <span class="comment_datetime" title="2013/10/30 02:17">2013/10/30 02:17</span> <span class="comment_link"><a name="13214485.01" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"></span> <span class="comment_security"></span>
+                </h4><div id="comment_13214485.01">엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</div> 
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">..</span> <span class="comment_datetime" title="2013/10/30 05:51">2013/10/30 05:51</span> <span class="comment_link"><a name="13214510" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779323&#39;,&#39;13214510&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214510&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214510">앜ㅋㅋㅋ 데빌 스포를 들었을 때 마이멜로디 콜라보를 떠올린 건 나 뿐이 아녔어ㅋㅋㅋㅋ</div> <div id="reply5779323_13214510" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://hrdsk.egloos.com/" title="http://HRDSK.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0109099_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://hrdsk.egloos.com/" title="http://HRDSK.egloos.com" target="_blank">더스크</a></span> <span class="comment_datetime" title="2013/10/30 09:03">2013/10/30 09:03</span> <span class="comment_link"><a name="13214531" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214531&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214531">나도 반역 보고 싶다 젠장 ㅠㅜ</div> <div id="reply5779323_13214531" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://cabera2.egloos.com/" title="http://cabera2.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/a0033295_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://cabera2.egloos.com/" title="http://cabera2.egloos.com" target="_blank">박작가</a></span> <span class="comment_datetime" title="2013/10/30 13:11">2013/10/30 13:11</span> <span class="comment_link"><a name="13214596" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214596&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214596">역시 유우키 아오이 심하게 잘그림ㅋㅋㅋㅋ</div> <div id="reply5779323_13214596" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/profile_anonymous.jpg" alt=""></span> <span class="comment_writer">dd</span> <span class="comment_datetime" title="2013/10/30 17:12">2013/10/30 17:12</span> <span class="comment_link"><a name="13214646" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="https://gabera-egloos-backup.blogspot.com/5779323.html" onclick="delComment_view(&#39;c0028272&#39;,&#39;5779323&#39;,&#39;13214646&#39;,&#39;&#39;,&#39;&#39;,&#39;0&#39;); return false;">삭제</a>  <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13214646&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;0&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13214646">쿄코 슴가가?...</div> <div id="reply5779323_13214646" class="comment_write reply_write" style="display:none;"></div>
+              </li><li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://l9shindrom.egloos.com/" title="http://L9shindrom.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/d0124144_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://l9shindrom.egloos.com/" title="http://L9shindrom.egloos.com" target="_blank">부정</a></span> <span class="comment_datetime" title="2013/11/01 20:08">2013/11/01 20:08</span> <span class="comment_link"><a name="13215411" href="https://gabera-egloos-backup.blogspot.com/5779323.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform5779323&#39;,&#39;5779323&#39;,&#39;13215411&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/5779323#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13215411">..? 앙코찡 뭔가가 볼록 튀어나왔어 음.. 음!</div> <div id="reply5779323_13215411" class="comment_write reply_write" style="display:none;"></div>
+              </li>
+            </ul>
+<div id="write_commet_box" class="comment_write">
+   <fieldset>
+       <legend>댓글 입력 영역</legend>
+   <form id="cmtform5779323" name="cmtform5779323" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;" onsubmit="return runComment(this,5);">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779323">
+       <input type="hidden" name="tid" value="">
+       <input type="hidden" name="subject" value="[2ch] 타니구치씨의 반역 일러스트가 무섭다">       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+
+        <div class="comment_info">
+            <span class="comment_name">
+                <label for="cmt_name">닉네임</label>
+                <input type="text" id="name" name="name" class="name" size="10" maxlength="10" value="">
+            </span>
+            <span class="comment_passwd">
+                <label for="cmt_passwd">비밀번호</label>
+                <input type="password" id="passwd" name="passwd" class="passwd passwd5779323" size="10" maxlength="10" value="" onfocus="document.cmtform5779323.tid.value=&#39;BKAKmvUM0pULHjNVj5EzzLc6KkiTQGXbVjbC0UmhGyM.&#39;" style="display:none;" onblur="if (this.value.length &gt; 0) {return;} else { togglePwdBox(this,&#39;passwd_alt5779323&#39;, false);}"><input type="text" id="passwd_alt5779323" name="passwd_alt" class="passwd passwd_alt5779323" size="10" onfocus="togglePwdBox(this,&#39;passwd5779323&#39;, true)" onclick="togglePwdBox(this,&#39;passwd5779323&#39;, true)" readonly="readonly">
+            </span>
+            <span class="comment_blog">
+                <label for="cmt_blog">블로그</label>
+                <input type="text" id="homepage" name="homepage" class="blog" value="http://" size="20">
+            </span>
+            <span class="comment_login">
+                <a href="http://sec.egloos.com/login.php?returnurl=http://jamba7.egloos.com/5779323#cmt" title="로그인">로그인</a>
+            </span>
+        </div>
+       <textarea id="comment" name="comment" class="comment_field" title="덧글 입력 영역" rows="5" cols="50"></textarea>
+       <div class="comment_btn f_clear">
+           <input type="checkbox" id="no_open" name="security"> <label for="no_open">비공개</label>
+           <input type="image" value="댓글등록" src="https://raw.githubusercontent.com/choisiyi/gabera/master/btn_comment.gif" class="comment_submit">
+       </div>
+   </form>
+   <form id="replyform5779323" name="replyform5779323" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779323">
+       <input type="hidden" name="tid" value="BKAKmvUM0pULHjNVj5EzzLc6KkiTQGXbVjbC0UmhGyM.">
+       <input type="hidden" name="subject" value="[2ch] 타니구치씨의 반역 일러스트가 무섭다">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="replyform_page" value="1">
+   </form>
+   <form id="editform5779323" name="editform5779323" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_editcomment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="5779323">
+       <input type="hidden" name="tid" value="BKAKmvUM0pULHjNVj5EzzLc6KkiTQGXbVjbC0UmhGyM.">
+       <input type="hidden" name="subject" value="[2ch] 타니구치씨의 반역 일러스트가 무섭다">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="writer" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="editform_page" value="1">
+   </form>
+   </fieldset>
+</div>  
+          </div>
+          </div> 
+              
+              
+              
+              
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <div class="post_navi">
+            
+            <div class="prev"><a href="https://gabera-egloos-backup.blogspot.com/5779388.html"><span class="txt">다음글 : </span>[번역] TV편 종료시점의 호무라에게 반역의 이야기를 보여줬다</a></div><div class="next"><a href="https://gabera-egloos-backup.blogspot.com/5779251.html"><span class="txt">이전글 : </span>애니플러스 반역의 이야기 예매시간 공개</a></div> 
+          </div>
+          
+        </div>
+        <hr class="line">
+        
+        <div id="section_widemenu2" class="widemenu"></div>
+        <hr class="line">
+      </div>
+      
+      <div id="section_sidebar1" class="column">
+        <div class="widget menu_profile">
+          
+          <h3>프로필</h3>
+          <div class="widget_content">
+            <div class="profile_image">
+              <a href="javascript:void(0);" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/logo/201304/23/72/c0028272.gif&#39;);"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.gif" width="150" height="150" border="0" alt=""></a>
+            </div>
+            <div class="profile_desc">
+              10주년.<span class="profile_usernick fn"><span class="by">by</span> 가베라</span>
+            </div>
+            <div class="profile_prize">
+               <a href="http://valley.egloos.com/event/award/2011/announce.php" title="2011 이글루스 TOP 100"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2011.gif" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2011 이글루스 TOP 100"></a> <a href="http://valley.egloos.com/event/award/2013/announce.php" title="2013 대표 이글루"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2013.png" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2013 대표 이글루"></a>
+            </div>
+            <div class="bg_profile"></div>
+          </div>
+        </div>
+        <div class="widget menu_category">
+          
+          <h3>카테고리</h3>
+          <ul class="widget_content">
+            <li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/">전체</a><span class="count">(1492)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%8A%A4%ED%8C%85">일반적인 포스팅</a><span class="count">(84)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a><span class="count">(1246)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B8%B0%ED%83%80%20%EB%93%B1%EB%93%B1%20">기타 등등 </a><span class="count">(132)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%B6%84%EB%A5%98">미분류</a><span class="count">(30)</span>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_search">
+          
+          <h3>검색</h3>
+          <div class="widget_content f_clear">
+            <fieldset>
+  <legend>블로그내 검색 영역</legend>
+   <form action="http://jamba7.egloos.com/" method="post" onsubmit="return go_search(this);">
+    <input type="hidden" name="type" id="type" value="search">
+    <input name="srch_kwd" id="srch_kwd_2" type="text" class="input_search" value="" size="10" title="검색입력영역" maxlength="30">
+    <input type="submit" class="submit" value="">
+  </form>
+</fieldset>
+<p style="margin-top:3px;text-align:left"><a href="http://zum.com/" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/txt_power_161028.png"></a></p>
+          </div>
+        </div>
+        <div class="widget menu_tagcloud">
+          
+          <h3>태그</h3>
+          <div class="widget_content">
+            <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C" rel="tag" class="tag_level_1">배틀그라운드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%A0%EB%8B%88%ED%94%8C%EB%A0%89%EC%8A%A4" rel="tag" class="tag_level_1">애니플렉스</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag" class="tag_level_3">토모에마미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag" class="tag_level_3">아케미호무라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A2%86%EB%A7%9D%EA%B2%9C" rel="tag" class="tag_level_2">좆망겜</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" rel="tag" class="tag_level_3">미키사야카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B1%B4%EB%8B%B4" rel="tag" class="tag_level_3">건담</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EB%AF%B8%EB%A0%88%EB%82%98" rel="tag" class="tag_level_1">미나미레나</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%89%EA%B3%BC%EC%9E%90" rel="tag" class="tag_level_1">막과자</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag" class="tag_level_3">마기레코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%98%A4%ED%82%A4%EC%9A%B0%EB%A9%94" rel="tag" class="tag_level_3">아오키우메</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9B%83%EC%9D%8C%EB%B2%A8" rel="tag" class="tag_level_1">웃음벨</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%9C%EC%A6%88%ED%82%A4%ED%9E%88%ED%86%A0%EB%AF%B8" rel="tag" class="tag_level_3">시즈키히토미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%83%A4%ED%94%84%ED%8A%B8" rel="tag" class="tag_level_3">샤프트</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A6%AC%EC%84%B8%EB%A7%88%EB%9D%BC" rel="tag" class="tag_level_1">리세마라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%93%9C%ED%95%98%EC%9B%8C%EB%93%9C" rel="tag" class="tag_level_1">토드하워드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%A0%ED%8F%AC%EB%8F%84" rel="tag" class="tag_level_1">신포도</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A6%8C%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80" rel="tag" class="tag_level_3">즌다고로케</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%83%80%EB%A7%88%ED%82%A4%EC%9D%B4%EB%A1%9C%ED%95%98" rel="tag" class="tag_level_2">타마키이로하</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%B4%EC%B9%98%EB%B0%A9%EC%BF%A0%EC%A7%80" rel="tag" class="tag_level_1">이치방쿠지</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" rel="tag" class="tag_level_1">나츠메카코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%98%B8%EC%A6%88%EB%AF%B8%EC%8B%9C%EC%A6%88%EC%BF%A0" rel="tag" class="tag_level_1">호즈미시즈쿠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag" class="tag_level_3">마법소녀마도카마기카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EA%B0%80%EB%A9%94%EB%AA%A8%EB%AA%A8%EC%BD%94" rel="tag" class="tag_level_1">토가메모모코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/PPAP" rel="tag" class="tag_level_1">PPAP</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%A7%88%EC%B1%A0" rel="tag" class="tag_level_3">나마챠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" rel="tag" class="tag_level_3">사쿠라쿄코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%82%98%EB%AF%B8%EC%95%BC%EC%B9%98%EC%9A%94" rel="tag" class="tag_level_2">나나미야치요</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EA%B8%B0%EC%82%AC%EC%82%AC%EB%9D%BC" rel="tag" class="tag_level_1">미나기사사라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag" class="tag_level_3">카나메마도카</a>
+
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/tag">태그 전체보기</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_archive" id="widget_menu_archive">
+          
+          <h3>이전글 목록</h3>
+          <div class="widget_content">
+            <ul>
+              <li><a href="http://jamba7.egloos.com/archives/2021/04">2021년 04월</a><span class="count">(3)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/03">2020년 03월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/02">2020년 02월</a><span class="count">(2)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/01">2020년 01월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2017/12">2017년 12월</a><span class="count">(3)</span>
+              </li>
+            </ul>
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/archives">more...</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_comment" id="widget_menu_comment">
+          
+          <h3>최근 덧글</h3>
+          <div class="widget_content">
+            <ul>
+              <li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773307.html">이글루스가 섭종한다는 말을 듣고 제일 먼저 떠올라서 찾아와봤습니..</a></span><em class="fn">by ㅇㅇ</em> <em class="date">3/15</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5767031.html">좋은 게시물, 더 기다리고 있습니다</a></span><em class="fn">by okna kielce opinie</em> <em class="date">9/18</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5682994.html">콘텐츠를 읽는 즐거움</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">아주 잘 쓴 게시물</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5734875.html">더 멋진 게시물을 기다리고 있습니다</a></span><em class="fn">by tabletki na penisa</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5771196.html">잘했어 여기로 돌아가고 싶어</a></span><em class="fn">by czym powiekszyc peni</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5588142.html">흥미롭고 가치 있는 콘텐츠가 많다</a></span><em class="fn">by manclinic</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">좋습니다. 더 자주 확인하겠습니다</a></span><em class="fn">by 남자 성기 커지는 법</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5691431.html">요점까지 잘 썼습니다</a></span><em class="fn">by hejo-tv.pl</em> <em class="date">9/6</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773221.html">아아... 이건 '마마마 신작'이란 거다.</a></span><em class="fn">by 익명</em> <em class="date">4/4</em>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="widget menu_lifelog">
+          
+          <h3>라이프로그</h3>
+          <ul class="widget_content">
+            <li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank" title="피날레"><img alt="피날레" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank">피날레</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank" title="나는 이제 두렵지 않습니다"><img alt="나는 이제 두렵지 않습니다" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8996159298_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank">나는 이제 두렵지 않습니다</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank" title="마밍"><img alt="마밍" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank">마밍</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank" title="마밍가족 이야기"><img alt="마밍가족 이야기" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/9788986692303.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank">마밍가족 이야기</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank" title="골목대장 마밍자 1 : 초등학생이 된 마밍자"><img alt="골목대장 마밍자 1 : 초등학생이 된 마밍자" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8959760595_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank">골목대장 마밍자 1 : 초등학생이 된 마밍자</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank" title="돈 크라이 마미"><img alt="돈 크라이 마미" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8980500300_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank">돈 크라이 마미</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank" title="마미 누나"><img alt="마미 누나" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8955520271_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank">마미 누나</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank" title="어린이 성폭력.유괴.납치 해결사 마미캅"><img alt="어린이 성폭력.유괴.납치 해결사 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971243341_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank">어린이 성폭력.유괴.납치 해결사 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank" title="출동 마미캅"><img alt="출동 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971240989_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank">출동 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank" title="마미! 크고 넓은 세상을 보여주세요"><img alt="마미! 크고 넓은 세상을 보여주세요" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8989938783_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank">마미! 크고 넓은 세상을 보여주세요</a></span>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_rss">
+          
+          <h3>RSS</h3>
+          <div class="widget_content">
+            <a href="http://rss.egloos.com/blog/jamba7" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/rss_practika_64.png" alt="RSS"></a>
+          </div>
+        </div>
+        <div id="sidebar1_blank" class="blank"></div>
+      </div>
+      <hr class="line">
+    </div>
+    <hr class="line">
+    
+    <div class="footer f_clear">
+      <div class="license">
+        <span class="copyright"><a href="https://gabera-egloos-backup.blogspot.com/" title="powered by egloos.com">jamba7.egloos.com</a> is powered by <a href="http://www.egloos.com/" target="_blank">Egloos</a>.</span> <span class="rss">Subscribe to <a href="http://rss.egloos.com/blog/jamba7" target="_blank" title="RSS">RSS</a>.</span>
+        <span class="skinby">Skin designed by <a href="https://gabera-egloos-backup.blogspot.com/" target="_blank">가베라</a>.</span>
+      </div>
+    </div>
+  </div>
+</div><iframe src="https://raw.githubusercontent.com/choisiyi/gabera/master/send.html" style="width: 0px; height: 0px; border: 0px solid #fff;"></iframe>
+<img width="0" height="0" border="0" src="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_pds.php" alt="" style="display:none;">
+<form id="trackfrom" name="trackfrom" method="post" action="http://jamba7.egloos.com/5779323">
+<input type="hidden" name="url" value="">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="trburl" value="">
+</form>
+<div style="z-index:9901;top:764px;left:169px;display:none;" id="egloo_bookmark" class="popupWrap">
+    <div class="popupTitle">이글루링크 추가하기</div>
+    <dl class="popupBody">
+        <dt class="no-arrow" style="background:none;font-size:12px;text-align:center;">
+            <span id="egloo-bookmark-url" style="color:#0F71A1;"></span>
+            (<span id="egloo-bookmark-name"></span>)을(를)</dt>
+        <dd class="notice" style="margin:0;padding:0 0 0 8px;line-height:1.8em;color:#000;font-size:12px;text-align:center;">이글루링크로 추가하시겠습니까? 추가하시려면 그룹선택을 하세요.</dd>
+        <dd class="notice weak" style="margin:0;padding:0 0 0 8px;line-height:1.8em;font-size:11px;color:#666666;text-align:center;">(그룹선택 하지 않는 경우, 최상단 목록에 추가됩니다.)</dd>
+        <dd class="egloo-bookmark-group" style="margin:0;padding:10px 0 8px;line-height:1.8em;text-align:center;color:#333;font-size:12px;text-align:center;">그룹선택 :
+            <select name="groupID" id="egloo-bookmark-groupID" style="font-family:&#39;돋움&#39;,&#39;dotum&#39;,&#39;Trebuchet MS&#39;,Sans-serif;margin-left:10px;"><option value="000">그룹선택없음</option></select></dd>
+        <dd class="buttons">
+            <input type="button" value="지금 확인" onfocus="blur();" onclick="Modal.insertBookmark(true);" class="button btn24 btn_bold">
+            <input type="button" value="나중에 확인" onfocus="blur();" onclick="Modal.insertBookmark(false);" class="button btn24 btn_weak">
+        </dd>
+        <dd class="close" onclick="Modal.close();"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/button_popup_close.gif" alt="이글루링크 취소" title="이글루링크 취소"></dd>
+    </dl>
+</div>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,"script","https://connect.facebook.net/en_US/fbevents.js");
+
+    fbq("init", "654342331381106");
+    fbq("track", "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=654342331381106&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+    (function() {
+      var at = document.createElement("script");
+      at.type = "text/javascript";
+      at.async = true;
+      at.src = "//estat.zum.com/scripts/at.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(at, s);
+    })();
+	function sendGnbClick(cm) {
+		var obj = event.currentTarget || event.srcElement;
+		var estatData = {
+			"cm":cm,
+			"pos":"egloos_gnb",
+			"url": document.location.href,
+			"referrer":document.referrer
+		};
+		if(cm != "more") {
+			estatData['outurl'] = obj.href;
+		}
+		ESTatTracker.push(["@Click", estatData]);    
+	}
+</script>
+
+
+<div id="modal_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 9990; display: none;"></div><div id="modal_container" style="display: none;"></div><div id="modal_loading" style="display: none;"></div><div id="modal_overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 9900; opacity: 0.3; background-color: rgb(0, 0, 0); height: 12267px; width: 100%;"></div></body></html>

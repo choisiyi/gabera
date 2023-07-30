@@ -1,0 +1,787 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://jamba7.egloos.com/6188424 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=11">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+
+<meta name="author" content="가베라">
+<meta name="keywords" content="마미 블로그 였던 것">
+    <meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@egloos_zum">
+<meta property="og:url" content="http://jamba7.egloos.com/6188424">
+<meta property="og:title" content="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구">
+<meta property="og:description" content="치유물 에피소드 애가 너무 착하다 보니까 개그가 아예 읍다….  카나메 마도카 : 그 소설은 &quot;마네키네코의 왈츠&quot; …그 아이도 좋아하는 걸까?  마도카: &#39;여기가… 미즈나 신사.&#39;  &#39;모두와 예정이 안 맞아서 혼자 왔지만….&#39;  &#39;뭔가 신비감이 잇달까 불가사의한 느낌의 신사….&#39;  &#39;공덕이 있기 때문일려나?&#39;  &#39;그렇다면 모처럼 왔으니까 참배를 안하면 섭하">
+<meta property="og:image" content="http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14a34bc77e.png">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.ico">
+
+<link rel="pingback" href="http://rpc.egloos.com/rpc1">
+<link rel="alternate" type="application/rss+xml" title="마미 블로그 였던 것" href="http://rss.egloos.com/blog/jamba7">
+<title>마미 블로그 였던 것 : [마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구</title>
+	<script type="text/javascript" async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/at.js.다운로드"></script><script async="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/fbevents.js.다운로드"></script><script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ap.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/gd.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/eg_new.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/cr.js.다운로드"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/ins.js.다운로드"></script>
+
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/prototype_v1511.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Control.ImgModal.js.다운로드"></script>
+	<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/compatible.js.다운로드"></script>
+
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_t.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/style_comment.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/skin2_common.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_5_s.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_navibar.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/popup.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/button.css">
+<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/choisiyi/gabera/master/egloos_post_style.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/choisiyi/gabera/master/year_end2016_post.css">
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.Center.js.다운로드"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/choisiyi/gabera/master/Modal.BookmarkDlg.js.다운로드"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var browserHeight = function() {
+    var myHeight = 0;
+    if( typeof( window.innerHeight ) == 'number' ) {
+        myHeight = window.innerHeight;
+    } else if( document.documentElement && document.documentElement.clientHeight ) {
+        myHeight = document.documentElement.clientHeight;
+    } else if( document.body && document.body.clientHeight ) {
+        myHeight = document.body.clientHeight;
+    }
+    return myHeight;
+};
+
+function focusCommentBox() {
+        var cmtObject = document.getElementById('write_commet_box');
+        if(cmtObject === null || cmtObject === undefined ) {
+            var resultDiv = document.getElementById('cmt_info');
+            var message = resultDiv.getAttribute("data-message");
+            if(message !== null || message !== '') {
+                alert(message);
+            }
+        } else {
+            var size = cmtObject.getHeight() + cmtObject.offsetTop + 20;
+            var height = browserHeight();
+            var result = size - height;
+            result = (result > 0 ) ? result: 0;
+
+            window.scrollTo(0, result);
+        }
+
+}
+
+
+Event.observe(window, 'load', function() {
+    new Modal.BookmarkDlg('egloo_bookmark', {overlay: true,
+                'groupURL'     : "/exec/egloo_bookmark_group.php",
+                'remoteURL'    : "/exec/egloo_insbookmark_exec.php"});
+    if(''==''){
+	    	copy_contents('jamba7.egloos.com','가베라','0');
+    }
+    var hash = window.location.hash;
+
+    // if(hash !==null && hash !== undefined ) {
+    if(hash && hash.length > 0) {
+        var name  = hash.substr(1, hash.length -1 );
+        var search = $$('[name="'+name+'"]');
+
+        if(hash.indexOf('comment_')>=0) {
+            focusCommentBox();
+        } else if(search.length == 0 ) {
+             feedbackview('post_trackback_hash', 'c0028272', 6188424, 0, 0);
+        }
+    }
+
+
+});
+
+
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+// function ndrclick2(pndrpageid, pndrregionid) {
+// i = new Image();
+// i.src = "http://statclick.egloos.com/stat/statclick.tiff?cp_url=[click_ndr.nate.com/??ndrpageid="+pndrpageid+"&ndrregionid="+pndrregionid+"]";
+// }
+//]]>
+</script>
+</head>
+<body>
+<iframe name="cmtviewfrm" id="cmtviewfrm" src="https://raw.githubusercontent.com/choisiyi/gabera/master/saved_resource.html" width="0" height="0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="display:block;border:0px;"></iframe>
+<div id="navibar_login">
+<!--more--> 
+
+  <a onclick="sendGnbClick(&#39;zum_logo&#39;);" href="http://zum.com/page/go" target="_blank">ZUM</a> |
+  <a href="http://www.egloos.com/">이글루스</a> | 
+  <a href="https://sec.egloos.com/login.php?returnurl=http%3A%2F%2Fjamba7.egloos.com%2F6188424">로그인</a>
+</div>
+<div class="body">
+  <div class="wrap">
+    
+    <div class="header">
+      <h1>
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="마미 블로그 였던 것">마미 블로그 였던 것</a>
+      </h1>
+      <div class="url">
+        <a href="https://gabera-egloos-backup.blogspot.com/" title="http://jamba7.egloos.com">jamba7.egloos.com</a>
+      </div>
+      <div class="topmenu">
+        <a href="http://jamba7.egloos.com/photo/" title="포토로그">포토로그</a> 
+      </div>
+    </div>
+    <hr class="line">
+    
+    <div class="container f_clear">
+      
+      <div class="content_wrap f_clear">
+        
+        <div id="section_widemenu1" class="widemenu">
+          <div>
+            <div class="widget widget_M00000009" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;">
+   <h3 style="display:none;">마미블로그 검색엔진</h3>
+   <div class="widget_content">
+    <div id="cse" style="width: 100%;">Loading</div>
+<script src="https://raw.githubusercontent.com/choisiyi/gabera/master/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'ko', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '011372837164525540465:a0rnrdc6drs', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #ffff00;
+    background-color: #FFFFFF;
+  }
+  .gsc-control-cse .gsc-table-result {
+    font-family: Arial, sans-serif;
+  }
+  input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #D9D9D9;
+  }
+  input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #2F5BB7;
+    background-color: #357AE8;
+    background-image: none;
+    filter: none;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #CCCCCC;
+    border-bottom-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabsArea {
+    border-color: #CCCCCC;
+  }
+  .gsc-webResult.gsc-result,
+  .gsc-results .gsc-imageResult {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover,
+  .gsc-imageResult:hover {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b,
+  .gs-imageResult a.gs-title:link,
+  .gs-imageResult a.gs-title:link b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b,
+  .gs-imageResult a.gs-title:visited,
+  .gs-imageResult a.gs-title:visited b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b,
+  .gs-imageResult a.gs-title:hover,
+  .gs-imageResult a.gs-title:hover b {
+    color: #1155CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b,
+  .gs-imageResult a.gs-title:active,
+  .gs-imageResult a.gs-title:active b {
+    color: #1155CC;
+  }
+  .gsc-cursor-page {
+    color: #1155CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #1155CC;
+  }
+  .gs-webResult .gs-snippet,
+  .gs-imageResult .gs-snippet,
+  .gs-fileFormatType {
+    color: #333333;
+  }
+  .gs-webResult div.gs-visibleUrl,
+  .gs-imageResult div.gs-visibleUrl {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    color: #009933;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gs-promotion div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-promotion div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #1155CC;
+  }
+  .gsc-webResult.gsc-result.gsc-promotion {
+    border-color: #F6F6F6;
+    background-color: #F6F6F6;
+  }
+  .gsc-completion-title {
+    color: #1155CC;
+  }
+  .gsc-completion-snippet {
+    color: #333333;
+  }
+  .gs-promotion a.gs-title:link,
+  .gs-promotion a.gs-title:link *,
+  .gs-promotion .gs-snippet a:link {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:visited,
+  .gs-promotion a.gs-title:visited *,
+  .gs-promotion .gs-snippet a:visited {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:hover,
+  .gs-promotion a.gs-title:hover *,
+  .gs-promotion .gs-snippet a:hover {
+    color: #1155CC;
+  }
+  .gs-promotion a.gs-title:active,
+  .gs-promotion a.gs-title:active *,
+  .gs-promotion .gs-snippet a:active {
+    color: #1155CC;
+  }
+  .gs-promotion .gs-snippet,
+  .gs-promotion .gs-title .gs-promotion-title-right,
+  .gs-promotion .gs-title .gs-promotion-title-right *  {
+    color: #333333;
+  }
+  .gs-promotion .gs-visibleUrl,
+  .gs-promotion .gs-visibleUrl-short {
+    color: #009933;
+  }</style>
+    </div>
+</div>
+          </div>
+        </div>
+        <hr class="line">
+        
+        <div id="section_content" class="content">
+          
+          <div>
+            <div class="post_view">
+              
+                
+                <div class="post_title_area">
+                  <div class="post_title">
+                    <h2 class="entry-title" title="#">
+                      <a href="https://gabera-egloos-backup.blogspot.com/6188424.html" name="6188424" title="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구">[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구</a> <span class="post_title_category"><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a></span>
+                    </h2>
+                  </div>
+                  <ul class="post_info">
+                    <li class="post_info_author">
+                      <span class="by">by</span> 가베라
+                    </li>
+                    <li class="post_info_date"><abbr class="published" title="2017/09/07 22:41">2017/09/07 22:41</abbr>
+                    </li>
+                    <li class="post_info_link"><a href="https://gabera-egloos-backup.blogspot.com/6188424.html">jamba7.egloos.com/6188424</a>
+                    </li>
+                    <li class="post_info_cmtcount">
+                      <span class="txt">덧글수 :</span> 1
+                    </li>
+                  </ul>
+                </div>
+                <div class="post_content entry-content">
+                  <div class="hentry "><span class="copyright_entry" style="display:block;" title="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구@@**@@http://jamba7.egloos.com/6188424"></span><div>치유물 에피소드</div><div>애가 너무 착하다 보니까 개그가 아예 읍다….</div><div><br></div><div><br></div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14a34bc77e.png" width="640" height="359" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14a34bc77e.png&#39;, 640, 359);" style="cursor: pointer;"></div><div style="text-align: center;">카나메 마도카 : 그 소설은 "마네키네코의 왈츠" …</div><div style="text-align: center;">그 아이도 좋아하는 걸까?</div><br><a name="6188424_1"></a><div><br></div><div>마도카:</div><div>'여기가…</div><div>미즈나 신사.'</div><div><br></div><div>'모두와 예정이 안 맞아서</div><div>혼자 왔지만….'</div><div><br></div><div>'뭔가 신비감이 잇달까</div><div>불가사의한 느낌의 신사….'</div><div><br></div><div>'공덕이</div><div>있기 때문일려나?'</div><div><br></div><div>'그렇다면 모처럼 왔으니까</div><div>참배를 안하면 섭하지!'</div><div><br></div><div>마도카:</div><div>와아, 굉장한 신사!</div><div>엄청 커….</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14ace5bc55.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14ace5bc55.png&#39;, 1602, 901);"></div></div><div>참배를 해야…</div><div>…새전…새전이…</div><div><br></div><div>아, 5엔짜리가 없어!</div><div><br></div><div>이번엔 10엔짜리로 하자!</div><div>2배의 인연이 있기를 빌며</div><div><br></div><div>얍</div><div><br></div><div>마도카:</div><div>'…모두가</div><div>항상 행복하게 지내길.'</div><div><br></div><div>'누구도 마녀하고 만나지 않고</div><div>건강한 모습으로 지내길.'</div><div><br></div><div>'만약 마녀와 만나버렸다고 해도</div><div>내가 모두를 지킬 수 있기를…'</div><div><br></div><div>마도카:</div><div>………….</div><div><br></div><div>자, 돌아가자!</div><div><br></div><div>어라!?</div><div>…비?</div><div><br></div><div>마도카:</div><div>'와아아앗</div><div>본격적으로 쏟아진다'</div><div><br></div><div>마도카:</div><div>어라, 지나가는 비?</div><div><br></div><div>(참배하고 나자마자 오다니</div><div>왠지 손해본 기분…)</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14aea547d5.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201709/07/72/c0028272_59b14aea547d5.png&#39;, 1602, 901);"></div></div><div>하아~, 흠뻑 젖었네</div><div>어쩌지….</div><div><br></div><div>:</div><div>저기….</div><div><br></div><div>마도카:</div><div>네?</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14d686d2e8.png" width="640" height="359" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14d686d2e8.png&#39;, 640, 359);"></div></div><div>???:</div><div>괜찮다면…</div><div>이 손수건을….</div><div><br></div><div>마도카:</div><div>아…고마워!</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14aef91cd3.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14aef91cd3.png&#39;, 1602, 901);"></div></div><div>조금 젖어버려서</div><div>곤란하던 참이었어.</div><div><br></div><div>???</div><div>아뇨</div><div>천만의 말씀이에요.</div><div><br></div><div>마침, 조금 전</div><div>버스가 가버려서….</div><div><br></div><div>다음 버스까지는,</div><div>아직 30분은 더 남아버렸기에….</div><div><br></div><div>빨리 닦지 않으면…</div><div>감기 걸려버려요.</div><div><br></div><div>마도카:</div><div>그랬구나….</div><div><br></div><div>아, 손수건 고마워</div><div>정말 도움이 됐어.</div><div><br></div><div>???:</div><div>앗…아뇨…!</div><div>그런….</div><div><br></div><div>………….</div><div><br></div><div>마도카:</div><div>…앗!</div><div><br></div><div>???:</div><div>히익…!?</div><div><br></div><div>마도카:</div><div>에, 아, 아니…미안해.</div><div><br></div><div>???:</div><div>…?</div><div><br></div><div>마도카:</div><div>응, 그게…그 소설</div><div>「마네키네코의 왈츠」…맞지?</div><div><br></div><div>???:</div><div>네…</div><div>그런…데요….</div><div><br></div><div>마도카:</div><div>나도 좋아하는 소설이라서</div><div>그만 큰 소릴 내버렸네….</div><div><br></div><div>???:</div><div>앗…! 저도…굉장히 좋아해요…!</div><div>애독서에요…!</div><div><br></div><div>마도카:</div><div>그렇구나.</div><div>멋진 소설이야.</div><div><br></div><div>뭐니뭐니 해도</div><div>등장하는 고양이가 귀여워</div><div><br></div><div>???:</div><div>네…!</div><div>그렇죠…!</div><div><br></div><div>…기뻐요.</div><div><br></div><div>이 책을 아는 사람…</div><div>많지 않으니까….</div><div><br></div><div>…저는…</div><div>특히….</div><div><br></div><div>주인공인 마네키네코 씨가</div><div>별하늘을 뛰어다니는 장면이 좋아서….</div><div><br></div><div>마도카:</div><div>그 장면, 나도 좋아해!</div><div>후후후.</div><div><br></div><div>…나, 마도카라고 해</div><div>카나메 마도카, 잘 부탁해.</div><div><br></div><div>???:</div><div>아…! 저기…</div><div>저는…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b0ccf224.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14b0ccf224.png&#39;, 1602, 901);"></div></div><div>…나츠메 카코에요.</div><div>잘 부탁드려요.</div><div><br></div><div>마도카:</div><div>버스 올때까지 시간도 남았으니</div><div>괜찮다면 그 책에 대해서 이야기하지 않을래?</div><div><br></div><div>나도, 다른 사람의 감상</div><div>들어보고 싶었거든.</div><div><br></div><div>나츠메 카코:</div><div>넷…!</div><div>부디…!</div><div><br></div><div>마도카:</div><div>'그때부터</div><div>나와 카코쨩은</div><div>좋아하는 책에 대해서 떠들었다.'</div><div><br></div><div>'줄거운 시간은 순식간에 지나가고</div><div>버스는 곧바로 도착했다.</div><div>우리들은 버스 안에서도 이야기를 했다.'</div><div><br></div><div>'하지만</div><div>나는 버스를 갈아타야 해서….'</div><div><br></div><div>마도카:</div><div>하아~</div><div>잔뜩 이야기할 수 있어서 즐거웠어.</div><div><br></div><div>카코:</div><div>아뇨…! 저야말로…</div><div>정말 즐거웠어요.</div><div><br></div><div>마도카:</div><div>그럼 바이바이</div><div>다음에 봐!</div><div><br></div><div>카코:</div><div>네.</div><div>또, 언젠가….</div><div><br></div><div>마도카:</div><div>'그렇게 나는</div><div>카코쨩과 헤어졌다.'</div><div><br></div><div>'그녀가 마법소녀란걸 내가 알게 된 것은</div><div>다시 만났을 때의 이야기….'</div><div><br></div><div>- Battle 1 끝 -</div><div><br></div><div>- Battle 2 시작 -</div><div><br></div><div>마도카:</div><div>'멋진 가게들이 즐비한 쇼핑몰.'</div><div><br></div><div>마도카:</div><div>와아아아</div><div>멋진 양복이 잔뜩.</div><div><br></div><div>아, 저것도 귀여워.</div><div><br></div><div>아, 이쪽도….</div><div><br></div><div>앗!</div><div>안되지!</div><div><br></div><div>마도카:</div><div>'오늘의 목적은</div><div>책방에 가는 거였다.'</div><div><br></div><div>'어제 버스정류장에서 만난 여자아이</div><div>그 아이랑 이야기 꽃을 피웠던 책</div><div>추억의 한 권….</div><div><br></div><div>마도카:</div><div>아 찾았다!</div><div><br></div><div>「마네키네코의 왈츠」</div><div>…응? 이쪽은?</div><div><br></div><div>에엣!?</div><div>속편이 나온거야?</div><div><br></div><div>「마네키네코의 당고」</div><div>이, 이건 읽어야만 해!</div><div><br></div><div>:</div><div>앗….</div><div><br></div><div>마도카:</div><div>엣.</div><div><br></div><div>카코쨩…?</div><div>카코쨩!</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b1c99db9.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14b1c99db9.png&#39;, 1602, 901);"></div></div><div>나츠메 카코:</div><div>마도카 양…!</div><div><br></div><div>굉장한…우연이네요….</div><div><br></div><div>마도카:</div><div>정말로 우연이네!</div><div><br></div><div>마네키네코가 우리들을</div><div>다시 만나게 해준 걸까나?</div><div><br></div><div>카코:</div><div>…마네키네코가 부르는 건…</div><div>돈이니까요….</div><div><br></div><div>연을 맺어주는건…</div><div>…어떨려나…?</div><div><br></div><div>마도카:</div><div>하지만</div><div>이렇게 만났는걸.</div><div><br></div><div>깜짝 놀랐어YO.</div><div><br></div><div>카코:</div><div>네…!</div><div><br></div><div>…저</div><div>…저기….</div><div><br></div><div>마도카:</div><div>응?</div><div>무슨 일이야?</div><div><br></div><div>카코:</div><div>저기…</div><div>마도카 양은…혹시…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b25de4eb.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14b25de4eb.png&#39;, 1602, 901);"></div></div><div>마법소녀…</div><div>…이신가요?</div><div><br></div><div>마도카:</div><div>…에엣!?</div><div>어째서, 그걸…?</div><div><br></div><div>카코:</div><div>이전에는…</div><div>묻지 못했는데요…</div><div><br></div><div>손수건을</div><div>돌려 주셨을 때</div><div><br></div><div>소울젬의 반지가</div><div>보였어요….</div><div><br></div><div>마도카:</div><div>그럼…</div><div>카코쨩도?</div><div><br></div><div>카코:</div><div>네, 저도…</div><div>마법소녀에요.</div><div><br></div><div>마도카:</div><div>후훗, 기쁘네.</div><div><br></div><div>카코:</div><div>…에?</div><div><br></div><div>마도카:</div><div>우연히 만난 것뿐이 아니라</div><div>같은 마법소녀였다니</div><div><br></div><div>굉장해 카코쨩!</div><div>정말로 마네키네코 덕분일지도!</div><div><br></div><div>카코:</div><div>………….</div><div><br></div><div>…네</div><div>그럴지도 몰라요.</div><div><br></div><div>마도카:</div><div>'그때부터 우리들은</div><div>다시금, 잔뜩 떠들었다.'</div><div><br></div><div>'우연히 좋아하는 책이 같았던</div><div>그 아이가 마법소녀였다니!'</div><div><br></div><div>'책 이야기를 하고 있자니</div><div>카코쨩은 매우 즐거워 보여서</div><div>같이 이야기하고 있으면</div><div>나도, 점점 즐거워졌다.'</div><div><br></div><div>'이렇게 친구가 늘어가는 건</div><div>정말로 기쁘다고 느꼈다.'</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b3f17c1f.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds25.egloos.com/pds/201709/07/72/c0028272_59b14b3f17c1f.png&#39;, 1602, 901);"></div></div><div>카코:</div><div>…저기, 마도카 양.</div><div>다음 주 일요일…한가하신가요?</div><div><br></div><div>마도카:</div><div>다음주 일요일?</div><div>비어있는데, 왜 그래?</div><div><br></div><div>카코:</div><div>같이…</div><div>작은 모험을 해보지 않으실래요?</div><div><br></div><div>마도카:</div><div>작은…모험?</div><div><br></div><div>카코:</div><div>네, 밤의…</div><div><br></div><div>마도카:</div><div>응.</div><div><br></div><div>카코:</div><div>밤중의 학교에…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b4aba7c3.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14b4aba7c3.png&#39;, 1602, 901);"></div></div><div>마도카:</div><div>…응?</div><div>밤중의…학교?</div><div><br></div><div>카코:</div><div>몰래 들어가지 않으실래요?</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b4ef22c3.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds21.egloos.com/pds/201709/07/72/c0028272_59b14b4ef22c3.png&#39;, 1602, 901);"></div></div><div>마도카:</div><div>…에에에에에에엣!?</div><div><br></div><div>- Battle 2 끝 -&nbsp;</div><div><br></div><div>- Battle 3 시작 -</div><div><br></div><div>마도카:</div><div>'밤중의 학교…</div><div>깜깜하고</div><div>왠지 엄청 무서운 분위기…</div><div>싫다아.'</div><div><br></div><div>:</div><div>마도카 양!</div><div><br></div><div>마도카:</div><div>히얏!</div><div><br></div><div>카코쨩!</div><div>깜짝 놀랐어.</div><div><br></div><div>나츠메 카코:</div><div>죄, 죄송해요…!</div><div>놀라게 할 생각은….</div><div><br></div><div>마도카:</div><div>아, 으응</div><div>신경쓰지 마.</div><div><br></div><div>내가</div><div>멋대로 놀라버린 것뿐이니까.</div><div><br></div><div>저기, 그보다</div><div>여기 맞지?</div><div><br></div><div>카코:</div><div>네…!</div><div>여기는…</div><div><br></div><div>제가 다니는</div><div>학교인데요…</div><div><br></div><div>이 학교의 옥상이,</div><div>오늘의 목적지에요.</div><div><br></div><div>마도카:</div><div>역시 어둡고</div><div>조금 무서울지도….</div><div><br></div><div>카코:</div><div>…저기…</div><div>솔직하게…말하자면…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b6187add.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201709/07/72/c0028272_59b14b6187add.png&#39;, 1602, 901);"></div></div><div>저도 무서워요…</div><div><br></div><div>…하지만!</div><div><br></div><div>마도카 양에게 꼭</div><div>보여드리고 싶은 게 있어요.</div><div><br></div><div>마도카:</div><div>보여주고 싶은 것?</div><div>뭔데?</div><div><br></div><div>카코:</div><div>그것은…</div><div><br></div><div>지금은 아직 비밀이에요.</div><div><br></div><div>마도카:</div><div>에에~</div><div>빨리 알고 싶어.</div><div><br></div><div>카코:</div><div>옥상에 도착할때까지</div><div>기대해 주세요.</div><div><br></div><div>…일단</div><div>학교 안으로 들어갈까요.</div><div><br></div><div>마도카:</div><div>으, 응….</div><div><br></div><div>카코:</div><div>…아무도 없는 교정이란 건…</div><div>어쩐지 기분나쁘네요….</div><div><br></div><div>마도카:</div><div>그렇네.</div><div><br></div><div>와앗!</div><div><br></div><div>카코:</div><div>히엑!</div><div>뭐, 뭐죠…!?</div><div><br></div><div>마도카:</div><div>무슨 소리가….</div><div><br></div><div>카코:</div><div>저 정말인가요…?</div><div>관리인 씨…같은 걸까요…?</div><div><br></div><div>…어쩌면…………</div><div>유려…!</div><div><br></div><div>마도카:</div><div>자, 잠깐!</div><div>카코쨩!</div><div><br></div><div>꺄앗.</div><div><br></div><div>카코:</div><div>힉!</div><div><br></div><div>지, 지금 건…</div><div>저한테도 들렸어요….</div><div><br></div><div>………응…?</div><div>저건……….</div><div><br></div><div>마도카 양</div><div>저기.</div><div><br></div><div>마도카:</div><div>에?</div><div><br></div><div>카코:</div><div>봐요, 저기에 화단 쪽에…</div><div>고양이 씨에요.</div><div><br></div><div>마도카:</div><div>아!</div><div>정말….</div><div><br></div><div>뭐야, 고양이였구나</div><div>다행이야.</div><div><br></div><div>카코:</div><div>후훗</div><div>그 모습을 보아하니…</div><div><br></div><div>교내에 들어가는 건</div><div>더 무리일거 같네요.</div><div><br></div><div>마도카:</div><div>그, 그렇지 않아!</div><div>괜찮은걸.</div><div><br></div><div>카코:</div><div>에…</div><div>그, 그런….</div><div><br></div><div>마도카:</div><div>어?</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b906cd26.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14b906cd26.png&#39;, 1602, 901);"></div></div><div>카코:</div><div>…저는 무서워서…학교 안에는</div><div>도저히 들어갈 수가 없어요….</div><div><br></div><div>마도카:</div><div>그런거야?</div><div>뭐야, 우후후후.</div><div><br></div><div>카코:</div><div>…그래서…</div><div><br></div><div>마법소녀로 변신해서…</div><div>바깥에서 옥상으로 가지 않으실래요?</div><div><br></div><div>마도카:</div><div>마법으로 옥상까지…</div><div>응, 그렇게 하자.</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14b9e4ceda.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201709/07/72/c0028272_59b14b9e4ceda.png&#39;, 1602, 901);"></div></div><div>마도카:</div><div>아, 카코쨩의 마법소녀 모습</div><div>엄청 귀여워.</div><div><br></div><div>카코:</div><div>마도카 양도</div><div>매우 잘 어울려요.</div><div><br></div><div>마도카:</div><div>후후후, 고마워</div><div>그럼, 갈까?</div><div><br></div><div>카코:</div><div>네!</div><div><br></div><div>- 엔딩 -</div><div><br></div><div>마도카:</div><div>'에잇!'</div><div><br></div><div>마도카:</div><div>후우, 벌써 도착했네.</div><div><br></div><div>나츠메 카코:</div><div>마법소녀라서 가능한…</div><div>지름길이네요!</div><div><br></div><div>마도카:</div><div>그렇네!</div><div><br></div><div>그래서 카코쨩이</div><div>내게 보여주고 싶다는 건?</div><div><br></div><div>카코:</div><div>마도카 양</div><div>위를 봐주세요.</div><div><br></div><div>마도카:</div><div>위?</div><div><br></div><div>와앗! 굉장한 별하늘!</div><div>아름다워….</div><div><br></div><div>카코:</div><div>…마도카 양</div><div>알고 계신가요?</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14bab3cf13.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds25.egloos.com/pds/201709/07/72/c0028272_59b14bab3cf13.png&#39;, 1602, 901);"></div></div><div>오늘은 1년 중에서, 별이 가장</div><div>아름답게 보이는 날이랍니다.</div><div><br></div><div>마도카:</div><div>그런거야?</div><div><br></div><div>카코:</div><div>천체의 법칙이라던가…</div><div><br></div><div>과학적인 건</div><div>모르겠지만요…</div><div><br></div><div>그 책에는…</div><div>이렇게 적혀 있었어요.</div><div><br></div><div>마도카:</div><div>『그 책』….</div><div><br></div><div>…아!</div><div>「마네키네코의 왈츠」?</div><div><br></div><div>카코:</div><div>네.</div><div><br></div><div>…그리고…카미하마 내에서는</div><div>여기가 제일이에요.</div><div><br></div><div>높은 곳이고…</div><div><br></div><div>높은 빌딩이라던가…빛나는 거라던가…</div><div>그 외에 방해될만한 것도 없고….</div><div><br></div><div>느긋히…차분히…</div><div>별을 보는 데는 최고의 장소….</div><div><br></div><div>그래서 오늘 이 날에,</div><div>이 장소에…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14bbb8ea60.png" width="720" height="404.943820225" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14bbb8ea60.png&#39;, 1602, 901);"></div></div><div>마도카 양에게</div><div>이 별하늘을 보여드리고 싶었어요.</div><div><br></div><div>마도카:</div><div>카코쨩….</div><div><br></div><div>고마워.</div><div><br></div><div>카코:</div><div>기뻐해 주신다면…</div><div>다행이에요.</div><div><br></div><div>저…실은 소심하고…</div><div>타인과 대화하는 것도 잘 못하고…</div><div><br></div><div>이야기를 잘 못해서, 슬픈&nbsp;</div><div>기분이 되는 일도 많고…</div><div><br></div><div>…하지만, 마도카 양과는…</div><div>마도카 양이라면…</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14c2726aff.png" width="640" height="359" onclick="Control.Modal.openDialog(this, event, &#39;http://pds26.egloos.com/pds/201709/07/72/c0028272_59b14c2726aff.png&#39;, 640, 359);"></div></div><div>…저, 제대로 대화할 수 있어서…</div><div>…즐겁게, 대화할 수 있었기에…</div><div><br></div><div>그래서…이 고마움의 기분을</div><div>전하고 싶어서….</div><div><br></div><div>마도카:</div><div>카코쨩….</div><div>나도 똑같아?</div><div><br></div><div>카코:</div><div>네…?</div><div><br></div><div>마도카:</div><div>모두와 친구가 되고 싶지만</div><div>다른 사람들도 그렇다곤 할 수 없으니</div><div><br></div><div>매정하게 거절당하는 경우도 있고</div><div>의기소침해지는 일도 있어…</div><div><br></div><div>그래도 말야,</div><div>나는 생각해.</div><div><br></div><div>누군가와 친구가 되려면</div><div>거기서 두려워하면 안 된다고.</div><div><br></div><div>분명하게 기분을 전달하면</div><div>그건 분명히 전해지는 거야.</div><div><br></div><div>내게는 전해져 왔어.</div><div><br></div><div>카코쨩의</div><div>숨김없는 기분이.</div><div><br></div><div>카코:</div><div>마도카 양…</div><div>…고마워요.</div><div><br></div><div>…마도카 양은…</div><div>정말로 다정한 분이시네요….</div><div><br></div><div>저, 앞으로도</div><div>두려워하지 않고 노력할게요.</div><div><br></div><div>마도카:</div><div>괜찮아!</div><div>그야, 카코쨩은</div><div><br></div><div><br></div><div>이렇게 멋진 별하늘을 내게</div><div>선물해줬으니까!</div><div><br></div><div>고마워, 카코쨩!</div><div><br></div><div>카코:</div><div>네…!</div><div><br></div><div><div style="text-align:center"><img class="image_mid" border="0" onmouseover="this.style.cursor=&#39;pointer&#39;" alt="" src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272_59b14c30ac52e.png" width="640" height="359" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/pds/201709/07/72/c0028272_59b14c30ac52e.png&#39;, 640, 359);"></div></div><div>마도카:</div><div>'아름다운 별하늘의 밑에서</div><div>멋진 친구가 생겼습니다.'</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>호무라 풀밟기할 내용이네.</div><div><br></div><br><br>
+       <!--
+       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		    xmlns:dc="http://purl.org/dc/elements/1.1/"
+		    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+       <rdf:Description
+	        rdf:about="http://jamba7.egloos.com/6188424"
+	        dc:identifier="http://jamba7.egloos.com/6188424"
+	        dc:title="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구"
+	        trackback:ping="http://jamba7.egloos.com/tb/6188424"/>
+       </rdf:RDF>
+       -->
+<div style="line-height:12px;padding:35px 0 5px">
+                  <a href="https://gabera-egloos-backup.blogspot.com/6188424.html" onclick="window.open(&#39;http://www.egloos.com/report/popup.php?posturl=&#39;+decodeURIComponent(&#39;http://jamba7.egloos.com/6188424&#39;), &#39;pop_badreport&#39;,&#39;width=500, height=460&#39;); return false">
+                    <img src="https://raw.githubusercontent.com/choisiyi/gabera/master/ico_badreport.png" alt="신고" style="vertical-align:top;padding-right:3px"><span style="font-size:11px;letter-spacing:-1px">신고</span>
+                  </a>
+                </div></div> <div class="post_taglist f_clear"><strong>태그 : </strong><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag">마기레코</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag">마법소녀마도카마기카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag">카나메마도카</a>, <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" rel="tag">나츠메카코</a></div> 
+        <div class="post_meta_area f_clear">
+            <h3>포스트 메타 정보</h3>
+            <div class="post_meta_menu">
+            
+            
+                    <h4 id="tab1_6188424" onclick="PostMeta.show_tab(1,6188424,&#39;c0028272&#39;)" class="post_meta_title1_on">퍼블리싱 및 추천</h4>
+                    <ul id="tab_c1_6188424" class="post_meta_content">
+                            <li><strong>내보내기</strong>
+                                <ul><li>밸리 : <a href="http://valley.egloos.com/theme/game" target="_blank"> 게임</a>  <em class="date">2017/09/07 22:41</em></li><li>태그 : <a href="http://valley.egloos.com/tag/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" target="_blank"> 마기레코</a>, <a href="http://valley.egloos.com/tag/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" target="_blank"> 마법소녀마도카마기카</a>, <a href="http://valley.egloos.com/tag/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" target="_blank"> 카나메마도카</a>, <a href="http://valley.egloos.com/tag/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" target="_blank"> 나츠메카코</a>
+                                </li></ul>
+                            </li></ul>
+            <h4 id="tab2_6188424" onclick="PostMeta.show_tab(2,6188424,&#39;c0028272&#39;,6)" class="post_meta_title2">같은 카테고리의 글</h4>
+        <ul id="tab_c2_6188424" class="post_meta_content" style="display:none;"></ul>
+            </div>
+        </div>
+        
+                </div>
+                <div class="post_footer_area f_clear">
+                  <div class="post_tail">
+                    <a href="https://gabera-egloos-backup.blogspot.com/6188424.html" onclick="feedbackview(&#39;post_trackback&#39;, &#39;c0028272&#39;, 6188424, 0, 0);return false;" class="post_tail_trbk">트랙백(<span id="trbcnt6188424" class="count">0</span>)</a><span class="post_tail_cmmt"> 덧글(<span id="cmtcnt6188424" class="count">1</span>)</span>
+                  </div>
+                  <div class="post_admin">
+                    
+                  </div>
+                </div>
+                <hr class="line">
+                 <div class="post_link">
+            <div class="post_trackback" id="trackback_6188424"></div>  <div class="post_comment" id="comment_6188424">
+            
+            <h3>덧글</h3> 
+            <ul class="comment_list">
+              <li class="comment_item">
+                <h4 class="comment_writer_info">
+                  <span class="comment_gravatar"><a href="http://gearman32.egloos.com/" title="http://gearman32.egloos.com"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/e0040264_50.jpg" alt=""></a></span> <span class="comment_writer"><a href="http://gearman32.egloos.com/" title="http://gearman32.egloos.com" target="_blank">G-32호</a></span> <span class="comment_datetime" title="2017/09/08 21:40">2017/09/08 21:40</span> <span class="comment_link"><a name="13502045" href="https://gabera-egloos-backup.blogspot.com/6188424.html" title="#">#</a> </span> <span class="comment_admin"> <a href="javascript:;" onclick="replyComment(&#39;replyform6188424&#39;,&#39;6188424&#39;,&#39;13502045&#39;,5,&#39;&#39;,&#39;http://&#39;, &#39;&#39;, &#39;http://jamba7.egloos.com/6188424#cmt&#39;,&#39;&#39;,&#39;1&#39;); return false;" title="답글">답글</a> </span> <span class="comment_security"></span>
+                </h4><div id="comment_13502045">과연 음란핑크 작업거는 솜씨가 남다르지</div> <div id="reply6188424_13502045" class="comment_write reply_write" style="display:none;"></div>
+              </li>
+            </ul>
+<div id="write_commet_box" class="comment_write">
+   <fieldset>
+       <legend>댓글 입력 영역</legend>
+   <form id="cmtform6188424" name="cmtform6188424" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;" onsubmit="return runComment(this,5);">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6188424">
+       <input type="hidden" name="tid" value="">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구">       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+
+        <div class="comment_info">
+            <span class="comment_name">
+                <label for="cmt_name">닉네임</label>
+                <input type="text" id="name" name="name" class="name" size="10" maxlength="10" value="">
+            </span>
+            <span class="comment_passwd">
+                <label for="cmt_passwd">비밀번호</label>
+                <input type="password" id="passwd" name="passwd" class="passwd passwd6188424" size="10" maxlength="10" value="" onfocus="document.cmtform6188424.tid.value=&#39;GZf6QyviGrdOg9yZKkwcIDXNxg3Qzwmku53O-TBShV8.&#39;" style="display:none;" onblur="if (this.value.length &gt; 0) {return;} else { togglePwdBox(this,&#39;passwd_alt6188424&#39;, false);}"><input type="text" id="passwd_alt6188424" name="passwd_alt" class="passwd passwd_alt6188424" size="10" onfocus="togglePwdBox(this,&#39;passwd6188424&#39;, true)" onclick="togglePwdBox(this,&#39;passwd6188424&#39;, true)" readonly="readonly">
+            </span>
+            <span class="comment_blog">
+                <label for="cmt_blog">블로그</label>
+                <input type="text" id="homepage" name="homepage" class="blog" value="http://" size="20">
+            </span>
+            <span class="comment_login">
+                <a href="http://sec.egloos.com/login.php?returnurl=http://jamba7.egloos.com/6188424#cmt" title="로그인">로그인</a>
+            </span>
+        </div>
+       <textarea id="comment" name="comment" class="comment_field" title="덧글 입력 영역" rows="5" cols="50"></textarea>
+       <div class="comment_btn f_clear">
+           <input type="checkbox" id="no_open" name="security"> <label for="no_open">비공개</label>
+           <input type="image" value="댓글등록" src="https://raw.githubusercontent.com/choisiyi/gabera/master/btn_comment.gif" class="comment_submit">
+       </div>
+   </form>
+   <form id="replyform6188424" name="replyform6188424" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_comment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6188424">
+       <input type="hidden" name="tid" value="GZf6QyviGrdOg9yZKkwcIDXNxg3Qzwmku53O-TBShV8.">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="replyform_page" value="1">
+   </form>
+   <form id="editform6188424" name="editform6188424" target="cmtviewfrm" action="http://jamba7.egloos.com/exec/egloo_editcomment_exec.php" method="post" style="margin:0px;">
+       <input type="hidden" name="eid" value="c0028272">
+       <input type="hidden" name="srl" value="6188424">
+       <input type="hidden" name="tid" value="GZf6QyviGrdOg9yZKkwcIDXNxg3Qzwmku53O-TBShV8.">
+       <input type="hidden" name="subject" value="[마기레코] 마법소녀 스토리 카나메 마도카 2화 카미하마 시에서 생긴 친구">
+       <input type="hidden" name="cmtsrl" value="">
+       <input type="hidden" name="writer" value="">
+       <input type="hidden" name="name" value="">
+       <input type="hidden" name="homepage" value="">
+       <input type="hidden" name="passwd" value="">
+       <input type="checkbox" name="security" value="" style="display:none;">
+       <input type="hidden" name="comment" value="">
+       <input type="hidden" name="ismenu" value="0">
+       <input type="hidden" name="ismain" value="">
+       <input type="hidden" name="xhtml" value="">
+       <input type="hidden" name="adview" value="">
+       <input type="hidden" name="page" id="editform_page" value="1">
+   </form>
+   </fieldset>
+</div>  
+          </div>
+          </div> 
+              
+              
+              
+              
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <div class="post_navi">
+            
+            <div class="prev"><a href="https://gabera-egloos-backup.blogspot.com/6188446.html"><span class="txt">다음글 : </span>여윽시 갓겜이다</a></div><div class="next"><a href="https://gabera-egloos-backup.blogspot.com/6187066.html"><span class="txt">이전글 : </span>[마기레코] 마법소녀 스토리 카나메 마도카 1화 고독한 마법소녀</a></div> 
+          </div>
+          
+        </div>
+        <hr class="line">
+        
+        <div id="section_widemenu2" class="widemenu"></div>
+        <hr class="line">
+      </div>
+      
+      <div id="section_sidebar1" class="column">
+        <div class="widget menu_profile">
+          
+          <h3>프로필</h3>
+          <div class="widget_content">
+            <div class="profile_image">
+              <a href="javascript:void(0);" onclick="Control.Modal.openDialog(this, event, &#39;http://pds27.egloos.com/logo/201304/23/72/c0028272.gif&#39;);"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/c0028272.gif" width="150" height="150" border="0" alt=""></a>
+            </div>
+            <div class="profile_desc">
+              10주년.<span class="profile_usernick fn"><span class="by">by</span> 가베라</span>
+            </div>
+            <div class="profile_prize">
+               <a href="http://valley.egloos.com/event/award/2011/announce.php" title="2011 이글루스 TOP 100"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2011.gif" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2011 이글루스 TOP 100"></a> <a href="http://valley.egloos.com/event/award/2013/announce.php" title="2013 대표 이글루"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/top100_2013.png" width="15" height="15" border="0" style="vertical-align: text-bottom;" alt="2013 대표 이글루"></a>
+            </div>
+            <div class="bg_profile"></div>
+          </div>
+        </div>
+        <div class="widget menu_category">
+          
+          <h3>카테고리</h3>
+          <ul class="widget_content">
+            <li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/">전체</a><span class="count">(1492)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%8A%A4%ED%8C%85">일반적인 포스팅</a><span class="count">(84)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4">마법소녀 마도카☆마기카</a><span class="count">(1246)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B8%B0%ED%83%80%20%EB%93%B1%EB%93%B1%20">기타 등등 </a><span class="count">(132)</span>
+            </li><li class=""><a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%B6%84%EB%A5%98">미분류</a><span class="count">(30)</span>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_search">
+          
+          <h3>검색</h3>
+          <div class="widget_content f_clear">
+            <fieldset>
+  <legend>블로그내 검색 영역</legend>
+   <form action="http://jamba7.egloos.com/" method="post" onsubmit="return go_search(this);">
+    <input type="hidden" name="type" id="type" value="search">
+    <input name="srch_kwd" id="srch_kwd_2" type="text" class="input_search" value="" size="10" title="검색입력영역" maxlength="30">
+    <input type="submit" class="submit" value="">
+  </form>
+</fieldset>
+<p style="margin-top:3px;text-align:left"><a href="http://zum.com/" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/txt_power_161028.png"></a></p>
+          </div>
+        </div>
+        <div class="widget menu_tagcloud">
+          
+          <h3>태그</h3>
+          <div class="widget_content">
+            <a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EA%B8%B0%EB%A0%88%EC%BD%94" rel="tag" class="tag_level_3">마기레코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A6%8C%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80" rel="tag" class="tag_level_3">즌다고로케</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%B9%B4%EB%82%98%EB%A9%94%EB%A7%88%EB%8F%84%EC%B9%B4" rel="tag" class="tag_level_3">카나메마도카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%EB%A7%88%EB%8F%84%EC%B9%B4%EB%A7%88%EA%B8%B0%EC%B9%B4" rel="tag" class="tag_level_3">마법소녀마도카마기카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C" rel="tag" class="tag_level_1">배틀그라운드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9D%B4%EC%B9%98%EB%B0%A9%EC%BF%A0%EC%A7%80" rel="tag" class="tag_level_1">이치방쿠지</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EB%AF%B8%EB%A0%88%EB%82%98" rel="tag" class="tag_level_1">미나미레나</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%AA%A8%EC%97%90%EB%A7%88%EB%AF%B8" rel="tag" class="tag_level_3">토모에마미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/PPAP" rel="tag" class="tag_level_1">PPAP</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%A2%86%EB%A7%9D%EA%B2%9C" rel="tag" class="tag_level_2">좆망겜</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A6%AC%EC%84%B8%EB%A7%88%EB%9D%BC" rel="tag" class="tag_level_1">리세마라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%83%80%EB%A7%88%ED%82%A4%EC%9D%B4%EB%A1%9C%ED%95%98" rel="tag" class="tag_level_2">타마키이로하</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%98%B8%EC%A6%88%EB%AF%B8%EC%8B%9C%EC%A6%88%EC%BF%A0" rel="tag" class="tag_level_1">호즈미시즈쿠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EB%93%9C%ED%95%98%EC%9B%8C%EB%93%9C" rel="tag" class="tag_level_1">토드하워드</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%98%A4%ED%82%A4%EC%9A%B0%EB%A9%94" rel="tag" class="tag_level_3">아오키우메</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%84%EC%BC%80%EB%AF%B8%ED%98%B8%EB%AC%B4%EB%9D%BC" rel="tag" class="tag_level_3">아케미호무라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%82%98%EB%AF%B8%EC%95%BC%EC%B9%98%EC%9A%94" rel="tag" class="tag_level_2">나나미야치요</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%ED%82%A4%EC%82%AC%EC%95%BC%EC%B9%B4" rel="tag" class="tag_level_3">미키사야카</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%9B%83%EC%9D%8C%EB%B2%A8" rel="tag" class="tag_level_1">웃음벨</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%95%A0%EB%8B%88%ED%94%8C%EB%A0%89%EC%8A%A4" rel="tag" class="tag_level_1">애니플렉스</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%BF%84%EC%BD%94" rel="tag" class="tag_level_3">사쿠라쿄코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EC%B8%A0%EB%A9%94%EC%B9%B4%EC%BD%94" rel="tag" class="tag_level_1">나츠메카코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%83%A4%ED%94%84%ED%8A%B8" rel="tag" class="tag_level_3">샤프트</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EA%B1%B4%EB%8B%B4" rel="tag" class="tag_level_3">건담</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%ED%86%A0%EA%B0%80%EB%A9%94%EB%AA%A8%EB%AA%A8%EC%BD%94" rel="tag" class="tag_level_1">토가메모모코</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%9C%EC%A6%88%ED%82%A4%ED%9E%88%ED%86%A0%EB%AF%B8" rel="tag" class="tag_level_3">시즈키히토미</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%AF%B8%EB%82%98%EA%B8%B0%EC%82%AC%EC%82%AC%EB%9D%BC" rel="tag" class="tag_level_1">미나기사사라</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EC%8B%A0%ED%8F%AC%EB%8F%84" rel="tag" class="tag_level_1">신포도</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%82%98%EB%A7%88%EC%B1%A0" rel="tag" class="tag_level_3">나마챠</a>
+<a href="https://gabera-egloos-backup.blogspot.com/search/label/%EB%A7%89%EA%B3%BC%EC%9E%90" rel="tag" class="tag_level_1">막과자</a>
+
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/tag">태그 전체보기</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_archive" id="widget_menu_archive">
+          
+          <h3>이전글 목록</h3>
+          <div class="widget_content">
+            <ul>
+              <li><a href="http://jamba7.egloos.com/archives/2021/04">2021년 04월</a><span class="count">(3)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/03">2020년 03월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/02">2020년 02월</a><span class="count">(2)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2020/01">2020년 01월</a><span class="count">(1)</span>
+              </li><li><a href="http://jamba7.egloos.com/archives/2017/12">2017년 12월</a><span class="count">(3)</span>
+              </li>
+            </ul>
+            <div class="allview">
+              <a href="http://jamba7.egloos.com/archives">more...</a>
+            </div>
+          </div>
+        </div>
+        <div class="widget menu_comment" id="widget_menu_comment">
+          
+          <h3>최근 덧글</h3>
+          <div class="widget_content">
+            <ul>
+              <li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773307.html">이글루스가 섭종한다는 말을 듣고 제일 먼저 떠올라서 찾아와봤습니..</a></span><em class="fn">by ㅇㅇ</em> <em class="date">3/15</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5767031.html">좋은 게시물, 더 기다리고 있습니다</a></span><em class="fn">by okna kielce opinie</em> <em class="date">9/18</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5682994.html">콘텐츠를 읽는 즐거움</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">아주 잘 쓴 게시물</a></span><em class="fn">by agencja copywritersk</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5734875.html">더 멋진 게시물을 기다리고 있습니다</a></span><em class="fn">by tabletki na penisa</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5771196.html">잘했어 여기로 돌아가고 싶어</a></span><em class="fn">by czym powiekszyc peni</em> <em class="date">9/16</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5588142.html">흥미롭고 가치 있는 콘텐츠가 많다</a></span><em class="fn">by manclinic</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5727885.html">좋습니다. 더 자주 확인하겠습니다</a></span><em class="fn">by 남자 성기 커지는 법</em> <em class="date">9/7</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/5691431.html">요점까지 잘 썼습니다</a></span><em class="fn">by hejo-tv.pl</em> <em class="date">9/6</em>
+              </li><li>
+                <span class="desc"><a href="https://gabera-egloos-backup.blogspot.com/6773221.html">아아... 이건 '마마마 신작'이란 거다.</a></span><em class="fn">by 익명</em> <em class="date">4/4</em>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="widget menu_lifelog">
+          
+          <h3>라이프로그</h3>
+          <ul class="widget_content">
+            <li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank" title="피날레"><img alt="피날레" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931403658&amp;partner=egloos" target="_blank">피날레</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank" title="나는 이제 두렵지 않습니다"><img alt="나는 이제 두렵지 않습니다" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8996159298_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8996159298&amp;partner=egloos" target="_blank">나는 이제 두렵지 않습니다</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank" title="마밍"><img alt="마밍" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/noimg_off_b.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=5000045806&amp;partner=egloos" target="_blank">마밍</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank" title="마밍가족 이야기"><img alt="마밍가족 이야기" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/9788986692303.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8986692309&amp;partner=egloos" target="_blank">마밍가족 이야기</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank" title="골목대장 마밍자 1 : 초등학생이 된 마밍자"><img alt="골목대장 마밍자 1 : 초등학생이 된 마밍자" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8959760595_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8959760595&amp;partner=egloos" target="_blank">골목대장 마밍자 1 : 초등학생이 된 마밍자</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank" title="돈 크라이 마미"><img alt="돈 크라이 마미" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8980500300_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8980500300&amp;partner=egloos" target="_blank">돈 크라이 마미</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank" title="마미 누나"><img alt="마미 누나" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8955520271_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955520271&amp;partner=egloos" target="_blank">마미 누나</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank" title="어린이 성폭력.유괴.납치 해결사 마미캅"><img alt="어린이 성폭력.유괴.납치 해결사 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971243341_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971243341&amp;partner=egloos" target="_blank">어린이 성폭력.유괴.납치 해결사 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank" title="출동 마미캅"><img alt="출동 마미캅" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8971240989_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971240989&amp;partner=egloos" target="_blank">출동 마미캅</a></span>
+              </div>
+            </li><li>
+              <div class="lifelog_thumb">
+                <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank" title="마미! 크고 넓은 세상을 보여주세요"><img alt="마미! 크고 넓은 세상을 보여주세요" class="photo" src="https://raw.githubusercontent.com/choisiyi/gabera/master/8989938783_1.jpg"></a>
+              </div>
+              <div class="lifelog_desc">
+                <span class="lifelog_tit"><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8989938783&amp;partner=egloos" target="_blank">마미! 크고 넓은 세상을 보여주세요</a></span>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="widget menu_rss">
+          
+          <h3>RSS</h3>
+          <div class="widget_content">
+            <a href="http://rss.egloos.com/blog/jamba7" target="_blank"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/rss_practika_64.png" alt="RSS"></a>
+          </div>
+        </div>
+        <div id="sidebar1_blank" class="blank"></div>
+      </div>
+      <hr class="line">
+    </div>
+    <hr class="line">
+    
+    <div class="footer f_clear">
+      <div class="license">
+        <span class="copyright"><a href="https://gabera-egloos-backup.blogspot.com/" title="powered by egloos.com">jamba7.egloos.com</a> is powered by <a href="http://www.egloos.com/" target="_blank">Egloos</a>.</span> <span class="rss">Subscribe to <a href="http://rss.egloos.com/blog/jamba7" target="_blank" title="RSS">RSS</a>.</span>
+        <span class="skinby">Skin designed by <a href="https://gabera-egloos-backup.blogspot.com/" target="_blank">가베라</a>.</span>
+      </div>
+    </div>
+  </div>
+</div><iframe src="https://raw.githubusercontent.com/choisiyi/gabera/master/send.html" style="width: 0px; height: 0px; border: 0px solid #fff;"></iframe>
+<img width="0" height="0" border="0" src="https://raw.githubusercontent.com/choisiyi/gabera/master/egloo_pds.php" alt="" style="display:none;">
+<form id="trackfrom" name="trackfrom" method="post" action="http://jamba7.egloos.com/6188424">
+<input type="hidden" name="url" value="">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="trburl" value="">
+</form>
+<div style="z-index:9901;top:764px;left:169px;display:none;" id="egloo_bookmark" class="popupWrap">
+    <div class="popupTitle">이글루링크 추가하기</div>
+    <dl class="popupBody">
+        <dt class="no-arrow" style="background:none;font-size:12px;text-align:center;">
+            <span id="egloo-bookmark-url" style="color:#0F71A1;"></span>
+            (<span id="egloo-bookmark-name"></span>)을(를)</dt>
+        <dd class="notice" style="margin:0;padding:0 0 0 8px;line-height:1.8em;color:#000;font-size:12px;text-align:center;">이글루링크로 추가하시겠습니까? 추가하시려면 그룹선택을 하세요.</dd>
+        <dd class="notice weak" style="margin:0;padding:0 0 0 8px;line-height:1.8em;font-size:11px;color:#666666;text-align:center;">(그룹선택 하지 않는 경우, 최상단 목록에 추가됩니다.)</dd>
+        <dd class="egloo-bookmark-group" style="margin:0;padding:10px 0 8px;line-height:1.8em;text-align:center;color:#333;font-size:12px;text-align:center;">그룹선택 :
+            <select name="groupID" id="egloo-bookmark-groupID" style="font-family:&#39;돋움&#39;,&#39;dotum&#39;,&#39;Trebuchet MS&#39;,Sans-serif;margin-left:10px;"><option value="000">그룹선택없음</option></select></dd>
+        <dd class="buttons">
+            <input type="button" value="지금 확인" onfocus="blur();" onclick="Modal.insertBookmark(true);" class="button btn24 btn_bold">
+            <input type="button" value="나중에 확인" onfocus="blur();" onclick="Modal.insertBookmark(false);" class="button btn24 btn_weak">
+        </dd>
+        <dd class="close" onclick="Modal.close();"><img src="https://raw.githubusercontent.com/choisiyi/gabera/master/button_popup_close.gif" alt="이글루링크 취소" title="이글루링크 취소"></dd>
+    </dl>
+</div>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,"script","https://connect.facebook.net/en_US/fbevents.js");
+
+    fbq("init", "654342331381106");
+    fbq("track", "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=654342331381106&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+    (function() {
+      var at = document.createElement("script");
+      at.type = "text/javascript";
+      at.async = true;
+      at.src = "//estat.zum.com/scripts/at.js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(at, s);
+    })();
+	function sendGnbClick(cm) {
+		var obj = event.currentTarget || event.srcElement;
+		var estatData = {
+			"cm":cm,
+			"pos":"egloos_gnb",
+			"url": document.location.href,
+			"referrer":document.referrer
+		};
+		if(cm != "more") {
+			estatData['outurl'] = obj.href;
+		}
+		ESTatTracker.push(["@Click", estatData]);    
+	}
+</script>
+
+
+<div id="modal_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 9990; display: none;"></div><div id="modal_container" style="display: none;"></div><div id="modal_loading" style="display: none;"></div><div id="modal_overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 9900; opacity: 0.3; background-color: rgb(0, 0, 0); height: 22980px; width: 100%;"></div></body></html>
